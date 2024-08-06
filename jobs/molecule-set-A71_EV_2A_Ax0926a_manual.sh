@@ -2,7 +2,7 @@
 
 #SBATCH --job-name=Ax0926a_manual
 #SBATCH --chdir=/opt/xchem-fragalysis-2/kfieseler
-#SBATCH --syndirella_output=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
+#SBATCH --output=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
 #SBATCH --error=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
 # gpu partition is `gpu`
 #SBATCH --partition=main
@@ -47,7 +47,7 @@ conda activate syndirella
 conda info
 # -------------------------------------------------------
 
-cd $HOME2/EV-A71-2A-syndirella-run-2/syndirella_output
+cd $HOME2/syndirella
 pwd;
 
 export INPUT="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/syndirella_input/molecule-set-A71_EV_2A_Ax0926a_manual.csv";
