@@ -1,0 +1,2 @@
+﻿smiles,reactants,reaction_names,num_steps,hits,template,compound_set
+COCC(=O)N1CCC[C@H](C(N)=O)C1 |a:9|,"[('NC(=O)C1CCCNC1', 'COCC(=O)O')]",['Amidation'],1,A71EV2A-x0926_A_250_1_A71EV2A-x0526+A+147+1,Ax0926a,exact_hits_aug_2024

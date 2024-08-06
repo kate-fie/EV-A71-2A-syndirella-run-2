@@ -1,0 +1,4 @@
+smiles,hits,template,compound_set
+Cn1cc(NC(=O)CC#N)c(C(F)F)n1,A71EV2A-x1431_B_201_1_A71EV2A-x0526+A+147+1,Ax1431a,exact_hits_aug_2024
+Cc1nn(C)c(C)c1CC(=O)N[C@@H](CNC(=O)CCl)c1ccc2ccccc2c1 |a:12|,A71EV2A-x1346_A_250_1_A71EV2A-x0526+A+147+1,Ax1346a,exact_hits_aug_2024
+COc1cc(NC(=O)C[C@@H](C)C(F)(F)F)n(C)n1 |a:9|,A71EV2A-x1445_B_201_1_A71EV2A-x0526+A+147+1,Ax1445a,exact_hits_aug_2024

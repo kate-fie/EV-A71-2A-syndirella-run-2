@@ -10,7 +10,8 @@ The following compound sets will be elaborated:
 | Ryan              | Various fragment analogues designed manually                             | 24                  |
 | Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 36                  |
 | Warren (Kate)     | Covalent hits as themselves and their non-covalent analogues             | 8                   |
-| Kate              | `x1346a x0926 x1431a x1445a` fragments                                   | 4                   |
+| Kate              | `x1346a x1431a x1445a` fragments                                         | 3                   |
+| Kate              | `x0926` fragment w/ manual amidation route                               | 1                   |
 |                   |                                                                          | Total: 110          |
 
 Compound sets are found in the `syndirella_input` folder.
