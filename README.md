@@ -5,13 +5,13 @@
 The following compound sets will be elaborated:
 
 | Creator | Description                                                              | Number of compounds |
-| ------- |--------------------------------------------------------------------------| ------------------- |
-| Kate | `x1346` analogues designed manually                                      | 38 |
-| Ryan | Various fragment analogues designed manually                             | 24 |
-| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 36 |
-| Warren (Kate) | Covalent hits as themselves and their non-covalent analogues             | 8 |
-| Kate | `x1346 x0926` fragments                                                  | 2 |
-Total: 108
+| ------- |--------------------------------------------------------------------------|------------|
+| Kate | `x1346` analogues designed manually                                      | 38         |
+| Ryan | Various fragment analogues designed manually                             | 24         |
+| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 36         |
+| Warren (Kate) | Covalent hits as themselves and their non-covalent analogues             | 8          |
+| Kate | `x1346 x0926` fragments                                                  | 2          |
+| | | Total: 108 |
 
 Compound sets are found in the `syndirella_input` folder.
 
