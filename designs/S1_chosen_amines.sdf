@@ -1,0 +1,1961 @@
+EN300-67367
+     RDKit          3D
+
+ 16 16  0  0  0  0  0  0  0  0999 V2000
+   10.1860   12.5510   23.0790 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2090   11.8820   23.8380 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3130   12.6460   24.7190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3070   12.1380   25.5290 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2250   10.7870   25.4220 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0110   10.0170   24.6330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0130   10.5160   23.8270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7800    9.4770   23.0110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2000   13.5590   23.2050 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2700   12.2840   22.0880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4440   13.7240   24.7490 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6020   12.6010   26.2030 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7820    8.9650   24.6860 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5810    8.9970   23.5780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1010    8.6980   22.6660 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2120    9.9280   22.1150 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  2  1  0
+  1  9  1  0
+  1 10  1  0
+  3 11  1  0
+  4 12  1  0
+  6 13  1  0
+  8 14  1  0
+  8 15  1  0
+  8 16  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x305af1150>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x305af0510>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x305af1150>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x305af1150>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x305af0510>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x305af0510>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x305af0510>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x305af1150>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x305af1150>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x305af0510>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x305af1150>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x305af0510>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x305af1150>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x305af0510>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x305af1150>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x305af0510>
+M  END
+$$$$
+EN300-1253233
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+    9.5860    9.4820   23.2100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6820   10.2210   24.1190 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6320   11.5490   24.4040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5780   12.2860   23.7350 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6350   11.7330   25.2820 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2170   12.9240   25.8490 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0500   12.8770   26.8360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4830   11.4710   27.0660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9840   10.3320   26.4360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0590   10.5220   25.5550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6970    9.5970   24.8440 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0360   10.1660   22.4850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0370    8.7300   22.6470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3910    8.9910   23.7540 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2690   13.0490   23.1380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4180   11.8430   23.3720 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7300   13.8340   25.5740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6420   13.7420   27.3400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6450   11.4480   27.7730 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5730    9.3350   26.6040 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  3  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  5 10  1  0
+ 10 11  2  0
+ 11  2  1  0
+ 10  9  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  4 15  1  0
+  4 16  1  0
+  6 17  1  0
+  7 18  1  0
+  8 19  1  0
+  9 20  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x307020270>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x307020200>
+M  END
+$$$$
+EN300-14984
+     RDKit          3D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    5.9450   10.2640   26.6040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0620   10.5830   25.6890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6740   11.7840   25.4180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6400   11.4830   24.5080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4290   12.5120   24.0550 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6670   10.2040   24.1960 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5030    9.5280   23.3100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6860    9.5790   24.9160 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3080   11.1410   26.7580 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3230    9.9410   27.5770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210    9.4640   26.1930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5210   12.7930   25.7770 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3180   12.3000   23.6000 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0200   13.3630   23.7050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9280    8.7770   22.7890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9430   10.2270   22.5960 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3140    9.0420   23.8480 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  4  6  1  0
+  6  7  1  0
+  6  8  1  0
+  8  2  2  0
+  1  9  1  0
+  1 10  1  0
+  1 11  1  0
+  3 12  1  0
+  5 13  1  0
+  5 14  1  0
+  7 15  1  0
+  7 16  1  0
+  7 17  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x305e497e0>
+M  END
+$$$$
+EN300-25403
+     RDKit          3D
+
+ 24 24  0  0  0  0  0  0  0  0999 V2000
+    5.9010   10.0740   26.6790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0090   10.4210   25.7650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6230    9.5430   24.9140 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5550   10.2780   24.2910 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3280    9.6930   23.3980 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5570   11.6020   24.7040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5560   12.5590   24.0740 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5570   11.7220   25.6820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0680   12.8550   26.5310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8250   14.2180   25.9800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2030   15.2450   26.5330 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1340   14.2420   24.8240 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2940   10.9600   26.9060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2460    9.3300   26.2240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2860    9.6760   27.6220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8640    8.8880   22.8560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1940    9.2560   23.9060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6660   10.4540   22.7090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0610   13.2970   24.6890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0520   13.0970   23.2670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3500   11.9850   23.5890 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1150   12.5480   26.9670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7440   12.9950   27.3780 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7000   15.1190   24.8330 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  4  6  1  0
+  6  7  1  0
+  6  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+  8  2  1  0
+  1 13  1  0
+  1 14  1  0
+  1 15  1  0
+  5 16  1  0
+  5 17  1  0
+  5 18  1  0
+  7 19  1  0
+  7 20  1  0
+  7 21  1  0
+  9 22  1  0
+  9 23  1  0
+ 12 24  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A   21
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A   22
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+A   23
+<rdkit.Chem.rdchem.Atom object at 0x307022960>
+A   24
+<rdkit.Chem.rdchem.Atom object at 0x307020dd0>
+M  END
+$$$$
+Z1584103330
+     RDKit          3D
+
+ 32 33  0  0  0  0  0  0  0  0999 V2000
+    6.0900   10.4450   29.2420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0380   11.7290   28.5710 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9050   11.6140   27.1220 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4160   10.3830   26.8590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1920    9.7490   25.9820 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2590   10.2380   25.2440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9580    9.3410   24.5400 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9070   10.0500   23.9130 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8300    9.3680   23.0440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8590   11.3380   24.1830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9810   12.7270   23.5420 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    7.7870   11.5170   25.0560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    4.4140    9.9530   27.4160 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8110   12.8140   28.9000 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5550   12.7660   30.1660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8560   11.4340   30.5800 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7360   10.5710   30.6180 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.6580    9.7480   28.6270 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0710   10.0590   29.3620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3630   12.4740   26.7450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9000   11.7060   26.6880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2100    8.7540   26.0050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3020    8.5800   22.5330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1950   10.0630   22.2990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6550    8.9720   23.6320 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4810   12.4900   25.4630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1800   13.7080   28.9360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5410   12.9730   28.0960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9760   13.2470   30.9650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5080   13.3010   30.0660 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0190   11.0040   31.3260 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0360    9.5900   31.0080 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  8 10  1  0
+ 10 11  1  0
+ 10 12  2  0
+  4 13  2  0
+  2 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 12  6  1  0
+ 17  1  1  0
+  1 18  1  0
+  1 19  1  0
+  3 20  1  0
+  3 21  1  0
+  5 22  1  0
+  9 23  1  0
+  9 24  1  0
+  9 25  1  0
+ 12 26  1  0
+ 14 27  1  0
+ 14 28  1  0
+ 15 29  1  0
+ 15 30  1  0
+ 17 31  1  0
+ 17 32  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   21
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   22
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   23
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   24
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   25
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   26
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   27
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   28
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   29
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   30
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   31
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   32
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+M  END
+$$$$
+Z2912141468
+     RDKit          3D
+
+ 41 42  0  0  0  0  0  0  0  0999 V2000
+    6.0030   10.3120   26.6650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1180   10.5360   25.7230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6290    9.5640   24.9050 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6150   10.1780   24.2280 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3160    9.4890   23.3540 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7490   11.5040   24.5690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8070   12.3560   23.8880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8070   11.7770   25.5500 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5880   13.0680   26.2630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3960   13.8700   26.0130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4130   15.0010   26.5090 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3330   13.4580   25.3090 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5000   14.3300   24.6650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2730   15.4430   24.1080 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8700   15.1770   22.8490 O   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3830   14.6610   25.5970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    2.7620   13.5950   26.2230 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.6960   13.8010   27.0730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.2800   15.0970   27.2790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    1.8620   16.1680   26.7070 N   0  0  0  0  0  0  0  0  0  0  0  0
+    2.9050   15.9240   25.8840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4110   11.2220   26.7920 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3420    9.5250   26.2930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3820   10.0100   27.6460 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1700    8.9680   23.7600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7140   10.1810   22.6010 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6490    8.7880   22.8880 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6290   12.7630   24.4670 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3070   13.1940   23.3990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2710   11.7830   23.0800 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4230   13.7350   26.0280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6150   12.8990   27.3450 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3560   12.5430   24.8830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.0250   13.8120   23.8360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0270   15.6970   24.8340 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6180   16.2890   24.0380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7980   16.0280   22.3750 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.1110   12.5970   26.0430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    1.1980   12.9670   27.5620 H   0  0  0  0  0  0  0  0  0  0  0  0
+    0.4440   15.3180   27.9330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    3.3420   16.8200   25.4530 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  4  6  1  0
+  6  7  1  0
+  6  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 13 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+  8  2  1  0
+ 21 16  1  0
+  1 22  1  0
+  1 23  1  0
+  1 24  1  0
+  5 25  1  0
+  5 26  1  0
+  5 27  1  0
+  7 28  1  0
+  7 29  1  0
+  7 30  1  0
+  9 31  1  0
+  9 32  1  0
+ 12 33  1  0
+ 13 34  1  0
+ 14 35  1  0
+ 14 36  1  0
+ 15 37  1  0
+ 17 38  1  0
+ 18 39  1  0
+ 19 40  1  0
+ 21 41  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   21
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   22
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   23
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   24
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   25
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   26
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   27
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   28
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   29
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   30
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   31
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   32
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   33
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   34
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   35
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   36
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   37
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   38
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   39
+<rdkit.Chem.rdchem.Atom object at 0x308b93530>
+A   40
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+A   41
+<rdkit.Chem.rdchem.Atom object at 0x308b936f0>
+M  END
+$$$$
+MCULE-9265204962
+     RDKit          3D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+    9.7130    9.6400   23.1270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8510   10.4750   23.9870 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8950    9.8320   24.7540 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2040   10.6910   25.4700 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3060   12.0270   25.5380 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2280   12.6140   24.7860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0450   11.8630   23.9750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0550   12.6700   23.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0130   13.3590   24.0140 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1500    8.8040   22.7080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5510    9.2270   23.6950 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1030   10.2240   22.2950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4240   10.3140   26.1170 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2740   13.6920   24.8690 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6010   12.0300   22.4860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5320   13.4140   22.5600 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9270   12.9260   23.9010 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0310   14.3470   23.7740 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  7  2  1  0
+  1 10  1  0
+  1 11  1  0
+  1 12  1  0
+  4 13  1  0
+  6 14  1  0
+  8 15  1  0
+  8 16  1  0
+  9 17  1  0
+  9 18  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x308948c80>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x308948ba0>
+M  END
+$$$$
+EN300-221558
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+    9.7530    9.5740   23.0900 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9240   10.4630   23.9210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9250    9.8670   24.6790 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2590   10.7570   25.3690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4210   12.0830   25.4190 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3840   12.6190   24.6790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2020   11.8380   23.8810 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2190   12.4290   23.1140 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5810    9.1470   23.6600 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1520    8.7500   22.6990 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1610   10.1200   22.2380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4520   10.4230   26.0040 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.4710   13.6910   24.7560 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2490   12.2050   22.1100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3850   13.4160   23.3000 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  2  1  0
+  1  9  1  0
+  1 10  1  0
+  1 11  1  0
+  4 12  1  0
+  6 13  1  0
+  8 14  1  0
+  8 15  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x308b91af0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x308b91a10>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x308b91af0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x308b91af0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x308b91a10>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x308b91a10>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x308b91a10>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x308b91af0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x308b91af0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x308b91a10>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x308b91af0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x308b91a10>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x308b91af0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x308b91a10>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x308b91af0>
+M  END
+$$$$
+EN300-81773
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   10.0820   12.5270   23.2510 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0680   11.9250   24.0100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.1820   12.7430   24.8410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1470   12.2870   25.6420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0290   10.9410   25.5760 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8070   10.1330   24.8300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8340   10.5670   24.0330 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8410    9.3210   23.0370 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    9.7620   13.1560   22.5190 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8050   11.8890   22.9330 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3410   13.8130   24.8420 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4450   12.7920   26.2860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5510    9.0960   24.9100 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  2  1  0
+  1  9  1  0
+  1 10  1  0
+  3 11  1  0
+  4 12  1  0
+  6 13  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x308b92ff0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x308b92a40>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x308b92ff0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x308b92ff0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x308b92a40>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x308b92a40>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x308b92a40>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x308b92ff0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x308b92ff0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x308b92a40>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x308b92ff0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x308b92a40>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x308b92ff0>
+M  END
+$$$$
+EN300-05222
+     RDKit          3D
+
+ 13 13  0  0  0  0  0  0  0  0999 V2000
+   10.1460   12.4670   23.2310 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1370   11.8440   23.9680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2390   12.6390   24.8120 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2000   12.1660   25.5970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0940   10.8220   25.5000 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8860   10.0310   24.7410 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9180   10.4800   23.9590 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8360    9.3590   23.0480 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    9.8180   13.1070   22.5170 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8670   11.8340   22.8980 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3930   13.7070   24.8360 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4880   12.6490   26.2480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6370    8.9910   24.7950 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  2  1  0
+  1  9  1  0
+  1 10  1  0
+  3 11  1  0
+  4 12  1  0
+  6 13  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x308b92180>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x308b90900>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x308b92180>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x308b92180>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x308b90900>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x308b90900>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x308b90900>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x308b92180>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x308b92180>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x308b90900>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x308b92180>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x308b90900>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x308b92180>
+M  END
+$$$$
+EN300-754534
+     RDKit          3D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+    9.6260    9.5310   23.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6530   10.1310   24.1060 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7020    9.5350   24.8860 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1570   10.5660   25.4970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0990   10.3940   26.4300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5540   11.6570   27.0680 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1890   12.9690   26.6470 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2230   12.9330   25.7100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6310   11.8040   25.2140 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6240   11.6330   24.2960 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5600   12.5190   23.5430 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4180   13.2840   24.4260 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1650    8.7430   22.5760 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4730    9.0980   23.7080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0020   10.2850   22.4770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7030    9.4160   26.6710 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7370   11.6420   27.7990 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7980   13.8820   27.1020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7080   13.8440   25.3740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9910   13.2070   22.9080 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1970   11.9430   22.8620 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3540   12.8820   24.4090 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5060   14.2350   24.0690 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 10  2  2  0
+  9  4  1  0
+  1 13  1  0
+  1 14  1  0
+  1 15  1  0
+  5 16  1  0
+  6 17  1  0
+  7 18  1  0
+  8 19  1  0
+ 11 20  1  0
+ 11 21  1  0
+ 12 22  1  0
+ 12 23  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A   21
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+A   22
+<rdkit.Chem.rdchem.Atom object at 0x306b70eb0>
+A   23
+<rdkit.Chem.rdchem.Atom object at 0x306b70dd0>
+M  END
+$$$$
+MCULE-1196506336
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+    9.4740   12.5560   23.8790 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6650   11.5220   24.3770 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6320   11.7090   25.2840 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0610   10.5240   25.5560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9940   10.3290   26.4310 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5550   11.4930   27.0130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0760   12.7450   26.7910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1360   12.8440   25.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6920    9.5820   24.8470 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6810   10.1720   24.1160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6080    9.4600   23.1920 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3530   12.2310   23.4840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9940   13.1900   23.2530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7150   11.4490   27.7220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6660   13.6160   27.2930 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5320   13.8550   25.7510 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0990   10.0720   22.4540 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4280    8.9430   23.6680 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1560    8.6950   22.5800 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  4  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 10  2  2  0
+  8  3  1  0
+  1 12  1  0
+  1 13  1  0
+  6 14  1  0
+  7 15  1  0
+  8 16  1  0
+ 11 17  1  0
+ 11 18  1  0
+ 11 19  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x3067ef1b0>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x3067ee650>
+M  END
+$$$$
+CSCS00009962897
+     RDKit          3D
+
+ 17 18  0  0  0  0  0  0  0  0999 V2000
+    9.5450   12.5640   23.8600 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6550   11.6410   24.4270 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6320   10.2210   24.1880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6870    9.3740   23.1630 Cl  0  0  0  0  0  0  0  0  0  0  0  0
+    7.6610    9.5870   24.8780 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0710   10.5680   25.5510 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9880   10.4050   26.4280 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4240   11.6300   27.1200 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0650   12.8460   26.8030 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1520   12.9090   25.9070 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6100   11.8180   25.3270 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1080   13.2070   23.2100 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3810   12.1470   23.4630 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5840    9.4150   26.5870 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.5910   11.5970   27.8120 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6890   13.7490   27.2770 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6450   13.8380   25.6630 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  3  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11  2  1  0
+ 11  6  1  0
+  1 12  1  0
+  1 13  1  0
+  7 14  1  0
+  8 15  1  0
+  9 16  1  0
+ 10 17  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x306188c80>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x306188c80>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x306188c80>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x306188c80>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x306188c80>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x306188c80>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x3061899a0>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x306188c80>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x306188c80>
+M  END
+$$$$
+EN300-27778965
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+    9.6000    9.4570   23.1990 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6930   10.1470   24.0970 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7550    9.4580   24.7960 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0630   10.3630   25.5360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9980   10.2230   26.4300 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4880   11.3960   27.0560 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1130   12.7530   26.7310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1730   12.8270   25.8310 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6040   11.6480   25.2750 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6330   11.4920   24.3660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4770   12.3820   23.7870 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0450    8.7070   22.6360 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3950    8.9650   23.7550 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0370   10.1630   22.4860 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.5000    9.3040   26.7100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6630   11.3210   27.7540 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7530   13.6690   27.1850 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5800   13.8260   25.6370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3930   12.0510   23.4760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1290   13.1120   23.1780 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 10  2  1  0
+  9  4  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  5 15  1  0
+  6 16  1  0
+  7 17  1  0
+  8 18  1  0
+ 11 19  1  0
+ 11 20  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x305e49770>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x305e492a0>
+M  END
+$$$$
+EN300-204033
+     RDKit          3D
+
+ 20 20  0  0  0  0  0  0  0  0999 V2000
+    6.0460   10.3120   26.6430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1150   10.6180   25.6670 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6480   11.8280   25.2800 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5960   11.5150   24.3430 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4600   12.5300   23.5910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4460   13.1370   24.4600 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6780   10.2090   24.1420 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4480    9.5360   23.3360 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7620    9.5930   24.9520 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3780    9.5390   26.2530 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4690    9.9560   27.5830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4460   11.2060   26.8400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4470   12.8480   25.5670 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0160   11.9590   22.8350 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9710   13.3500   23.0750 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3550   12.7110   24.2680 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5620   14.1170   24.2050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8780   10.2130   22.6020 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8380    8.7940   22.8290 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2490    9.0630   23.8960 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  4  7  1  0
+  7  8  1  0
+  7  9  1  0
+  9  2  2  0
+  1 10  1  0
+  1 11  1  0
+  1 12  1  0
+  3 13  1  0
+  5 14  1  0
+  5 15  1  0
+  6 16  1  0
+  6 17  1  0
+  8 18  1  0
+  8 19  1  0
+  8 20  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x3067eff40>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x3049aab90>
+M  END
+$$$$
+CSC015535643
+     RDKit          3D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+    5.2640   11.4300   26.9840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0370   10.2570   26.6560 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1250   10.4780   25.6860 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6990   11.6510   25.4100 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6950   11.5610   24.4790 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4910   12.5150   23.9600 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6690   10.2400   24.2140 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.5190    9.5420   23.2830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7110    9.5290   24.9360 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0960   12.0140   26.0740 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8150   12.0420   27.7060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.2960   11.1470   27.4100 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4970    9.3980   26.5400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4100   12.6000   25.8830 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3770   12.2330   23.5380 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0930   13.3250   23.4960 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9080   10.2410   22.5400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9270    8.8000   22.7500 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.3460    9.0740   23.8080 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  5  7  1  0
+  7  8  1  0
+  7  9  1  0
+  9  3  2  0
+  1 10  1  0
+  1 11  1  0
+  1 12  1  0
+  2 13  1  0
+  4 14  1  0
+  6 15  1  0
+  6 16  1  0
+  8 17  1  0
+  8 18  1  0
+  8 19  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x307021fc0>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x307021cb0>
+M  END
+$$$$
+EN300-155587
+     RDKit          3D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+    5.9690   10.2520   26.5940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0870   10.5200   25.6640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6960    9.5420   24.8970 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6560   10.2370   24.2120 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4560    9.6170   23.3620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6100   11.5730   24.5630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6180   11.7740   25.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2620   12.9830   26.0930 N   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3210    9.4610   26.2050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3590   11.1500   26.7280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3460    9.9320   27.5700 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9900    8.8370   22.7840 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8200   10.3590   22.6380 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2870    9.2170   23.9140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3010   12.2710   24.1160 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3000   13.3190   26.0470 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9250   13.7480   26.1580 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  1  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  7  2  1  0
+  1  9  1  0
+  1 10  1  0
+  1 11  1  0
+  5 12  1  0
+  5 13  1  0
+  5 14  1  0
+  6 15  1  0
+  8 16  1  0
+  8 17  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x307022810>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x307022810>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x307022810>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x307022810>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x307022810>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x307022810>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x307022810>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x3070219a0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x307022810>
+M  END
+$$$$
+CSC015835723
+     RDKit          3D
+
+ 22 22  0  0  0  0  0  0  0  0999 V2000
+    9.8280    9.6490   23.0450 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9030   10.4030   23.9050 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8670    9.9020   24.6690 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1800   10.8760   25.3580 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3450   12.2430   25.4130 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4010   13.0750   26.2760 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9950   13.2020   27.6830 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7560   14.0680   28.0830 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5900   12.2250   28.5270 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.3610   12.7970   24.6730 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1450   11.9240   23.9260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2020   12.3200   23.1440 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3270    8.7930   22.5920 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1890   10.2760   22.2300 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6720    9.2670   23.6220 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5610    8.8890   24.7640 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4710   14.0960   25.8750 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.3490   12.8080   26.2520 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6840   12.5060   28.7830 H   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5540   13.8570   24.6640 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1700   12.1290   22.1330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5730   13.2390   23.3550 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  5 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 11  2  1  0
+  1 13  1  0
+  1 14  1  0
+  1 15  1  0
+  3 16  1  0
+  6 17  1  0
+  6 18  1  0
+  9 19  1  0
+ 10 20  1  0
+ 12 21  1  0
+ 12 22  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+A   21
+<rdkit.Chem.rdchem.Atom object at 0x30894a490>
+A   22
+<rdkit.Chem.rdchem.Atom object at 0x30894ae30>
+M  END
+$$$$
+EN300-6250895
+     RDKit          3D
+
+ 18 18  0  0  0  0  0  0  0  0999 V2000
+    9.5370    9.6200   23.2630 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6420   10.2270   24.2240 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7390    9.4390   24.8400 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1750   10.3420   25.5940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5570   11.6290   25.5820 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9250   12.5690   26.4240 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7600   13.9390   25.8040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0600   15.1150   26.4490 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2730   13.9270   24.5420 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5770   11.5570   24.6210 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6950   12.9370   23.9500 Br  0  0  0  0  0  0  0  0  0  0  0  0
+    8.9950    8.8440   22.7210 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8810   10.3750   22.5500 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4010    9.1690   23.7560 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3550   10.1190   26.2880 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0070   12.1970   26.8610 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5450   12.5590   27.3060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7110   13.1080   24.4520 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  5 10  2  0
+ 10 11  1  0
+ 10  2  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  4 15  1  0
+  6 16  1  0
+  6 17  1  0
+  9 18  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x307021620>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x307020d60>
+M  END
+$$$$
+CSC016220088
+     RDKit          3D
+
+ 20 20  0  0  0  0  0  0  0  0999 V2000
+    9.5380    9.6420   23.2970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.6260   10.2320   24.2550 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6940    9.4450   24.8250 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1210   10.3360   25.5890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5280   11.6160   25.6250 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9080   12.5630   26.4660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7550   13.9320   25.8340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0370   15.1140   26.4780 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2970   13.9190   24.5580 O   0  0  0  0  0  0  0  0  0  0  0  0
+    8.5720   11.5510   24.6940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.4860   12.5720   24.2080 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.8840   10.4140   22.6070 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4000    9.2170   23.8140 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0390    8.8540   22.7280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2790   10.1080   26.2510 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9910   12.2050   26.9070 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5390   12.5550   27.3400 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7390   13.1000   24.4480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0470   13.4840   24.3110 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7390   12.3780   23.2420 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  5 10  2  0
+ 10 11  1  0
+ 10  2  1  0
+  1 12  1  0
+  1 13  1  0
+  1 14  1  0
+  4 15  1  0
+  6 16  1  0
+  6 17  1  0
+  9 18  1  0
+ 11 19  1  0
+ 11 20  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x3070225e0>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x307021bd0>
+M  END
+$$$$
+Z2227587622
+     RDKit          3D
+
+ 32 33  0  0  0  0  0  0  0  0999 V2000
+    6.1610   10.0510   29.0660 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6210   11.1680   28.2620 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4830   11.0720   26.8840 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3430   10.1250   26.3410 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3700   10.2630   25.3880 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9590    9.2980   24.6480 N   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8630    9.9690   23.9390 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7220    9.2860   23.0090 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8180   11.2950   24.2340 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7060   12.3050   23.6040 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8800   11.5070   25.1450 N   0  0  0  0  0  0  0  0  0  0  0  0
+    4.6740   11.7840   26.3080 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5460   12.3950   28.4160 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0710   12.6020   29.7940 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.5190   11.4270   30.4570 O   0  0  0  0  0  0  0  0  0  0  0  0
+    6.5240   10.4370   30.4890 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.4380    9.2320   29.1060 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0500    9.6650   28.6050 H   0  0  0  0  0  0  0  0  0  0  0  0
+    4.7010   11.5430   28.6950 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1780    9.1310   26.5280 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1480   10.0360   22.3370 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5060    8.7670   23.5480 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1510    8.5770   22.4330 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4570   12.7760   24.2270 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2560   12.0020   22.7090 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0670   13.1270   23.2650 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3950   12.2680   27.7410 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.0500   13.2700   28.0180 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.2850   13.0330   30.4240 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8930   13.3270   29.7750 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6520   10.8040   31.0430 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.9160    9.5680   31.0270 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  7  9  1  0
+  9 10  1  0
+  9 11  2  0
+  3 12  2  0
+  2 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 11  5  1  0
+ 16  1  1  0
+  1 17  1  0
+  1 18  1  0
+  2 19  1  0
+  4 20  1  0
+  8 21  1  0
+  8 22  1  0
+  8 23  1  0
+ 10 24  1  0
+ 10 25  1  0
+ 10 26  1  0
+ 13 27  1  0
+ 13 28  1  0
+ 14 29  1  0
+ 14 30  1  0
+ 16 31  1  0
+ 16 32  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   20
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   21
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   22
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   23
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   24
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   25
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   26
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   27
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   28
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   29
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+A   30
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   31
+<rdkit.Chem.rdchem.Atom object at 0x308b34510>
+A   32
+<rdkit.Chem.rdchem.Atom object at 0x308b347b0>
+M  END
+$$$$
+BBV-112775210
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+    9.8030    9.3880   22.9910 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.9200   10.0290   23.9330 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9960    9.2790   24.5520 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4140   10.2010   25.3010 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.3800   10.0060   26.1810 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.8240   11.4920   25.2640 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8470   11.3760   24.3440 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7340   12.5190   23.8750 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.2670   12.5710   22.6450 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9330   13.6730   22.6690 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.8850   14.3470   23.8160 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0820   13.5870   24.6370 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.6410    8.9350   23.5280 H   0  0  0  0  0  0  0  0  0  0  0  0
+    9.2640    8.6130   22.4470 H   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1820   10.1210   22.2760 H   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1010    9.0530   26.3940 H   0  0  0  0  0  0  0  0  0  0  0  0
+    5.6440   10.7030   26.2250 H   0  0  0  0  0  0  0  0  0  0  0  0
+    7.4700   12.3620   25.7940 H   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5100   14.0400   21.8130 H   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+  7  2  1  0
+ 12  8  1  0
+  1 13  1  0
+  1 14  1  0
+  1 15  1  0
+  5 16  1  0
+  5 17  1  0
+  6 18  1  0
+ 10 19  1  0
+A    1
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A    2
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    3
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A    4
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A    5
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    6
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    7
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A    8
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A    9
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   10
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   11
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   12
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   13
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   14
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   15
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   16
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+A   17
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   18
+<rdkit.Chem.rdchem.Atom object at 0x308b90c80>
+A   19
+<rdkit.Chem.rdchem.Atom object at 0x308b906d0>
+M  END
+$$$$

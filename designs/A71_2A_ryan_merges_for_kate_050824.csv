@@ -1,0 +1,22 @@
+﻿smiles,hits,compound_set
+NC(=O)C3CCCN(C(=O)c2ccc(Cl)c(C(=O)CN1CCCC1)c2)C3,Ax0926a Ax1140a,x0926 merge into p1’
+NC(=O)C3CCCN(C(=O)c1cccc(O)c1C(=O)NC2CC2)C3,Ax0926a Ax1292a,x0926 going down p1
+NC(=O)C3CCCN(C(=O)c1cccc(O)c1C(=O)NCc2ccccc2)C3,Ax0926a Ax0836a,x0926 going down p1
+C[n+]2ccc(C(=O)N1CCCC(C(N)=O)C1Cl)[nH]2,Ax0926a Ax1346a,X0926 and x1346
+NC(=O)C3CCCN(C(=O)Cc1[nH]ncc1CC(=O)NC2CC2)C3,Ax0926a Ax1346a,X0926 and x1346
+O=C(Cc1cn[nH]c1CC(=O)N2CCCC(C(F)(F)F)C2)NC3CC3,Ax0926a Ax1346a,X0926 and x1346
+O=C(Cc1cn[nH]c1CC(=O)N2CCCC(C(F)(F)F)C2)NC3CC3,Ax0926a Ax1346a Ax1019a,X0926 and x1347and x1019
+CC(=O)Nc1ccccc1CCS(N)(=O)=O,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(F)cncc1CCS(N)(=O)=O,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(F)cncc1C(C)CS(N)(=O)=O,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(F)nncc1CCS(=O)(=O)Cc2ccccc2,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(C)nncc1CCS(=O)(=O)Cc2ccccc2,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(C)nncc1C(C)CS(=O)(=O)Cc2ccccc2,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(F)nncc1CCS(=O)(=O)CC2CCCC2,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(F)nncc1CCS(=O)(=O)CNC2CCCC2,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(C)cncc1CCS(=O)(=O)CNC2CCCC2,Ax0487a Ax0719a,x0487 P2 extension
+CC(=O)Nc1c(F)nncc1C(C)CS(=O)(=O)CNC2CCCC2,Ax0487a Ax0719a,x0487 P2 extension
+N#CCC(=O)Nc1c(F)cncc1CCS(N)(=O)=O,Ax0487a Ax0719a Ax0310a,x0487 P2 extension
+N#CCC(=O)Nc1c(F)nncc1CCS(N)(=O)=O,Ax0487a Ax0719a Ax0310a,x0487 P2 extension
+CC(CS(N)(=O)=O)c1cncc(F)c1NC(=O)CC#N,Ax0487a Ax0719a Ax0310a,x0487 P2 extension
+Cc1cncc(C(C)CS(N)(=O)=O)c1NC(=O)CC#N,Ax0487a Ax0719a Ax0310a,x0487 P2 extension
