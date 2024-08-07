@@ -4,17 +4,29 @@
 
 The following compound sets will be elaborated:
 
-| Creator           | Description                                                              | Number of compounds |
-|-------------------|--------------------------------------------------------------------------|---------------------|
-| Kate              | `x1346` analogues designed manually                                      | 38                  |
-| Ryan              | Various fragment analogues designed manually                             | 24                  |
-| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 36                  |
-| Warren (Kate)     | Covalent hits as themselves and their non-covalent analogues             | 8                   |
-| Kate              | `x1346a x1431a x1445a` fragments                                         | 3                   |
-| Kate              | `x0926` fragment w/ manual amidation route                               | 1                   |
-|                   |                                                                          | Total: 110          |
+| Creator           | Description                                                              | Number of compounds | Status |
+|-------------------|--------------------------------------------------------------------------|---------------------|--------|
+| Kate              | `x1346` analogues designed manually                                      | 38                  | 🟥       | 
+| Ryan              | Various fragment analogues designed manually                             | 24                  | 🟥       |
+| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 36                  | 🟥       |
+| Warren (Kate)     | Covalent hits as themselves and non-covalent, ketone, aldehyde analogues | 16                  | 🟥       |
+| Kate              | `x1346a x1431a x1445a` fragments                                         | 3                   | 🟥     |
+| Kate              | `x0926` fragment w/ manual amidation route                               | 1                   | 🟩     |
+|                   |                                                                          | Total: 118          |
 
 Compound sets are found in the `syndirella_input` folder.
+
+## Templates
+- Not all compounds have the same template.
+
+Algorithm to choose template goes as follows:
+- If the compound is a fragment, the template is the one from the fragment.
+- If the compound is an analogue of 1 fragment, the template is the one from the fragment.
+- If the compound is manual and an analogue of >1 fragment, the template is the one from the fragment that is most similar (by eye) to the analogue.
+- If the compound is a Knitwork compound, the template is Ax0130 (as that is what was used for original placement).
+
+## Running
+All outputs are in `/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5`.
 
 # OLD
 ## Summary

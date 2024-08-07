@@ -1,0 +1,43 @@
+smiles,template,hits,compound_set
+N#CCC(=O)Nc1ccc(C(N)=O)nc1,Ax0310a,Ax0310a Ax0556a,knitwork_june_2024
+CC(=O)Nc1ccc(NCc2ccc(F)cc2)nc1,Ax0310a,Ax0365a Ax0310a,knitwork_june_2025
+COc1cccc(CNc2ccc(NC(C)=O)cn2)c1,Ax0310a,Ax0365a Ax0310a,knitwork_june_2026
+CC(=O)Nc1ccc(NCc2ccc(C)cc2F)nc1,Ax0310a,Ax0365a Ax0310a,knitwork_june_2027
+CC(=O)Nc1ccc(NCc2cccc(C(C)C)c2)nc1,Ax0310a,Ax0365a Ax0310a,knitwork_june_2028
+Cn1nc(C2CCCOC2)cc1NC(=O)CC#N,Ax0310a,Ax0365a Ax0310a,knitwork_june_2029
+CC(=O)Nc1ccc(NCc2cc(F)ccc2C)nc1,Ax0310a,Ax0365a Ax0310a,knitwork_june_2030
+CC(=O)Nc1ccc(NCc2ccccc2C2CC2)nc1,Ax0310a,Ax0365a Ax0310a,knitwork_june_2031
+CC(=O)Nc1ccc(NCc2c(C)cccc2F)nc1,Ax0310a,Ax0365a Ax0310a,knitwork_june_2032
+Cn1ccc2ccc(NCc3ccccc3)cc21,Ax0310a,Ax0365a Ax0451a,knitwork_june_2033
+Cc1ccc(CNc2ccc(N3CCNC(=O)C3)cn2)cc1C,Ax0310a,Ax0365a Ax0528a,knitwork_june_2034
+O=C1NCCC1C(=O)N1CCCC(NCc2ccccc2)C1,Ax0310a,Ax0365a Ax0528a,knitwork_june_2035
+O=C1NCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)cc1,Ax0310a,Ax0365a Ax0528a,knitwork_june_2036
+O=C1NCCN1c1ccc(NCc2cccc(F)c2)cc1,Ax0310a,Ax0365a Ax0528a,knitwork_june_2037
+CSc1cccc(CNc2ccc(N3CCNC(=O)C3)cn2)c1,Ax0310a,Ax0365a Ax0528a,knitwork_june_2038
+Cn1nc(C2CCOCC2)cc1C(=O)OCC1CNC(=O)C1,Ax0310a,Ax0365a Ax0528a,knitwork_june_2039
+NCc1ccc(C(=O)Nc2c[nH]c3ccccc23)cc1,Ax0310a,Ax0365a Ax0566a,knitwork_june_2040
+Cc1ncc(C(=O)N(C)C2CN(C3CCNC3=O)C2)s1,Ax0310a,Ax0446a Ax0528a,knitwork_june_2041
+CCC(C)CC(=O)Nc1ccc(C(=O)N(C)C)cc1,Ax0310a,Ax0450a Ax0310a,knitwork_june_2042
+CN(C)C(=O)c1ccc(NC(=O)CC(C)(C)C(F)(F)F)c(F)c1,Ax0310a,Ax0450a Ax0310a,knitwork_june_2043
+COc1cncc(CCC(=O)NC2CCNC2=O)c1,Ax0310a,Ax0515a Ax0528a,knitwork_june_2044
+O=C(OCC1CCCNC1=O)c1ccncc1F,Ax0310a,Ax0515a Ax0528a,knitwork_june_2045
+CN1CCC(c2nc(-c3ccncc3)no2)C1=O,Ax0310a,Ax0528a Ax0515a,knitwork_june_2046
+CCC1CC(NC(=O)c2ccc(NC(=O)C(C)(C)C)nc2)C1,Ax0310a,Ax0556a Ax0310a,knitwork_june_2047
+CCOC(=O)c1cc(NC(=O)CC#N)n(C)n1,Ax0310a,Ax0556a Ax0310a,knitwork_june_2048
+CC(C)(C)C(=O)Nc1ccc(C(=O)NC2(C(F)F)CCC2)cn1,Ax0310a,Ax0556a Ax0310a,knitwork_june_2049
+CCCC(=O)NC1CCN(C(=O)NC2CC(CC#N)C2)CC1,Ax0310a,Ax0556a Ax0310a,knitwork_june_2050
+NC(=O)c1cc(NC(=O)C23CCC(CO2)C3)[nH]n1,Ax0310a,Ax0556a Ax0528a,knitwork_june_2051
+O=C(NC1CC(C(F)(F)F)C1)c1cc2ccsc2[nH]1,Ax0310a,Ax0556a Ax0566a,knitwork_june_2052
+CC(C)(C)OC1CC(NC(=O)N2CCCC2CS(N)(=O)=O)C1,Ax0310a,Ax0556a Ax0719a,knitwork_june_2053
+N#CCC1CC(NC(=O)N2CCCC(CS(N)(=O)=O)C2)C1,Ax0310a,Ax0556a Ax0719a,knitwork_june_2054
+NS(=O)(=O)CC1CCCCN1C(=O)NC1(C(F)(F)F)CCC1,Ax0310a,Ax0556a Ax0719a,knitwork_june_2055
+Cn1cc(C(O)C(=O)Nc2cccc(NC(=O)CC#N)c2)cn1,Ax0310a,Ax0732a Ax0310a,knitwork_june_2056
+CC1(NC(=O)Nc2ccccc2CS(N)(=O)=O)CCC1,Ax0310a,Ax0884a Ax0719a,knitwork_june_2057
+CC(=O)Nc1ccc(NCc2ccccc2F)cn1,Ax0310a,Ax0310a Ax0365a,modified_knitwork_june_2024
+CC(=O)N(C)c1ccc(NCc2cccc(C(C)C)c2)cn1,Ax0310a,Ax0310a Ax0365a,modified_knitwork_june_2025
+CC(=O)Nc1ccc(NCc2ccccc2C)cn1,Ax0310a,Ax0310a Ax0365a,modified_knitwork_june_2026
+CC(=O)N(C)c1ccc(NCc2ccccc2C2CC2)cn1 ,Ax0310a,Ax0310a Ax0365a,modified_knitwork_june_2027
+Cc1ccc(C(=O)Nc2ccc(N3CCNC(=O)C3)nc2)cc1C ,Ax0310a,Ax0365a Ax0528a,modified_knitwork_june_2028
+O=C1CCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)nc1,Ax0310a,Ax0365a Ax0528a,modified_knitwork_june_2029
+O=C1CCCN1c1ccc(NCc2cccc(F)c2)nc1,Ax0310a,Ax0365a Ax0528a,modified_knitwork_june_2030
+CC(=O)Nc1ccc(C(=O)N(C)C)nc1,Ax0310a,Ax0310a Ax0450a,modified_knitwork_june_2031

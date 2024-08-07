@@ -1,0 +1,4 @@
+compound_id, original_smiles, modified_smiles, inspirations
+C110389 O=C1NCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)cc1 O=C1CCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)nc1 ['Ax0365a', 'Ax0528a']
+C110390 O=C1NCCN1c1ccc(NCc2cccc(F)c2)cc1 O=C1CCCN1c1ccc(NCc2cccc(F)c2)nc1 ['Ax0365a', 'Ax0528a']
+C110391 CCC(C)CC(=O)Nc1ccc(C(=O)N(C)C)cc1 CC(=O)Nc1ccc(C(=O)N(C)C)nc1 ['Ax0310a', 'Ax0450a'] 

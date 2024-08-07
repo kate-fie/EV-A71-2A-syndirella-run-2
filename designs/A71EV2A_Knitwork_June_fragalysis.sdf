@@ -1,0 +1,7645 @@
+ver_1.2
+     RDKit          2D
+
+  0  0  0  0  0  0  0  0  0  0999 V2000
+M  END
+>  <ref_url>  (1) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (1) 
+Steph Wills
+
+>  <submitter_institution>  (1) 
+University of Oxford
+
+>  <submitter_email>  (1) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (1) 
+2024-06-03
+
+>  <method>  (1) 
+FragNetv2
+
+>  <original SMILES>  (1) 
+SMILES
+
+>  <original_name>  (1) 
+a name
+
+>  <ref_mols>  (1) 
+ref fragments
+
+>  <ref_pdb>  (1) 
+ref pdb
+
+>  <similarity>  (1) 
+nan
+
+>  <smiles>  (1) 
+nan
+
+>  <cmpd_id>  (1) 
+nan
+
+>  <used_subnode>  (1) 
+nan
+
+>  <used_synthon>  (1) 
+nan
+
+>  <ref_subnode>  (1) 
+nan
+
+>  <ref_synthon>  (1) 
+nan
+
+>  <fragmentA>  (1) 
+nan
+
+>  <fragmentB>  (1) 
+nan
+
+>  <HA>  (1) 
+nan
+
+>  <HBD>  (1) 
+nan
+
+>  <HBA>  (1) 
+nan
+
+>  <MW>  (1) 
+nan
+
+>  <TPSA>  (1) 
+nan
+
+>  <LogP>  (1) 
+nan
+
+>  <RBs>  (1) 
+nan
+
+>  <G_bound>  (1) 
+nan
+
+>  <G_unbound>  (1) 
+nan
+
+>  <deltaG>  (1) 
+nan
+
+>  <comRMSD>  (1) 
+nan
+
+>  <substructure_overlap_check>  (1) 
+nan
+
+>  <energy_ratio_check>  (1) 
+nan
+
+>  <const_energy/unconst_energy>  (1) 
+nan
+
+>  <sucos>  (1) 
+nan
+
+>  <interactions>  (1) 
+nan
+
+>  <total_num_ints>  (1) 
+nan
+
+>  <total_num_ints_nonhyd>  (1) 
+nan
+
+>  <num_uniq_frag_ints>  (1) 
+nan
+
+>  <num_repl_uniq_ints>  (1) 
+nan
+
+>  <num_uniq_ints_lost>  (1) 
+nan
+
+>  <num_new_uniq_ints>  (1) 
+nan
+
+>  <int_check>  (1) 
+nan
+
+>  <prop_maintained_ints>  (1) 
+nan
+
+>  <rationale>  (1) 
+nan
+
+$$$$
+Ax0310a-Ax0556a_229_B1X_rgrp-4
+     RDKit          3D
+
+ 15 15  0  0  0  0  0  0  0  0999 V2000
+   28.7115   15.8377    8.1816 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5454   14.6948    8.1429 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4330   13.2456    8.1042 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5700   12.6409    7.3273 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.8006   13.0523    6.1940 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2885   11.6340    7.9567 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3216   10.9672    7.2629 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1148   11.8219    6.5147 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1590   11.3350    5.7489 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4047    9.9882    5.7353 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5472    9.5323    4.8646 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.4773    8.3219    4.2400 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.5325   10.2311    4.6693 O   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6630    9.1051    6.4612 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6315    9.6087    7.2156 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 11 13  2  0
+ 10 14  1  0
+ 14 15  2  0
+ 15  7  1  0
+A    1
+ N1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ O1 
+A    6
+ N2 
+A    7
+ C4 
+A    8
+ C5 
+A    9
+ C6 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ N3 
+A   13
+ O2 
+A   14
+ N4 
+A   15
+ C9 
+M  END
+>  <ref_url>  (2) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (2) 
+Steph Wills
+
+>  <submitter_institution>  (2) 
+University of Oxford
+
+>  <submitter_email>  (2) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (2) 
+2024-06-03
+
+>  <method>  (2) 
+FragNetv2
+
+>  <original SMILES>  (2) 
+N#CCC(=O)Nc1ccc(C(N)=O)nc1
+
+>  <original_name>  (2) 
+Ax0310a-Ax0556a_229_B1X_rgrp-4
+
+>  <ref_mols>  (2) 
+Ax0310a,Ax0556a
+
+>  <ref_pdb>  (2) 
+Ax0310a
+
+>  <similarity>  (2) 
+1.0
+
+>  <smiles>  (2) 
+N#CCC(=O)Nc1ccc(C(N)=O)nc1
+
+>  <cmpd_id>  (2) 
+ENAMINE:Z1688566756
+
+>  <used_subnode>  (2) 
+N#CCC(N)=O
+
+>  <used_synthon>  (2) 
+[Xe]c1cccnc1
+
+>  <ref_subnode>  (2) 
+N#CCC(N)=O
+
+>  <ref_synthon>  (2) 
+[Xe]n1cccn1
+
+>  <fragmentA>  (2) 
+Ax0310a
+
+>  <fragmentB>  (2) 
+Ax0556a
+
+>  <HA>  (2) 
+15
+
+>  <HBD>  (2) 
+2
+
+>  <HBA>  (2) 
+4
+
+>  <MW>  (2) 
+204.064725496
+
+>  <TPSA>  (2) 
+108.86999999999999
+
+>  <LogP>  (2) 
+0.03267999999999971
+
+>  <RBs>  (2) 
+3
+
+>  <G_bound>  (2) 
+-6.147988603887065
+
+>  <G_unbound>  (2) 
+0.49450099410474374
+
+>  <deltaG>  (2) 
+-6.642489597991808
+
+>  <comRMSD>  (2) 
+0.3791155970169532
+
+>  <substructure_overlap_check>  (2) 
+1
+
+>  <energy_ratio_check>  (2) 
+1
+
+>  <const_energy/unconst_energy>  (2) 
+2.8301086937488797
+
+>  <sucos>  (2) 
+0.5983238281374272
+
+>  <interactions>  (2) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBDonor_SER-105,HBDonor_SER-125
+
+>  <total_num_ints>  (2) 
+4
+
+>  <total_num_ints_nonhyd>  (2) 
+2
+
+>  <num_uniq_frag_ints>  (2) 
+8
+
+>  <num_repl_uniq_ints>  (2) 
+4
+
+>  <num_uniq_ints_lost>  (2) 
+4
+
+>  <num_new_uniq_ints>  (2) 
+0
+
+>  <int_check>  (2) 
+1
+
+>  <prop_maintained_ints>  (2) 
+0.5
+
+>  <rationale>  (2) 
+FragNet: 1 round bioisosteric merging incl N#CCC(N)=O and [Xe]c1cccnc1 replacing [Xe]n1cccn1
+
+$$$$
+Ax0365a-Ax0310a_2943_B1X
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+   28.5769   13.4489    8.1943 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5065   12.8262    7.3705 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6942   13.2212    6.2267 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1546   11.7578    7.9471 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2040   11.1148    7.2762 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1084   11.7642    6.4297 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1826   10.9543    5.7637 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2210    9.5849    6.0291 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2080    8.9229    5.4134 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.0136    9.5514    4.3764 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.3570    9.6329    3.1544 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1924    8.4881    2.3804 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5052    8.5686    1.0951 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0199    9.8063    0.6551 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3864    9.9000   -0.5218 F   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1963   10.9404    1.4459 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8558   10.8576    2.6782 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3310    8.9962    6.8543 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3695    9.7460    7.4437 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  2  0
+  8 18  1  0
+ 18 19  2  0
+ 19  5  1  0
+ 17 11  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ O1 
+A    4
+ N1 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ N2 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ C11
+A   15
+ F1 
+A   16
+ C12
+A   17
+ C13
+A   18
+ N3 
+A   19
+ C14
+M  END
+>  <ref_url>  (3) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (3) 
+Steph Wills
+
+>  <submitter_institution>  (3) 
+University of Oxford
+
+>  <submitter_email>  (3) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (3) 
+2024-06-03
+
+>  <method>  (3) 
+FragNetv2
+
+>  <original SMILES>  (3) 
+CC(=O)Nc1ccc(NCc2ccc(F)cc2)nc1
+
+>  <original_name>  (3) 
+Ax0365a-Ax0310a_2943_B1X
+
+>  <ref_mols>  (3) 
+Ax0365a,Ax0310a
+
+>  <ref_pdb>  (3) 
+Ax0310a
+
+>  <similarity>  (3) 
+1.0
+
+>  <smiles>  (3) 
+CC(=O)Nc1ccc(NCc2ccc(F)cc2)nc1
+
+>  <cmpd_id>  (3) 
+ENAMINE:PV-001925352625
+
+>  <used_subnode>  (3) 
+NCc1ccccc1
+
+>  <used_synthon>  (3) 
+CC(=O)N[Xe]
+
+>  <ref_subnode>  (3) 
+NCc1ccccc1
+
+>  <ref_synthon>  (3) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (3) 
+Ax0365a
+
+>  <fragmentB>  (3) 
+Ax0310a
+
+>  <HA>  (3) 
+19
+
+>  <HBD>  (3) 
+2
+
+>  <HBA>  (3) 
+3
+
+>  <MW>  (3) 
+259.112090288
+
+>  <TPSA>  (3) 
+54.02
+
+>  <LogP>  (3) 
+2.791200000000001
+
+>  <RBs>  (3) 
+4
+
+>  <G_bound>  (3) 
+-7.404165426274273
+
+>  <G_unbound>  (3) 
+0.5708765337616996
+
+>  <deltaG>  (3) 
+-7.9750419600359725
+
+>  <comRMSD>  (3) 
+0.372065911297946
+
+>  <substructure_overlap_check>  (3) 
+1
+
+>  <energy_ratio_check>  (3) 
+1
+
+>  <const_energy/unconst_energy>  (3) 
+3.186029956183848
+
+>  <sucos>  (3) 
+0.7131741413243251
+
+>  <interactions>  (3) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (3) 
+4
+
+>  <total_num_ints_nonhyd>  (3) 
+1
+
+>  <num_uniq_frag_ints>  (3) 
+6
+
+>  <num_repl_uniq_ints>  (3) 
+4
+
+>  <num_uniq_ints_lost>  (3) 
+2
+
+>  <num_new_uniq_ints>  (3) 
+0
+
+>  <int_check>  (3) 
+1
+
+>  <prop_maintained_ints>  (3) 
+0.6666666666666666
+
+>  <rationale>  (3) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and CC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0365a-Ax0310a_2953_B1X
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+   32.0444   13.1906    1.7166 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6148   12.2422    0.8193 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1125   11.0675    1.3302 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9984    9.8792    0.5977 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5279    8.5165    1.0878 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2107    8.4800    2.4476 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2963    9.6917    3.1338 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9707    9.6067    4.4536 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.0931    8.9911    5.4379 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1086    9.7446    6.1052 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2071    9.0537    6.9306 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2307    9.7575    7.6229 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1559   11.1333    7.4871 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2235   11.9672    8.1157 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4866   12.9056    7.4400 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4939   13.6153    8.2860 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6133   13.1751    6.2516 O   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0871   11.7296    6.6455 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0488   11.0758    5.9618 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7423   11.0113    2.5736 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 15 17  2  0
+ 13 18  1  0
+ 18 19  2  0
+  7 20  2  0
+ 20  3  1  0
+ 19 10  1  0
+A    1
+ C1 
+A    2
+ O1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ C6 
+A    8
+ C7 
+A    9
+ N1 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ C10
+A   13
+ C11
+A   14
+ N2 
+A   15
+ C12
+A   16
+ C13
+A   17
+ O2 
+A   18
+ C14
+A   19
+ N3 
+A   20
+ C15
+M  END
+>  <ref_url>  (4) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (4) 
+Steph Wills
+
+>  <submitter_institution>  (4) 
+University of Oxford
+
+>  <submitter_email>  (4) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (4) 
+2024-06-03
+
+>  <method>  (4) 
+FragNetv2
+
+>  <original SMILES>  (4) 
+COc1cccc(CNc2ccc(NC(C)=O)cn2)c1
+
+>  <original_name>  (4) 
+Ax0365a-Ax0310a_2953_B1X
+
+>  <ref_mols>  (4) 
+Ax0365a,Ax0310a
+
+>  <ref_pdb>  (4) 
+Ax0310a
+
+>  <similarity>  (4) 
+1.0
+
+>  <smiles>  (4) 
+COc1cccc(CNc2ccc(NC(C)=O)cn2)c1
+
+>  <cmpd_id>  (4) 
+ENAMINE:PV-001925352643
+
+>  <used_subnode>  (4) 
+NCc1ccccc1
+
+>  <used_synthon>  (4) 
+CC(=O)N[Xe]
+
+>  <ref_subnode>  (4) 
+NCc1ccccc1
+
+>  <ref_synthon>  (4) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (4) 
+Ax0365a
+
+>  <fragmentB>  (4) 
+Ax0310a
+
+>  <HA>  (4) 
+20
+
+>  <HBD>  (4) 
+2
+
+>  <HBA>  (4) 
+4
+
+>  <MW>  (4) 
+271.132076784
+
+>  <TPSA>  (4) 
+63.25
+
+>  <LogP>  (4) 
+2.6607000000000003
+
+>  <RBs>  (4) 
+5
+
+>  <G_bound>  (4) 
+-9.06242448183628
+
+>  <G_unbound>  (4) 
+0.23851920395672402
+
+>  <deltaG>  (4) 
+-9.300943685793003
+
+>  <comRMSD>  (4) 
+0.40980935859862294
+
+>  <substructure_overlap_check>  (4) 
+1
+
+>  <energy_ratio_check>  (4) 
+1
+
+>  <const_energy/unconst_energy>  (4) 
+2.683539339348435
+
+>  <sucos>  (4) 
+0.6398086355421775
+
+>  <interactions>  (4) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBDonor_SER-125,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (4) 
+5
+
+>  <total_num_ints_nonhyd>  (4) 
+2
+
+>  <num_uniq_frag_ints>  (4) 
+6
+
+>  <num_repl_uniq_ints>  (4) 
+5
+
+>  <num_uniq_ints_lost>  (4) 
+1
+
+>  <num_new_uniq_ints>  (4) 
+0
+
+>  <int_check>  (4) 
+1
+
+>  <prop_maintained_ints>  (4) 
+0.8333333333333334
+
+>  <rationale>  (4) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and CC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0365a-Ax0310a_2896_B1X_rgrp-0
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+   28.4716   13.7659    8.3042 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4456   13.0519    7.4126 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5540   13.3578    6.2302 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1636   12.0559    8.0522 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1367   11.2614    7.4198 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0701   11.9366    6.5489 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0425   11.1960    5.9110 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1813    9.6727    6.0842 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1963    8.9488    5.4304 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9210    9.5742    4.3292 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2868    9.7280    3.1244 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1340    8.4731    2.5102 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4172    8.5173    1.1343 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9663    9.7223    0.5714 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2593    9.6653   -0.7997 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1568   10.9317    1.2409 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8478   10.9274    2.5724 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.0289   12.0898    3.2159 F   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2556    9.1351    6.9193 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2964    9.8838    7.5433 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 14 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+  8 19  1  0
+ 19 20  2  0
+ 20  5  1  0
+ 17 11  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ O1 
+A    4
+ N1 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ N2 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ C11
+A   15
+ C12
+A   16
+ C13
+A   17
+ C14
+A   18
+ F1 
+A   19
+ N3 
+A   20
+ C15
+M  END
+>  <ref_url>  (5) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (5) 
+Steph Wills
+
+>  <submitter_institution>  (5) 
+University of Oxford
+
+>  <submitter_email>  (5) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (5) 
+2024-06-03
+
+>  <method>  (5) 
+FragNetv2
+
+>  <original SMILES>  (5) 
+CC(=O)Nc1ccc(NCc2ccc(C)cc2F)nc1
+
+>  <original_name>  (5) 
+Ax0365a-Ax0310a_2896_B1X_rgrp-0
+
+>  <ref_mols>  (5) 
+Ax0365a,Ax0310a
+
+>  <ref_pdb>  (5) 
+Ax0310a
+
+>  <similarity>  (5) 
+1.0
+
+>  <smiles>  (5) 
+CC(=O)Nc1ccc(NCc2ccc(C)cc2F)nc1
+
+>  <cmpd_id>  (5) 
+ENAMINE:PV-002122791896
+
+>  <used_subnode>  (5) 
+NCc1ccccc1
+
+>  <used_synthon>  (5) 
+CC(=O)N[Xe]
+
+>  <ref_subnode>  (5) 
+NCc1ccccc1
+
+>  <ref_synthon>  (5) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (5) 
+Ax0365a
+
+>  <fragmentB>  (5) 
+Ax0310a
+
+>  <HA>  (5) 
+20
+
+>  <HBD>  (5) 
+2
+
+>  <HBA>  (5) 
+3
+
+>  <MW>  (5) 
+273.127740352
+
+>  <TPSA>  (5) 
+54.02
+
+>  <LogP>  (5) 
+3.0996200000000016
+
+>  <RBs>  (5) 
+4
+
+>  <G_bound>  (5) 
+-7.995083485018719
+
+>  <G_unbound>  (5) 
+0.5530651448546108
+
+>  <deltaG>  (5) 
+-8.54814862987333
+
+>  <comRMSD>  (5) 
+0.14751956101929367
+
+>  <substructure_overlap_check>  (5) 
+1
+
+>  <energy_ratio_check>  (5) 
+1
+
+>  <const_energy/unconst_energy>  (5) 
+3.2751183350592354
+
+>  <sucos>  (5) 
+0.6787866879384047
+
+>  <interactions>  (5) 
+Hydrophobic_GLU-106,Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBDonor_SER-105,HBDonor_SER-125
+
+>  <total_num_ints>  (5) 
+5
+
+>  <total_num_ints_nonhyd>  (5) 
+2
+
+>  <num_uniq_frag_ints>  (5) 
+6
+
+>  <num_repl_uniq_ints>  (5) 
+5
+
+>  <num_uniq_ints_lost>  (5) 
+1
+
+>  <num_new_uniq_ints>  (5) 
+0
+
+>  <int_check>  (5) 
+1
+
+>  <prop_maintained_ints>  (5) 
+0.8333333333333334
+
+>  <rationale>  (5) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and CC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0365a-Ax0310a_2916_B1X
+     RDKit          3D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+   28.5446   13.5436    8.2613 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4729   12.9099    7.4496 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5888   13.2060    6.2649 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2234   11.9508    8.0811 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2087   11.2147    7.4086 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2554    9.8323    7.5695 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2302    9.1118    6.8914 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1558    9.7589    6.0601 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1325    8.9839    5.4070 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9900    9.5830    4.3884 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.3382    9.6570    3.1656 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2154    8.5122    2.3788 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5644    8.5632    1.1408 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0333    9.7835    0.6955 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1448   10.9481    1.4708 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5731   12.2764    1.0059 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5274   12.1039    0.0974 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.6576   13.1835    0.4251 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8026   10.8703    2.7084 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1148   11.0884    5.9005 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1566   11.7817    6.5669 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 15 19  2  0
+  8 20  1  0
+ 20 21  2  0
+ 21  5  1  0
+ 19 11  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ O1 
+A    4
+ N1 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ N2 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ C11
+A   15
+ C12
+A   16
+ C13
+A   17
+ C14
+A   18
+ C15
+A   19
+ C16
+A   20
+ N3 
+A   21
+ C17
+M  END
+>  <ref_url>  (6) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (6) 
+Steph Wills
+
+>  <submitter_institution>  (6) 
+University of Oxford
+
+>  <submitter_email>  (6) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (6) 
+2024-06-03
+
+>  <method>  (6) 
+FragNetv2
+
+>  <original SMILES>  (6) 
+CC(=O)Nc1ccc(NCc2cccc(C(C)C)c2)nc1
+
+>  <original_name>  (6) 
+Ax0365a-Ax0310a_2916_B1X
+
+>  <ref_mols>  (6) 
+Ax0365a,Ax0310a
+
+>  <ref_pdb>  (6) 
+Ax0310a
+
+>  <similarity>  (6) 
+1.0
+
+>  <smiles>  (6) 
+CC(=O)Nc1ccc(NCc2cccc(C(C)C)c2)nc1
+
+>  <cmpd_id>  (6) 
+ENAMINE:Z2609947594
+
+>  <used_subnode>  (6) 
+NCc1ccccc1
+
+>  <used_synthon>  (6) 
+CC(=O)N[Xe]
+
+>  <ref_subnode>  (6) 
+NCc1ccccc1
+
+>  <ref_synthon>  (6) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (6) 
+Ax0365a
+
+>  <fragmentB>  (6) 
+Ax0310a
+
+>  <HA>  (6) 
+21
+
+>  <HBD>  (6) 
+2
+
+>  <HBA>  (6) 
+3
+
+>  <MW>  (6) 
+283.168462292
+
+>  <TPSA>  (6) 
+54.02
+
+>  <LogP>  (6) 
+3.7755000000000027
+
+>  <RBs>  (6) 
+5
+
+>  <G_bound>  (6) 
+-9.169176810284474
+
+>  <G_unbound>  (6) 
+0.22893132662894114
+
+>  <deltaG>  (6) 
+-9.398108136913416
+
+>  <comRMSD>  (6) 
+0.707971104194161
+
+>  <substructure_overlap_check>  (6) 
+1
+
+>  <energy_ratio_check>  (6) 
+1
+
+>  <const_energy/unconst_energy>  (6) 
+2.3595041541982753
+
+>  <sucos>  (6) 
+0.6287137234974421
+
+>  <interactions>  (6) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBDonor_SER-125,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (6) 
+5
+
+>  <total_num_ints_nonhyd>  (6) 
+2
+
+>  <num_uniq_frag_ints>  (6) 
+6
+
+>  <num_repl_uniq_ints>  (6) 
+5
+
+>  <num_uniq_ints_lost>  (6) 
+1
+
+>  <num_new_uniq_ints>  (6) 
+0
+
+>  <int_check>  (6) 
+1
+
+>  <prop_maintained_ints>  (6) 
+0.8333333333333334
+
+>  <rationale>  (6) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and CC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0365a-Ax0310a_24_PXX
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+   30.7503    8.6969    8.4236 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5580    9.4454    7.4839 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5393    8.8475    6.7197 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0985    9.8575    6.0070 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2910    9.7466    5.0362 C   0  0  1  0  0  0  0  0  0  0  0  0
+   34.2401    9.1349    3.6275 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.6474    9.0863    3.0369 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.3071   10.4594    2.9819 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.2706   11.0713    4.2641 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9524   11.1237    4.8402 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.4305   11.0675    6.3218 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.4537   10.7811    7.2704 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5675   11.6935    7.8771 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7659   12.5927    7.2004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9321   12.9580    6.0450 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6036   13.1427    7.9956 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5855   14.5945    7.8939 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6213   15.7401    7.7983 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  5  4  1  6
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  4 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 16 17  1  0
+ 17 18  3  0
+ 12  2  1  0
+ 10  5  1  0
+A    1
+ C1 
+A    2
+ N1 
+A    3
+ N2 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ O1 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ N3 
+A   14
+ C10
+A   15
+ O2 
+A   16
+ C11
+A   17
+ C12
+A   18
+ N4 
+M  END
+>  <ref_url>  (7) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (7) 
+Steph Wills
+
+>  <submitter_institution>  (7) 
+University of Oxford
+
+>  <submitter_email>  (7) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (7) 
+2024-06-03
+
+>  <method>  (7) 
+FragNetv2
+
+>  <original SMILES>  (7) 
+Cn1nc(C2CCCOC2)cc1NC(=O)CC#N
+
+>  <original_name>  (7) 
+Ax0365a-Ax0310a_24_PXX
+
+>  <ref_mols>  (7) 
+Ax0365a,Ax0310a
+
+>  <ref_pdb>  (7) 
+Ax0310a
+
+>  <similarity>  (7) 
+NA
+
+>  <smiles>  (7) 
+Cn1nc(C2CCCOC2)cc1NC(=O)CC#N
+
+>  <cmpd_id>  (7) 
+ENAMINE:Z1935623803
+
+>  <used_subnode>  (7) 
+NA
+
+>  <used_synthon>  (7) 
+NA
+
+>  <ref_subnode>  (7) 
+Cn1cccn1
+
+>  <ref_synthon>  (7) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (7) 
+Ax0365a
+
+>  <fragmentB>  (7) 
+Ax0310a
+
+>  <HA>  (7) 
+18
+
+>  <HBD>  (7) 
+1
+
+>  <HBA>  (7) 
+5
+
+>  <MW>  (7) 
+248.127325752
+
+>  <TPSA>  (7) 
+79.94
+
+>  <LogP>  (7) 
+1.16628
+
+>  <RBs>  (7) 
+3
+
+>  <G_bound>  (7) 
+-7.194201208453345
+
+>  <G_unbound>  (7) 
+0.5426457044026578
+
+>  <deltaG>  (7) 
+-7.736846912856002
+
+>  <comRMSD>  (7) 
+0.5484073210946084
+
+>  <substructure_overlap_check>  (7) 
+1
+
+>  <energy_ratio_check>  (7) 
+1
+
+>  <const_energy/unconst_energy>  (7) 
+1.4653625714761296
+
+>  <sucos>  (7) 
+0.5875228093440537
+
+>  <interactions>  (7) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBDonor_SER-125
+
+>  <total_num_ints>  (7) 
+3
+
+>  <total_num_ints_nonhyd>  (7) 
+1
+
+>  <num_uniq_frag_ints>  (7) 
+6
+
+>  <num_repl_uniq_ints>  (7) 
+3
+
+>  <num_uniq_ints_lost>  (7) 
+3
+
+>  <num_new_uniq_ints>  (7) 
+0
+
+>  <int_check>  (7) 
+1
+
+>  <prop_maintained_ints>  (7) 
+0.5
+
+>  <rationale>  (7) 
+FragNet: perfect merge incl Cn1cccn1,N#CCC(=O)N[Xe]
+
+$$$$
+Ax0365a-Ax0310a_2938_B1X_rgrp-0
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+   28.4958   13.6531    8.2081 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.3888   13.0592    7.4062 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5026   13.3960    6.2274 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1259   12.0696    8.0291 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1348   11.3148    7.3941 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1635    9.8030    7.6119 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2664    9.1404    6.8836 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1763    9.8568    6.0890 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1557    9.1532    5.4891 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.8269    9.6567    4.4726 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2849    9.6445    3.1007 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.6384   10.9440    2.6789 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0443   11.0071    1.2782 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.4588   12.1259    0.8378 F   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1324    9.7625    0.3916 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7731    8.6232    0.9231 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.3377    8.5512    2.2223 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.0124    7.2544    2.6482 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1181   11.1835    5.9210 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1203   11.8678    6.5623 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 13 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+  8 19  1  0
+ 19 20  2  0
+ 20  5  1  0
+ 17 11  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ O1 
+A    4
+ N1 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ N2 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ F1 
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ C14
+A   19
+ N3 
+A   20
+ C15
+M  END
+>  <ref_url>  (8) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (8) 
+Steph Wills
+
+>  <submitter_institution>  (8) 
+University of Oxford
+
+>  <submitter_email>  (8) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (8) 
+2024-06-03
+
+>  <method>  (8) 
+FragNetv2
+
+>  <original SMILES>  (8) 
+CC(=O)Nc1ccc(NCc2cc(F)ccc2C)nc1
+
+>  <original_name>  (8) 
+Ax0365a-Ax0310a_2938_B1X_rgrp-0
+
+>  <ref_mols>  (8) 
+Ax0365a,Ax0310a
+
+>  <ref_pdb>  (8) 
+Ax0310a
+
+>  <similarity>  (8) 
+1.0
+
+>  <smiles>  (8) 
+CC(=O)Nc1ccc(NCc2cc(F)ccc2C)nc1
+
+>  <cmpd_id>  (8) 
+ENAMINE:PV-002401428254
+
+>  <used_subnode>  (8) 
+NCc1ccccc1
+
+>  <used_synthon>  (8) 
+CC(=O)N[Xe]
+
+>  <ref_subnode>  (8) 
+NCc1ccccc1
+
+>  <ref_synthon>  (8) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (8) 
+Ax0365a
+
+>  <fragmentB>  (8) 
+Ax0310a
+
+>  <HA>  (8) 
+20
+
+>  <HBD>  (8) 
+2
+
+>  <HBA>  (8) 
+3
+
+>  <MW>  (8) 
+273.127740352
+
+>  <TPSA>  (8) 
+54.02
+
+>  <LogP>  (8) 
+3.0996200000000016
+
+>  <RBs>  (8) 
+4
+
+>  <G_bound>  (8) 
+-8.865698099051592
+
+>  <G_unbound>  (8) 
+0.08093115072928903
+
+>  <deltaG>  (8) 
+-8.94662924978088
+
+>  <comRMSD>  (8) 
+0.18702266944825405
+
+>  <substructure_overlap_check>  (8) 
+1
+
+>  <energy_ratio_check>  (8) 
+1
+
+>  <const_energy/unconst_energy>  (8) 
+3.6449520266127524
+
+>  <sucos>  (8) 
+0.5956202216546826
+
+>  <interactions>  (8) 
+Hydrophobic_GLU-106,Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBDonor_SER-105,HBDonor_SER-125
+
+>  <total_num_ints>  (8) 
+5
+
+>  <total_num_ints_nonhyd>  (8) 
+2
+
+>  <num_uniq_frag_ints>  (8) 
+6
+
+>  <num_repl_uniq_ints>  (8) 
+5
+
+>  <num_uniq_ints_lost>  (8) 
+1
+
+>  <num_new_uniq_ints>  (8) 
+0
+
+>  <int_check>  (8) 
+1
+
+>  <prop_maintained_ints>  (8) 
+0.8333333333333334
+
+>  <rationale>  (8) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and CC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0365a-Ax0310a_3018_B1X
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+   28.4919   13.7271    8.3930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5010   12.9842    7.5354 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5631   13.1762    6.3255 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2980   12.1130    8.2316 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1299   11.2044    7.5825 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1731    9.7516    7.7977 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1445    8.9648    6.9649 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9315    9.6432    6.0543 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8442    8.9779    5.2273 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.8478    9.7022    4.4591 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2874    9.7722    3.1896 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2047    8.5933    2.4539 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.6453    8.5958    1.1772 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1662    9.7724    0.6189 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2495   10.9443    1.3497 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8052   10.9905    2.6422 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8544   12.3236    3.3733 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2885   13.5724    2.6364 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8599   13.4232    3.0544 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8735   10.9748    5.8855 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0037   11.7032    6.6263 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+  8 20  1  0
+ 20 21  2  0
+ 21  5  1  0
+ 16 11  1  0
+ 19 17  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ O1 
+A    4
+ N1 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ N2 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ C11
+A   15
+ C12
+A   16
+ C13
+A   17
+ C14
+A   18
+ C15
+A   19
+ C16
+A   20
+ N3 
+A   21
+ C17
+M  END
+>  <ref_url>  (9) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (9) 
+Steph Wills
+
+>  <submitter_institution>  (9) 
+University of Oxford
+
+>  <submitter_email>  (9) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (9) 
+2024-06-03
+
+>  <method>  (9) 
+FragNetv2
+
+>  <original SMILES>  (9) 
+CC(=O)Nc1ccc(NCc2ccccc2C2CC2)nc1
+
+>  <original_name>  (9) 
+Ax0365a-Ax0310a_3018_B1X
+
+>  <ref_mols>  (9) 
+Ax0365a,Ax0310a
+
+>  <ref_pdb>  (9) 
+Ax0310a
+
+>  <similarity>  (9) 
+1.0
+
+>  <smiles>  (9) 
+CC(=O)Nc1ccc(NCc2ccccc2C2CC2)nc1
+
+>  <cmpd_id>  (9) 
+ENAMINE:PV-002092131163
+
+>  <used_subnode>  (9) 
+NCc1ccccc1
+
+>  <used_synthon>  (9) 
+CC(=O)N[Xe]
+
+>  <ref_subnode>  (9) 
+NCc1ccccc1
+
+>  <ref_synthon>  (9) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (9) 
+Ax0365a
+
+>  <fragmentB>  (9) 
+Ax0310a
+
+>  <HA>  (9) 
+21
+
+>  <HBD>  (9) 
+2
+
+>  <HBA>  (9) 
+3
+
+>  <MW>  (9) 
+281.152812228
+
+>  <TPSA>  (9) 
+54.02
+
+>  <LogP>  (9) 
+3.5295000000000023
+
+>  <RBs>  (9) 
+5
+
+>  <G_bound>  (9) 
+-7.641848540572049
+
+>  <G_unbound>  (9) 
+1.0545311191652078
+
+>  <deltaG>  (9) 
+-8.696379659737257
+
+>  <comRMSD>  (9) 
+0.5045107680781565
+
+>  <substructure_overlap_check>  (9) 
+1
+
+>  <energy_ratio_check>  (9) 
+1
+
+>  <const_energy/unconst_energy>  (9) 
+1.2555178895723653
+
+>  <sucos>  (9) 
+0.6286243795001948
+
+>  <interactions>  (9) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBDonor_SER-125,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (9) 
+5
+
+>  <total_num_ints_nonhyd>  (9) 
+2
+
+>  <num_uniq_frag_ints>  (9) 
+6
+
+>  <num_repl_uniq_ints>  (9) 
+5
+
+>  <num_uniq_ints_lost>  (9) 
+1
+
+>  <num_new_uniq_ints>  (9) 
+0
+
+>  <int_check>  (9) 
+1
+
+>  <prop_maintained_ints>  (9) 
+0.8333333333333334
+
+>  <rationale>  (9) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and CC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0365a-Ax0310a_2896_B1X_rgrp-1
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+   28.4806   13.7679    8.3910 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4267   13.0570    7.4994 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4718   13.4759    6.2065 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1567   12.0490    8.0911 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1247   11.2572    7.4391 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0268   11.8524    6.5850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0472   11.1071    5.8699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1058    9.6882    6.0737 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.0877    9.0198    5.3699 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.8725    9.5243    4.3065 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.3070    9.6143    3.0336 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2287    8.4839    2.2241 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.7229    7.2516    2.6336 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.6412    8.5953    0.9691 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1100    9.9135    0.4971 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1910   11.0414    1.2877 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8073   10.8485    2.5710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8983   11.9303    3.3565 F   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2251    9.1033    6.9164 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2769    9.8664    7.5661 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 12 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+  8 19  1  0
+ 19 20  2  0
+ 20  5  1  0
+ 17 11  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ O1 
+A    4
+ N1 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ N2 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ C11
+A   15
+ C12
+A   16
+ C13
+A   17
+ C14
+A   18
+ F1 
+A   19
+ N3 
+A   20
+ C15
+M  END
+>  <ref_url>  (10) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (10) 
+Steph Wills
+
+>  <submitter_institution>  (10) 
+University of Oxford
+
+>  <submitter_email>  (10) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (10) 
+2024-06-03
+
+>  <method>  (10) 
+FragNetv2
+
+>  <original SMILES>  (10) 
+CC(=O)Nc1ccc(NCc2c(C)cccc2F)nc1
+
+>  <original_name>  (10) 
+Ax0365a-Ax0310a_2896_B1X_rgrp-1
+
+>  <ref_mols>  (10) 
+Ax0365a,Ax0310a
+
+>  <ref_pdb>  (10) 
+Ax0310a
+
+>  <similarity>  (10) 
+1.0
+
+>  <smiles>  (10) 
+CC(=O)Nc1ccc(NCc2c(C)cccc2F)nc1
+
+>  <cmpd_id>  (10) 
+ENAMINE:PV-002988319159
+
+>  <used_subnode>  (10) 
+NCc1ccccc1
+
+>  <used_synthon>  (10) 
+CC(=O)N[Xe]
+
+>  <ref_subnode>  (10) 
+NCc1ccccc1
+
+>  <ref_synthon>  (10) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (10) 
+Ax0365a
+
+>  <fragmentB>  (10) 
+Ax0310a
+
+>  <HA>  (10) 
+20
+
+>  <HBD>  (10) 
+2
+
+>  <HBA>  (10) 
+3
+
+>  <MW>  (10) 
+273.127740352
+
+>  <TPSA>  (10) 
+54.02
+
+>  <LogP>  (10) 
+3.0996200000000016
+
+>  <RBs>  (10) 
+4
+
+>  <G_bound>  (10) 
+-8.458413099336509
+
+>  <G_unbound>  (10) 
+0.5378614445504055
+
+>  <deltaG>  (10) 
+-8.996274543886914
+
+>  <comRMSD>  (10) 
+0.1613473193423544
+
+>  <substructure_overlap_check>  (10) 
+1
+
+>  <energy_ratio_check>  (10) 
+1
+
+>  <const_energy/unconst_energy>  (10) 
+3.2435431714850065
+
+>  <sucos>  (10) 
+0.6722999572774091
+
+>  <interactions>  (10) 
+Hydrophobic_GLU-106,Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBDonor_SER-105,HBDonor_SER-125
+
+>  <total_num_ints>  (10) 
+5
+
+>  <total_num_ints_nonhyd>  (10) 
+2
+
+>  <num_uniq_frag_ints>  (10) 
+6
+
+>  <num_repl_uniq_ints>  (10) 
+5
+
+>  <num_uniq_ints_lost>  (10) 
+1
+
+>  <num_new_uniq_ints>  (10) 
+0
+
+>  <int_check>  (10) 
+1
+
+>  <prop_maintained_ints>  (10) 
+0.8333333333333334
+
+>  <rationale>  (10) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and CC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0365a-Ax0451a_501_B1X_rgrp-1
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+   30.5039    8.7514    8.6702 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8751    9.9473    7.9693 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2804   11.1650    8.1748 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8739   12.2178    7.3227 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8774   11.4267    6.6089 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7663   12.0539    5.6071 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7264   11.0740    4.9757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7018    9.7241    5.3637 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5901    8.8856    4.7498 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.5924    9.1550    3.7297 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5398    9.5516    2.6759 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.0233   10.9207    2.3378 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0299   10.8865    1.2655 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5596    9.7131    0.5733 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1099    8.4626    0.9678 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1515    8.3779    2.0747 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7946    9.2338    6.3535 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8775   10.0961    6.9798 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+  8 17  1  0
+ 17 18  2  0
+ 18  2  1  0
+ 18  5  1  0
+ 16 11  1  0
+A    1
+ C1 
+A    2
+ N1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ C6 
+A    8
+ C7 
+A    9
+ N2 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ C10
+A   13
+ C11
+A   14
+ C12
+A   15
+ C13
+A   16
+ C14
+A   17
+ C15
+A   18
+ C16
+M  END
+>  <ref_url>  (11) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (11) 
+Steph Wills
+
+>  <submitter_institution>  (11) 
+University of Oxford
+
+>  <submitter_email>  (11) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (11) 
+2024-06-03
+
+>  <method>  (11) 
+FragNetv2
+
+>  <original SMILES>  (11) 
+Cn1ccc2ccc(NCc3ccccc3)cc21
+
+>  <original_name>  (11) 
+Ax0365a-Ax0451a_501_B1X_rgrp-1
+
+>  <ref_mols>  (11) 
+Ax0365a,Ax0451a
+
+>  <ref_pdb>  (11) 
+Ax0310a
+
+>  <similarity>  (11) 
+1.0
+
+>  <smiles>  (11) 
+Cn1ccc2ccc(NCc3ccccc3)cc21
+
+>  <cmpd_id>  (11) 
+CHEMSPACE-BB:CSMB00087565657,ENAMINE:Z1796918589
+
+>  <used_subnode>  (11) 
+NCc1ccccc1
+
+>  <used_synthon>  (11) 
+[Xe]c1ccc2cc[nH]c2c1
+
+>  <ref_subnode>  (11) 
+NCc1ccccc1
+
+>  <ref_synthon>  (11) 
+[Xe]c1c[nH]c2ccccc12
+
+>  <fragmentA>  (11) 
+Ax0365a
+
+>  <fragmentB>  (11) 
+Ax0451a
+
+>  <HA>  (11) 
+18
+
+>  <HBD>  (11) 
+1
+
+>  <HBA>  (11) 
+2
+
+>  <MW>  (11) 
+236.131348512
+
+>  <TPSA>  (11) 
+16.96
+
+>  <LogP>  (11) 
+3.7904000000000027
+
+>  <RBs>  (11) 
+3
+
+>  <G_bound>  (11) 
+-10.355696950970241
+
+>  <G_unbound>  (11) 
+-0.3051606888773331
+
+>  <deltaG>  (11) 
+-10.050536262092908
+
+>  <comRMSD>  (11) 
+0.34208345210283775
+
+>  <substructure_overlap_check>  (11) 
+1
+
+>  <energy_ratio_check>  (11) 
+1
+
+>  <const_energy/unconst_energy>  (11) 
+5.155193460096483
+
+>  <sucos>  (11) 
+0.5778051417450486
+
+>  <interactions>  (11) 
+Hydrophobic_GLU-106,Hydrophobic_PRO-107,HBDonor_SER-105
+
+>  <total_num_ints>  (11) 
+3
+
+>  <total_num_ints_nonhyd>  (11) 
+1
+
+>  <num_uniq_frag_ints>  (11) 
+4
+
+>  <num_repl_uniq_ints>  (11) 
+3
+
+>  <num_uniq_ints_lost>  (11) 
+1
+
+>  <num_new_uniq_ints>  (11) 
+0
+
+>  <int_check>  (11) 
+1
+
+>  <prop_maintained_ints>  (11) 
+0.75
+
+>  <rationale>  (11) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and [Xe]c1ccc2cc[nH]c2c1 replacing [Xe]c1c[nH]c2ccccc12
+
+$$$$
+Ax0365a-Ax0528a_1081_B1X_rgrp-0
+     RDKit          3D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+   32.2832    9.7840   -0.7217 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9599    9.7757    0.5955 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4667    8.4134    1.0260 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1338    8.3947    2.3281 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2944    9.6183    3.1550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.0024    9.4061    4.4879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.0275    9.1422    5.4263 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0635   10.0325    5.9540 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.9908    9.7090    6.9850 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.9684   10.7242    7.5321 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1240   12.0964    6.9366 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2817   13.1512    7.3097 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8485   13.1213    6.9699 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2277   14.4769    7.2691 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5799   14.9757    8.5717 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9241   14.7665    9.0605 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4643   15.6051    9.7787 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5807   13.6062    8.6851 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1480   12.2433    6.0091 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0321   11.3177    5.5552 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7959   10.8381    2.6747 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1374   10.9277    1.4177 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6265   12.2694    0.9737 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 11 19  1  0
+ 19 20  2  0
+  5 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 22  2  1  0
+ 20  8  1  0
+ 18 12  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ C4 
+A    5
+ C5 
+A    6
+ C6 
+A    7
+ N1 
+A    8
+ C7 
+A    9
+ C8 
+A   10
+ C9 
+A   11
+ C10
+A   12
+ N2 
+A   13
+ C11
+A   14
+ C12
+A   15
+ N3 
+A   16
+ C13
+A   17
+ O1 
+A   18
+ C14
+A   19
+ C15
+A   20
+ N4 
+A   21
+ C16
+A   22
+ C17
+A   23
+ C18
+M  END
+>  <ref_url>  (12) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (12) 
+Steph Wills
+
+>  <submitter_institution>  (12) 
+University of Oxford
+
+>  <submitter_email>  (12) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (12) 
+2024-06-03
+
+>  <method>  (12) 
+FragNetv2
+
+>  <original SMILES>  (12) 
+Cc1ccc(CNc2ccc(N3CCNC(=O)C3)cn2)cc1C
+
+>  <original_name>  (12) 
+Ax0365a-Ax0528a_1081_B1X_rgrp-0
+
+>  <ref_mols>  (12) 
+Ax0365a,Ax0528a
+
+>  <ref_pdb>  (12) 
+Ax0310a
+
+>  <similarity>  (12) 
+1.0
+
+>  <smiles>  (12) 
+Cc1ccc(CNc2ccc(N3CCNC(=O)C3)cn2)cc1C
+
+>  <cmpd_id>  (12) 
+ENAMINE:Z1950834336
+
+>  <used_subnode>  (12) 
+NCc1ccccc1
+
+>  <used_synthon>  (12) 
+O=C1CN([Xe])CCN1
+
+>  <ref_subnode>  (12) 
+NCc1ccccc1
+
+>  <ref_synthon>  (12) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (12) 
+Ax0365a
+
+>  <fragmentB>  (12) 
+Ax0528a
+
+>  <HA>  (12) 
+23
+
+>  <HBD>  (12) 
+2
+
+>  <HBA>  (12) 
+4
+
+>  <MW>  (12) 
+310.179361324
+
+>  <TPSA>  (12) 
+57.26
+
+>  <LogP>  (12) 
+2.24674
+
+>  <RBs>  (12) 
+4
+
+>  <G_bound>  (12) 
+-6.3693280336508975
+
+>  <G_unbound>  (12) 
+0.4020270852702051
+
+>  <deltaG>  (12) 
+-6.771355118921103
+
+>  <comRMSD>  (12) 
+0.19376152132502694
+
+>  <substructure_overlap_check>  (12) 
+1
+
+>  <energy_ratio_check>  (12) 
+1
+
+>  <const_energy/unconst_energy>  (12) 
+2.989618031552393
+
+>  <sucos>  (12) 
+0.5644010898731509
+
+>  <interactions>  (12) 
+Hydrophobic_GLU-106,Hydrophobic_PRO-107,HBDonor_SER-105
+
+>  <total_num_ints>  (12) 
+3
+
+>  <total_num_ints_nonhyd>  (12) 
+1
+
+>  <num_uniq_frag_ints>  (12) 
+5
+
+>  <num_repl_uniq_ints>  (12) 
+3
+
+>  <num_uniq_ints_lost>  (12) 
+2
+
+>  <num_new_uniq_ints>  (12) 
+0
+
+>  <int_check>  (12) 
+1
+
+>  <prop_maintained_ints>  (12) 
+0.6
+
+>  <rationale>  (12) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and O=C1CN([Xe])CCN1 replacing O=C1NCCC1[Xe]
+
+$$$$
+Ax0365a-Ax0528a_1157_PXX
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+   30.6637   15.4086    9.3531 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.8321   14.8940    8.6218 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5469   15.3146    8.4070 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.8081   14.2583    7.7891 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.7020   13.0376    7.9822 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.0644   13.6841    7.7813 C   0  0  2  0  0  0  0  0  0  0  0  0
+   31.3663   13.0186    8.2274 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1947   13.6654    8.8732 O   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5902   11.7079    7.8826 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.3469   11.0130    7.9833 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4747    9.5151    8.1482 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6942    8.9407    7.4741 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.4187    9.8107    6.3933 C   0  0  2  0  0  0  0  0  0  0  0  0
+   33.6883    9.2071    5.8566 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5474    9.9456    4.8954 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1304    9.8333    3.4426 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1843    8.6085    2.7492 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7841    8.5331    1.4094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3304    9.6744    0.7513 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2761   10.8938    1.4254 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.6744   10.9716    2.7617 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5465   11.2926    6.8272 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  1
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  1
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 18 19  2  0
+ 19 20  1  0
+ 20 21  2  0
+ 13 22  1  0
+  6  2  1  0
+ 22  9  1  0
+ 21 16  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ O2 
+A    9
+ N2 
+A   10
+ C6 
+A   11
+ C7 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ N3 
+A   15
+ C10
+A   16
+ C11
+A   17
+ C12
+A   18
+ C13
+A   19
+ C14
+A   20
+ C15
+A   21
+ C16
+A   22
+ C17
+M  END
+>  <ref_url>  (13) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (13) 
+Steph Wills
+
+>  <submitter_institution>  (13) 
+University of Oxford
+
+>  <submitter_email>  (13) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (13) 
+2024-06-03
+
+>  <method>  (13) 
+FragNetv2
+
+>  <original SMILES>  (13) 
+O=C1NCCC1C(=O)N1CCCC(NCc2ccccc2)C1
+
+>  <original_name>  (13) 
+Ax0365a-Ax0528a_1157_PXX
+
+>  <ref_mols>  (13) 
+Ax0365a,Ax0528a
+
+>  <ref_pdb>  (13) 
+Ax0310a
+
+>  <similarity>  (13) 
+NA
+
+>  <smiles>  (13) 
+O=C1NCCC1C(=O)N1CCCC(NCc2ccccc2)C1
+
+>  <cmpd_id>  (13) 
+ENAMINE:Z2659041027
+
+>  <used_subnode>  (13) 
+NA
+
+>  <used_synthon>  (13) 
+NA
+
+>  <ref_subnode>  (13) 
+NCc1ccccc1
+
+>  <ref_synthon>  (13) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (13) 
+Ax0365a
+
+>  <fragmentB>  (13) 
+Ax0528a
+
+>  <HA>  (13) 
+22
+
+>  <HBD>  (13) 
+2
+
+>  <HBA>  (13) 
+3
+
+>  <MW>  (13) 
+301.179026976
+
+>  <TPSA>  (13) 
+61.440000000000005
+
+>  <LogP>  (13) 
+0.9033000000000004
+
+>  <RBs>  (13) 
+4
+
+>  <G_bound>  (13) 
+-2.133839739064249
+
+>  <G_unbound>  (13) 
+0.8258178156611892
+
+>  <deltaG>  (13) 
+-2.959657554725438
+
+>  <comRMSD>  (13) 
+0.5355825179895204
+
+>  <substructure_overlap_check>  (13) 
+1
+
+>  <energy_ratio_check>  (13) 
+1
+
+>  <const_energy/unconst_energy>  (13) 
+4.457805360160909
+
+>  <sucos>  (13) 
+0.56150229809322
+
+>  <interactions>  (13) 
+Hydrophobic_PRO-107,HBAcceptor_SER-87,Hydrophobic_HIS-21,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (13) 
+5
+
+>  <total_num_ints_nonhyd>  (13) 
+2
+
+>  <num_uniq_frag_ints>  (13) 
+5
+
+>  <num_repl_uniq_ints>  (13) 
+4
+
+>  <num_uniq_ints_lost>  (13) 
+1
+
+>  <num_new_uniq_ints>  (13) 
+1
+
+>  <int_check>  (13) 
+1
+
+>  <prop_maintained_ints>  (13) 
+0.8
+
+>  <rationale>  (13) 
+FragNet: perfect merge incl NCc1ccccc1,O=C1NCCC1[Xe]
+
+$$$$
+Ax0365a-Ax0528a_1224_B1X
+     RDKit          3D
+
+ 24 26  0  0  0  0  0  0  0  0999 V2000
+   31.2703   14.5186    9.2148 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2790   14.2031    8.5584 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.1179   15.0165    8.4420 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2002   14.3861    7.7085 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6202   13.1627    7.1759 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9892   13.0439    7.7436 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8960   12.0928    7.2715 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8827   10.7162    7.7057 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7932    9.8325    7.2022 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8447   10.2177    6.1930 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8145    9.1989    5.6983 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.7877    9.6293    4.6733 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2337    9.6517    3.2477 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1657    8.3770    2.3957 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5782    8.5260    0.9765 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1416    9.9243    0.6043 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5877    9.8831   -0.8302 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1410    8.9026   -1.5986 F   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2408    9.6722   -0.8782 F   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8016   11.0474   -1.5055 F   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2201   11.0616    1.4015 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7351   10.9839    2.6741 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8225   11.5500    5.8039 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8822   12.4581    6.3229 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 17 20  1  0
+ 16 21  1  0
+ 21 22  2  0
+ 10 23  1  0
+ 23 24  2  0
+  6  2  1  0
+ 24  7  1  0
+ 22 13  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ N2 
+A    7
+ C4 
+A    8
+ C5 
+A    9
+ C6 
+A   10
+ C7 
+A   11
+ N3 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ F1 
+A   19
+ F2 
+A   20
+ F3 
+A   21
+ C14
+A   22
+ C15
+A   23
+ C16
+A   24
+ C17
+M  END
+>  <ref_url>  (14) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (14) 
+Steph Wills
+
+>  <submitter_institution>  (14) 
+University of Oxford
+
+>  <submitter_email>  (14) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (14) 
+2024-06-03
+
+>  <method>  (14) 
+FragNetv2
+
+>  <original SMILES>  (14) 
+O=C1NCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)cc1
+
+>  <original_name>  (14) 
+Ax0365a-Ax0528a_1224_B1X
+
+>  <ref_mols>  (14) 
+Ax0365a,Ax0528a
+
+>  <ref_pdb>  (14) 
+Ax0310a
+
+>  <similarity>  (14) 
+1.0
+
+>  <smiles>  (14) 
+O=C1NCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)cc1
+
+>  <cmpd_id>  (14) 
+ENAMINE:PV-001923657878
+
+>  <used_subnode>  (14) 
+NCc1ccccc1
+
+>  <used_synthon>  (14) 
+O=C1NCCN1[Xe]
+
+>  <ref_subnode>  (14) 
+NCc1ccccc1
+
+>  <ref_synthon>  (14) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (14) 
+Ax0365a
+
+>  <fragmentB>  (14) 
+Ax0528a
+
+>  <HA>  (14) 
+24
+
+>  <HBD>  (14) 
+2
+
+>  <HBA>  (14) 
+2
+
+>  <MW>  (14) 
+335.124546792
+
+>  <TPSA>  (14) 
+44.370000000000005
+
+>  <LogP>  (14) 
+3.847100000000003
+
+>  <RBs>  (14) 
+4
+
+>  <G_bound>  (14) 
+-7.293744578411969
+
+>  <G_unbound>  (14) 
+0.3687553458135277
+
+>  <deltaG>  (14) 
+-7.6624999242254965
+
+>  <comRMSD>  (14) 
+0.5841247726752145
+
+>  <substructure_overlap_check>  (14) 
+1
+
+>  <energy_ratio_check>  (14) 
+1
+
+>  <const_energy/unconst_energy>  (14) 
+3.1642026836332486
+
+>  <sucos>  (14) 
+0.555856538963937
+
+>  <interactions>  (14) 
+Hydrophobic_PRO-107,Hydrophobic_GLU-106,HBDonor_SER-105,HBDonor_SER-87
+
+>  <total_num_ints>  (14) 
+4
+
+>  <total_num_ints_nonhyd>  (14) 
+2
+
+>  <num_uniq_frag_ints>  (14) 
+5
+
+>  <num_repl_uniq_ints>  (14) 
+3
+
+>  <num_uniq_ints_lost>  (14) 
+2
+
+>  <num_new_uniq_ints>  (14) 
+1
+
+>  <int_check>  (14) 
+1
+
+>  <prop_maintained_ints>  (14) 
+0.6
+
+>  <rationale>  (14) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and O=C1NCCN1[Xe] replacing O=C1NCCC1[Xe]
+
+$$$$
+Ax0365a-Ax0528a_1434_B1X
+     RDKit          3D
+
+ 21 23  0  0  0  0  0  0  0  0999 V2000
+   31.1894   14.6294    9.2523 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2353   14.2481    8.6009 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.0116   14.9473    8.5192 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2055   14.5483    7.5311 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6020   13.2051    7.2723 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9981   13.1307    7.7645 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.9527   12.1882    7.2158 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.9434   12.6600    6.2552 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8972   11.5833    5.7235 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8308   10.1127    6.1541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7604    9.1971    5.6021 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.8370    9.5622    4.6905 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2486    9.7531    3.3004 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1609    8.4756    2.4909 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5865    8.4671    1.0641 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1064    9.8097    0.4903 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2341   11.0451    1.3696 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8273   12.2327    0.8954 F   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8144   10.9649    2.7736 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8286    9.8237    7.0822 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.9419   10.8168    7.5831 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 17 19  2  0
+ 10 20  1  0
+ 20 21  2  0
+  6  2  1  0
+ 21  7  1  0
+ 19 13  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ N2 
+A    7
+ C4 
+A    8
+ C5 
+A    9
+ C6 
+A   10
+ C7 
+A   11
+ N3 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ F1 
+A   19
+ C14
+A   20
+ C15
+A   21
+ C16
+M  END
+>  <ref_url>  (15) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (15) 
+Steph Wills
+
+>  <submitter_institution>  (15) 
+University of Oxford
+
+>  <submitter_email>  (15) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (15) 
+2024-06-03
+
+>  <method>  (15) 
+FragNetv2
+
+>  <original SMILES>  (15) 
+O=C1NCCN1c1ccc(NCc2cccc(F)c2)cc1
+
+>  <original_name>  (15) 
+Ax0365a-Ax0528a_1434_B1X
+
+>  <ref_mols>  (15) 
+Ax0365a,Ax0528a
+
+>  <ref_pdb>  (15) 
+Ax0310a
+
+>  <similarity>  (15) 
+1.0
+
+>  <smiles>  (15) 
+O=C1NCCN1c1ccc(NCc2cccc(F)c2)cc1
+
+>  <cmpd_id>  (15) 
+ENAMINE:PV-001923657790
+
+>  <used_subnode>  (15) 
+NCc1ccccc1
+
+>  <used_synthon>  (15) 
+O=C1NCCN1[Xe]
+
+>  <ref_subnode>  (15) 
+NCc1ccccc1
+
+>  <ref_synthon>  (15) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (15) 
+Ax0365a
+
+>  <fragmentB>  (15) 
+Ax0528a
+
+>  <HA>  (15) 
+21
+
+>  <HBD>  (15) 
+2
+
+>  <HBA>  (15) 
+2
+
+>  <MW>  (15) 
+285.127740352
+
+>  <TPSA>  (15) 
+44.370000000000005
+
+>  <LogP>  (15) 
+2.9674000000000014
+
+>  <RBs>  (15) 
+4
+
+>  <G_bound>  (15) 
+-6.810867616700732
+
+>  <G_unbound>  (15) 
+0.26681599911826864
+
+>  <deltaG>  (15) 
+-7.077683615819001
+
+>  <comRMSD>  (15) 
+0.5542299085522985
+
+>  <substructure_overlap_check>  (15) 
+1
+
+>  <energy_ratio_check>  (15) 
+1
+
+>  <const_energy/unconst_energy>  (15) 
+3.8154290274639897
+
+>  <sucos>  (15) 
+0.5539103816225383
+
+>  <interactions>  (15) 
+Hydrophobic_PRO-107,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (15) 
+3
+
+>  <total_num_ints_nonhyd>  (15) 
+1
+
+>  <num_uniq_frag_ints>  (15) 
+5
+
+>  <num_repl_uniq_ints>  (15) 
+3
+
+>  <num_uniq_ints_lost>  (15) 
+2
+
+>  <num_new_uniq_ints>  (15) 
+0
+
+>  <int_check>  (15) 
+1
+
+>  <prop_maintained_ints>  (15) 
+0.6
+
+>  <rationale>  (15) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and O=C1NCCN1[Xe] replacing O=C1NCCC1[Xe]
+
+$$$$
+Ax0365a-Ax0528a_1084_B1X
+     RDKit          3D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+   32.0776   13.3911    2.3487 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5629   12.5465    0.8146 S   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1726   10.9779    1.4224 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0319    9.8556    0.5475 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5426    8.7058    1.1370 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1629    8.5495    2.4665 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2435    9.6989    3.2238 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.8792    9.6002    4.6342 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8879    9.1583    5.6138 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9029   10.0596    6.0963 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8944    9.5917    7.1530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8523   10.5768    7.6753 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8918   11.9933    7.0790 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9769   13.0073    7.4801 N   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6397   13.2137    6.9094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2909   14.6989    7.0251 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6735   15.3858    8.2498 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7812   14.9670    8.9093 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5371   15.7363    9.4898 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.0016   13.4891    8.8444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.9040   12.2002    6.1207 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8481   11.3219    5.6491 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7538   10.8998    2.7030 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 13 21  1  0
+ 21 22  2  0
+  7 23  2  0
+ 23  3  1  0
+ 22 10  1  0
+ 20 14  1  0
+A    1
+ C1 
+A    2
+ S1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ C6 
+A    8
+ C7 
+A    9
+ N1 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ C10
+A   13
+ C11
+A   14
+ N2 
+A   15
+ C12
+A   16
+ C13
+A   17
+ N3 
+A   18
+ C14
+A   19
+ O1 
+A   20
+ C15
+A   21
+ C16
+A   22
+ N4 
+A   23
+ C17
+M  END
+>  <ref_url>  (16) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (16) 
+Steph Wills
+
+>  <submitter_institution>  (16) 
+University of Oxford
+
+>  <submitter_email>  (16) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (16) 
+2024-06-03
+
+>  <method>  (16) 
+FragNetv2
+
+>  <original SMILES>  (16) 
+CSc1cccc(CNc2ccc(N3CCNC(=O)C3)cn2)c1
+
+>  <original_name>  (16) 
+Ax0365a-Ax0528a_1084_B1X
+
+>  <ref_mols>  (16) 
+Ax0365a,Ax0528a
+
+>  <ref_pdb>  (16) 
+Ax0310a
+
+>  <similarity>  (16) 
+1.0
+
+>  <smiles>  (16) 
+CSc1cccc(CNc2ccc(N3CCNC(=O)C3)cn2)c1
+
+>  <cmpd_id>  (16) 
+ENAMINE:Z3293333923
+
+>  <used_subnode>  (16) 
+NCc1ccccc1
+
+>  <used_synthon>  (16) 
+O=C1CN([Xe])CCN1
+
+>  <ref_subnode>  (16) 
+NCc1ccccc1
+
+>  <ref_synthon>  (16) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (16) 
+Ax0365a
+
+>  <fragmentB>  (16) 
+Ax0528a
+
+>  <HA>  (16) 
+23
+
+>  <HBD>  (16) 
+2
+
+>  <HBA>  (16) 
+5
+
+>  <MW>  (16) 
+328.13578226
+
+>  <TPSA>  (16) 
+57.26
+
+>  <LogP>  (16) 
+2.3518
+
+>  <RBs>  (16) 
+5
+
+>  <G_bound>  (16) 
+-5.987225775257172
+
+>  <G_unbound>  (16) 
+0.3679104939937182
+
+>  <deltaG>  (16) 
+-6.35513626925089
+
+>  <comRMSD>  (16) 
+0.7924527696151867
+
+>  <substructure_overlap_check>  (16) 
+1
+
+>  <energy_ratio_check>  (16) 
+1
+
+>  <const_energy/unconst_energy>  (16) 
+3.635419616182839
+
+>  <sucos>  (16) 
+0.5997887682805266
+
+>  <interactions>  (16) 
+Hydrophobic_PRO-107,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (16) 
+3
+
+>  <total_num_ints_nonhyd>  (16) 
+1
+
+>  <num_uniq_frag_ints>  (16) 
+5
+
+>  <num_repl_uniq_ints>  (16) 
+3
+
+>  <num_uniq_ints_lost>  (16) 
+2
+
+>  <num_new_uniq_ints>  (16) 
+0
+
+>  <int_check>  (16) 
+1
+
+>  <prop_maintained_ints>  (16) 
+0.6
+
+>  <rationale>  (16) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and O=C1CN([Xe])CCN1 replacing O=C1NCCC1[Xe]
+
+$$$$
+Ax0365a-Ax0528a_247_B1X
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+   30.9316    8.9720    8.1456 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8114    9.4909    7.0993 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7838    8.7093    6.5389 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4148    9.5053    5.6416 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6090    9.1361    4.7565 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3237   10.4294    4.3490 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.8667   10.8791    2.9642 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.2755    9.9785    1.9331 O   0  0  0  0  0  0  0  0  0  0  0  0
+   35.5050    8.6674    2.4316 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.4332    8.3181    3.4550 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8207   10.7616    5.6431 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8054   10.7483    6.5628 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.9867   11.8915    6.8111 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3258   13.0323    6.5381 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7924   11.5545    7.3478 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6907   12.4073    6.9947 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5475   13.3889    8.1192 C   0  0  2  0  0  0  0  0  0  0  0  0
+   27.9476   14.6898    7.6597 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6502   15.6609    8.4286 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.8245   15.1687    8.9609 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6287   15.7837    9.6280 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9601   13.7537    8.5530 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  4 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 15 16  1  0
+ 17 16  1  6
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  2  0
+ 20 22  1  0
+ 12  2  1  0
+ 22 17  1  0
+ 10  5  1  0
+A    1
+ C1 
+A    2
+ N1 
+A    3
+ N2 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ O1 
+A    9
+ C6 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ O2 
+A   15
+ O3 
+A   16
+ C11
+A   17
+ C12
+A   18
+ C13
+A   19
+ N3 
+A   20
+ C14
+A   21
+ O4 
+A   22
+ C15
+M  END
+>  <ref_url>  (17) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (17) 
+Steph Wills
+
+>  <submitter_institution>  (17) 
+University of Oxford
+
+>  <submitter_email>  (17) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (17) 
+2024-06-03
+
+>  <method>  (17) 
+FragNetv2
+
+>  <original SMILES>  (17) 
+Cn1nc(C2CCOCC2)cc1C(=O)OCC1CNC(=O)C1
+
+>  <original_name>  (17) 
+Ax0365a-Ax0528a_247_B1X
+
+>  <ref_mols>  (17) 
+Ax0365a,Ax0528a
+
+>  <ref_pdb>  (17) 
+Ax0310a
+
+>  <similarity>  (17) 
+1.0
+
+>  <smiles>  (17) 
+Cn1nc(C2CCOCC2)cc1C(=O)OCC1CNC(=O)C1
+
+>  <cmpd_id>  (17) 
+ENAMINE:Z3155821939
+
+>  <used_subnode>  (17) 
+Cn1cccn1
+
+>  <used_synthon>  (17) 
+O=C1CC([Xe])CN1
+
+>  <ref_subnode>  (17) 
+Cn1cccn1
+
+>  <ref_synthon>  (17) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (17) 
+Ax0365a
+
+>  <fragmentB>  (17) 
+Ax0528a
+
+>  <HA>  (17) 
+22
+
+>  <HBD>  (17) 
+1
+
+>  <HBA>  (17) 
+6
+
+>  <MW>  (17) 
+307.153206152
+
+>  <TPSA>  (17) 
+82.45000000000002
+
+>  <LogP>  (17) 
+0.6069999999999998
+
+>  <RBs>  (17) 
+4
+
+>  <G_bound>  (17) 
+-3.0953517415851457
+
+>  <G_unbound>  (17) 
+0.7051007478345771
+
+>  <deltaG>  (17) 
+-3.800452489419723
+
+>  <comRMSD>  (17) 
+0.6900712941290604
+
+>  <substructure_overlap_check>  (17) 
+1
+
+>  <energy_ratio_check>  (17) 
+1
+
+>  <const_energy/unconst_energy>  (17) 
+6.410022841777712
+
+>  <sucos>  (17) 
+0.5555049326899589
+
+>  <interactions>  (17) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,Hydrophobic_GLU-106
+
+>  <total_num_ints>  (17) 
+3
+
+>  <total_num_ints_nonhyd>  (17) 
+0
+
+>  <num_uniq_frag_ints>  (17) 
+5
+
+>  <num_repl_uniq_ints>  (17) 
+3
+
+>  <num_uniq_ints_lost>  (17) 
+2
+
+>  <num_new_uniq_ints>  (17) 
+0
+
+>  <int_check>  (17) 
+1
+
+>  <prop_maintained_ints>  (17) 
+0.6
+
+>  <rationale>  (17) 
+FragNet: 1 round bioisosteric merging incl Cn1cccn1 and O=C1CC([Xe])CN1 replacing O=C1NCCC1[Xe]
+
+$$$$
+Ax0365a-Ax0566a_113_B1X
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+   32.5317   11.6215   -1.3553 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.9363   10.4600   -0.7073 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7631    9.9994    0.4646 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0896    8.4783    0.5803 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.9339    8.2828    1.8569 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.3032    9.3045    2.7060 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.1188    8.9504    3.9078 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.3045    8.7036    3.7306 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.4042    8.9363    5.0631 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.6811   10.0209    5.5111 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8151   11.3653    5.1689 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8821   12.0762    5.8713 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1474   11.2238    6.6627 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1056   11.4835    7.5453 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5492   10.4057    8.2213 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.9988    9.1180    8.0289 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0368    8.8847    7.1447 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6270    9.9384    6.4500 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.9501   10.6287    2.4899 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1916   10.9634    1.3860 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  2  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  2  0
+  6 19  1  0
+ 19 20  2  0
+ 20  3  1  0
+ 18 10  1  0
+ 18 13  1  0
+A    1
+ N1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ C6 
+A    8
+ O1 
+A    9
+ N2 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ N3 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ C14
+A   19
+ C15
+A   20
+ C16
+M  END
+>  <ref_url>  (18) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (18) 
+Steph Wills
+
+>  <submitter_institution>  (18) 
+University of Oxford
+
+>  <submitter_email>  (18) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (18) 
+2024-06-03
+
+>  <method>  (18) 
+FragNetv2
+
+>  <original SMILES>  (18) 
+NCc1ccc(C(=O)Nc2c[nH]c3ccccc23)cc1
+
+>  <original_name>  (18) 
+Ax0365a-Ax0566a_113_B1X
+
+>  <ref_mols>  (18) 
+Ax0365a,Ax0566a
+
+>  <ref_pdb>  (18) 
+Ax0310a
+
+>  <similarity>  (18) 
+1.0
+
+>  <smiles>  (18) 
+NCc1ccc(C(=O)Nc2c[nH]c3ccccc23)cc1
+
+>  <cmpd_id>  (18) 
+ENAMINE:PV-003828674860
+
+>  <used_subnode>  (18) 
+NCc1ccccc1
+
+>  <used_synthon>  (18) 
+[Xe]c1c[nH]c2ccccc12
+
+>  <ref_subnode>  (18) 
+NCc1ccccc1
+
+>  <ref_synthon>  (18) 
+[Xe]c1cccc2cc[nH]c12
+
+>  <fragmentA>  (18) 
+Ax0365a
+
+>  <fragmentB>  (18) 
+Ax0566a
+
+>  <HA>  (18) 
+20
+
+>  <HBD>  (18) 
+3
+
+>  <HBA>  (18) 
+2
+
+>  <MW>  (18) 
+265.1215121
+
+>  <TPSA>  (18) 
+70.91
+
+>  <LogP>  (18) 
+2.8789000000000016
+
+>  <RBs>  (18) 
+3
+
+>  <G_bound>  (18) 
+-8.019765924421026
+
+>  <G_unbound>  (18) 
+0.2919113497205986
+
+>  <deltaG>  (18) 
+-8.311677274141624
+
+>  <comRMSD>  (18) 
+0.5028825535438424
+
+>  <substructure_overlap_check>  (18) 
+1
+
+>  <energy_ratio_check>  (18) 
+1
+
+>  <const_energy/unconst_energy>  (18) 
+5.381166494041772
+
+>  <sucos>  (18) 
+0.6306326390901545
+
+>  <interactions>  (18) 
+Hydrophobic_PRO-107,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (18) 
+3
+
+>  <total_num_ints_nonhyd>  (18) 
+1
+
+>  <num_uniq_frag_ints>  (18) 
+3
+
+>  <num_repl_uniq_ints>  (18) 
+3
+
+>  <num_uniq_ints_lost>  (18) 
+0
+
+>  <num_new_uniq_ints>  (18) 
+0
+
+>  <int_check>  (18) 
+1
+
+>  <prop_maintained_ints>  (18) 
+1.0
+
+>  <rationale>  (18) 
+FragNet: 1 round bioisosteric merging incl NCc1ccccc1 and [Xe]c1c[nH]c2ccccc12 replacing [Xe]c1cccc2cc[nH]c12
+
+$$$$
+Ax0446a-Ax0528a_2040_PXX
+     RDKit          3D
+
+ 20 22  0  0  0  0  0  0  0  0999 V2000
+   35.8758   12.1838    3.9067 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9731   11.2768    4.6499 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.2648    9.9120    4.6082 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.4038    9.2391    5.3057 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3592   10.1136    5.9474 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3599    9.3569    6.7802 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1785    8.2138    6.7145 O   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6312    9.9770    7.6812 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.7172    9.1632    8.4932 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1098   11.2459    7.2026 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6681   12.4267    7.6450 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5560   12.7726    8.4423 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7517   13.7903    7.8867 C   0  0  1  0  0  0  0  0  0  0  0  0
+   28.3085   13.4582    7.9455 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5881   14.7710    7.8813 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5421   15.6893    8.4031 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7265   15.0684    8.7083 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5696   15.4946    9.4766 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.8434   11.6108    7.9963 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5995   11.8452    5.5493 S   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 13 12  1  1
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+ 12 19  1  0
+  5 20  1  0
+ 20  2  1  0
+ 19 10  1  0
+ 17 13  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ N1 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ O1 
+A    8
+ N2 
+A    9
+ C6 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ N3 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ N4 
+A   17
+ C12
+A   18
+ O2 
+A   19
+ C13
+A   20
+ S1 
+M  END
+>  <ref_url>  (19) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (19) 
+Steph Wills
+
+>  <submitter_institution>  (19) 
+University of Oxford
+
+>  <submitter_email>  (19) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (19) 
+2024-06-03
+
+>  <method>  (19) 
+FragNetv2
+
+>  <original SMILES>  (19) 
+Cc1ncc(C(=O)N(C)C2CN(C3CCNC3=O)C2)s1
+
+>  <original_name>  (19) 
+Ax0446a-Ax0528a_2040_PXX
+
+>  <ref_mols>  (19) 
+Ax0446a,Ax0528a
+
+>  <ref_pdb>  (19) 
+Ax0310a
+
+>  <similarity>  (19) 
+NA
+
+>  <smiles>  (19) 
+Cc1ncc(C(=O)N(C)C2CN(C3CCNC3=O)C2)s1
+
+>  <cmpd_id>  (19) 
+ENAMINE:PV-000175988377
+
+>  <used_subnode>  (19) 
+NA
+
+>  <used_synthon>  (19) 
+NA
+
+>  <ref_subnode>  (19) 
+CNC(=O)c1cnc(C)s1
+
+>  <ref_synthon>  (19) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (19) 
+Ax0446a
+
+>  <fragmentB>  (19) 
+Ax0528a
+
+>  <HA>  (19) 
+20
+
+>  <HBD>  (19) 
+1
+
+>  <HBA>  (19) 
+5
+
+>  <MW>  (19) 
+294.11504681599996
+
+>  <TPSA>  (19) 
+65.54
+
+>  <LogP>  (19) 
+0.0962199999999998
+
+>  <RBs>  (19) 
+3
+
+>  <G_bound>  (19) 
+-3.7430863372361554
+
+>  <G_unbound>  (19) 
+0.6803191358291156
+
+>  <deltaG>  (19) 
+-4.423405473065271
+
+>  <comRMSD>  (19) 
+0.9075866353120977
+
+>  <substructure_overlap_check>  (19) 
+1
+
+>  <energy_ratio_check>  (19) 
+1
+
+>  <const_energy/unconst_energy>  (19) 
+6.969716510493085
+
+>  <sucos>  (19) 
+0.5799525621251778
+
+>  <interactions>  (19) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,HBAcceptor_SER-105
+
+>  <total_num_ints>  (19) 
+3
+
+>  <total_num_ints_nonhyd>  (19) 
+1
+
+>  <num_uniq_frag_ints>  (19) 
+3
+
+>  <num_repl_uniq_ints>  (19) 
+3
+
+>  <num_uniq_ints_lost>  (19) 
+0
+
+>  <num_new_uniq_ints>  (19) 
+0
+
+>  <int_check>  (19) 
+1
+
+>  <prop_maintained_ints>  (19) 
+1.0
+
+>  <rationale>  (19) 
+FragNet: perfect merge incl CNC(=O)c1cnc(C)s1,O=C1NCCC1[Xe]
+
+$$$$
+Ax0450a-Ax0310a_17_B1X
+     RDKit          3D
+
+ 19 19  0  0  0  0  0  0  0  0999 V2000
+   25.3940   12.7593    7.6197 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.3748   13.6676    8.3532 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7668   13.8330    7.7104 C   0  0  1  0  0  0  0  0  0  0  0  0
+   28.3229   15.2242    7.8288 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.7941   12.9789    8.4299 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4838   12.1970    7.5362 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4086   12.4276    6.3391 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2753   11.1911    8.0584 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3212   10.8132    7.1979 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7391   11.8978    6.4541 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7164   11.8028    5.5107 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3217   10.6070    5.2716 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.3424   10.6165    4.2123 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1913    9.8462    3.2675 O   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3938   11.5251    4.3064 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3853   12.4505    5.4264 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.0915   12.0303    3.1357 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9574    9.4691    6.0027 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.9416    9.5663    6.9830 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  1
+  3  5  1  0
+  5  6  1  0
+  6  7  2  0
+  6  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 12 18  1  0
+ 18 19  2  0
+ 19  9  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ C4 
+A    5
+ C5 
+A    6
+ C6 
+A    7
+ O1 
+A    8
+ N1 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ C10
+A   13
+ C11
+A   14
+ O2 
+A   15
+ N2 
+A   16
+ C12
+A   17
+ C13
+A   18
+ C14
+A   19
+ C15
+M  END
+>  <ref_url>  (20) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (20) 
+Steph Wills
+
+>  <submitter_institution>  (20) 
+University of Oxford
+
+>  <submitter_email>  (20) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (20) 
+2024-06-03
+
+>  <method>  (20) 
+FragNetv2
+
+>  <original SMILES>  (20) 
+CCC(C)CC(=O)Nc1ccc(C(=O)N(C)C)cc1
+
+>  <original_name>  (20) 
+Ax0450a-Ax0310a_17_B1X
+
+>  <ref_mols>  (20) 
+Ax0450a,Ax0310a
+
+>  <ref_pdb>  (20) 
+Ax0310a
+
+>  <similarity>  (20) 
+1.0
+
+>  <smiles>  (20) 
+CCC(C)CC(=O)Nc1ccc(C(=O)N(C)C)cc1
+
+>  <cmpd_id>  (20) 
+ENAMINE:Z1838240901
+
+>  <used_subnode>  (20) 
+CN(C)C(=O)c1ccccc1
+
+>  <used_synthon>  (20) 
+CCC(C)CC(=O)N[Xe]
+
+>  <ref_subnode>  (20) 
+CN(C)C(=O)c1ccccc1
+
+>  <ref_synthon>  (20) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (20) 
+Ax0450a
+
+>  <fragmentB>  (20) 
+Ax0310a
+
+>  <HA>  (20) 
+19
+
+>  <HBD>  (20) 
+1
+
+>  <HBA>  (20) 
+2
+
+>  <MW>  (20) 
+262.168127944
+
+>  <TPSA>  (20) 
+49.410000000000004
+
+>  <LogP>  (20) 
+2.7631000000000014
+
+>  <RBs>  (20) 
+5
+
+>  <G_bound>  (20) 
+-9.388856155529357
+
+>  <G_unbound>  (20) 
+-0.10231848640397931
+
+>  <deltaG>  (20) 
+-9.286537669125378
+
+>  <comRMSD>  (20) 
+0.7225544181177059
+
+>  <substructure_overlap_check>  (20) 
+1
+
+>  <energy_ratio_check>  (20) 
+1
+
+>  <const_energy/unconst_energy>  (20) 
+5.96048401000393
+
+>  <sucos>  (20) 
+0.5651869684164771
+
+>  <interactions>  (20) 
+Hydrophobic_TYR-90,Hydrophobic_PRO-107,Hydrophobic_TYR-89,Hydrophobic_HIS-21,HBDonor_SER-125,Hydrophobic_LEU-22,Hydrophobic_CYS-110
+
+>  <total_num_ints>  (20) 
+7
+
+>  <total_num_ints_nonhyd>  (20) 
+1
+
+>  <num_uniq_frag_ints>  (20) 
+4
+
+>  <num_repl_uniq_ints>  (20) 
+3
+
+>  <num_uniq_ints_lost>  (20) 
+1
+
+>  <num_new_uniq_ints>  (20) 
+4
+
+>  <int_check>  (20) 
+1
+
+>  <prop_maintained_ints>  (20) 
+0.75
+
+>  <rationale>  (20) 
+FragNet: 1 round bioisosteric merging incl CN(C)C(=O)c1ccccc1 and CCC(C)CC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0450a-Ax0310a_358_B1X
+     RDKit          3D
+
+ 23 23  0  0  0  0  0  0  0  0999 V2000
+   35.4652   12.3734    5.3442 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.4859   11.5424    4.2315 N   0  0  0  0  0  0  0  0  0  0  0  0
+   36.1758   12.1158    3.0875 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.4462   10.6361    4.0961 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2860    9.9191    3.1126 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3950   10.5616    5.1941 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7476   11.8765    5.4075 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7725   11.9556    6.3364 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3859   10.8586    7.0637 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.3478   11.1389    7.9314 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5320   12.1579    7.4204 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.4736   12.4485    6.2387 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.8096   12.8727    8.3348 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6572   13.5494    7.9856 C   0  0  0  0  0  0  0  0  0  0  0  0
+   26.4363   13.4582    8.8945 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.0138   14.9906    7.7643 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.1190   13.0141    6.6573 C   0  0  0  0  0  0  0  0  0  0  0  0
+   25.7757   13.1256    6.5822 F   0  0  0  0  0  0  0  0  0  0  0  0
+   27.6457   13.6375    5.5845 F   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3418   11.7192    6.5363 F   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0071    9.6007    6.8842 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6052    8.5618    7.6196 F   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0296    9.4410    5.9363 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  2  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 14 16  1  0
+ 14 17  1  0
+ 17 18  1  0
+ 17 19  1  0
+ 17 20  1  0
+  9 21  1  0
+ 21 22  1  0
+ 21 23  2  0
+ 23  6  1  0
+A    1
+ C1 
+A    2
+ N1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ O1 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ N2 
+A   11
+ C8 
+A   12
+ O2 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ F1 
+A   19
+ F2 
+A   20
+ F3 
+A   21
+ C14
+A   22
+ F4 
+A   23
+ C15
+M  END
+>  <ref_url>  (21) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (21) 
+Steph Wills
+
+>  <submitter_institution>  (21) 
+University of Oxford
+
+>  <submitter_email>  (21) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (21) 
+2024-06-03
+
+>  <method>  (21) 
+FragNetv2
+
+>  <original SMILES>  (21) 
+CN(C)C(=O)c1ccc(NC(=O)CC(C)(C)C(F)(F)F)c(F)c1
+
+>  <original_name>  (21) 
+Ax0450a-Ax0310a_358_B1X
+
+>  <ref_mols>  (21) 
+Ax0450a,Ax0310a
+
+>  <ref_pdb>  (21) 
+Ax0310a
+
+>  <similarity>  (21) 
+1.0
+
+>  <smiles>  (21) 
+CN(C)C(=O)c1ccc(NC(=O)CC(C)(C)C(F)(F)F)c(F)c1
+
+>  <cmpd_id>  (21) 
+ENAMINE:Z2356967069
+
+>  <used_subnode>  (21) 
+CN(C)C(=O)c1ccccc1
+
+>  <used_synthon>  (21) 
+CC(C)(CC(=O)N[Xe])C(F)(F)F
+
+>  <ref_subnode>  (21) 
+CN(C)C(=O)c1ccccc1
+
+>  <ref_synthon>  (21) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (21) 
+Ax0450a
+
+>  <fragmentB>  (21) 
+Ax0310a
+
+>  <HA>  (21) 
+23
+
+>  <HBD>  (21) 
+1
+
+>  <HBA>  (21) 
+2
+
+>  <MW>  (21) 
+334.130440696
+
+>  <TPSA>  (21) 
+49.410000000000004
+
+>  <LogP>  (21) 
+3.444600000000002
+
+>  <RBs>  (21) 
+4
+
+>  <G_bound>  (21) 
+-3.8792707547510172
+
+>  <G_unbound>  (21) 
+0.3760186015108896
+
+>  <deltaG>  (21) 
+-4.2552893562619065
+
+>  <comRMSD>  (21) 
+0.8001093041897657
+
+>  <substructure_overlap_check>  (21) 
+1
+
+>  <energy_ratio_check>  (21) 
+1
+
+>  <const_energy/unconst_energy>  (21) 
+6.750699679721664
+
+>  <sucos>  (21) 
+0.6121920774704099
+
+>  <interactions>  (21) 
+Hydrophobic_TYR-90,Hydrophobic_PRO-107,Hydrophobic_HIS-21,Hydrophobic_TYR-89,Hydrophobic_CYS-110
+
+>  <total_num_ints>  (21) 
+5
+
+>  <total_num_ints_nonhyd>  (21) 
+0
+
+>  <num_uniq_frag_ints>  (21) 
+4
+
+>  <num_repl_uniq_ints>  (21) 
+2
+
+>  <num_uniq_ints_lost>  (21) 
+2
+
+>  <num_new_uniq_ints>  (21) 
+3
+
+>  <int_check>  (21) 
+1
+
+>  <prop_maintained_ints>  (21) 
+0.5
+
+>  <rationale>  (21) 
+FragNet: 1 round bioisosteric merging incl CN(C)C(=O)c1ccccc1 and CC(C)(CC(=O)N[Xe])C(F)(F)F replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0515a-Ax0528a_393_PXX
+     RDKit          3D
+
+ 19 20  0  0  0  0  0  0  0  0999 V2000
+   33.5977   13.9424    4.9794 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5094   12.8605    4.0639 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.6064   11.6228    4.6176 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6279   10.5521    4.3162 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6689    9.3530    4.8965 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.6936    9.1553    5.8129 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6935   10.0341    6.1828 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6849    9.6168    7.2163 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3077   10.7469    8.1224 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2598   11.6976    7.7152 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.1225   11.4528    7.4644 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6934   12.9528    7.6934 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6188   13.8721    7.5585 C   0  0  1  0  0  0  0  0  0  0  0  0
+   28.2415   13.3776    7.9063 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5728   14.7134    7.9081 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5063   15.5632    8.5706 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7145   14.9329    8.6017 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6572   15.1943    9.3305 O   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6575   11.2825    5.5783 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 13 12  1  1
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  2  0
+  7 19  2  0
+ 19  3  1  0
+ 17 13  1  0
+A    1
+ C1 
+A    2
+ O1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ N1 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ O2 
+A   12
+ N2 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ N3 
+A   17
+ C12
+A   18
+ O3 
+A   19
+ C13
+M  END
+>  <ref_url>  (22) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (22) 
+Steph Wills
+
+>  <submitter_institution>  (22) 
+University of Oxford
+
+>  <submitter_email>  (22) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (22) 
+2024-06-03
+
+>  <method>  (22) 
+FragNetv2
+
+>  <original SMILES>  (22) 
+COc1cncc(CCC(=O)NC2CCNC2=O)c1
+
+>  <original_name>  (22) 
+Ax0515a-Ax0528a_393_PXX
+
+>  <ref_mols>  (22) 
+Ax0515a,Ax0528a
+
+>  <ref_pdb>  (22) 
+Ax0310a
+
+>  <similarity>  (22) 
+NA
+
+>  <smiles>  (22) 
+COc1cncc(CCC(=O)NC2CCNC2=O)c1
+
+>  <cmpd_id>  (22) 
+ENAMINE:Z2642871105,ENAMINE:Z2649898518
+
+>  <used_subnode>  (22) 
+NA
+
+>  <used_synthon>  (22) 
+NA
+
+>  <ref_subnode>  (22) 
+c1ccncc1
+
+>  <ref_synthon>  (22) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (22) 
+Ax0515a
+
+>  <fragmentB>  (22) 
+Ax0528a
+
+>  <HA>  (22) 
+19
+
+>  <HBD>  (22) 
+2
+
+>  <HBA>  (22) 
+4
+
+>  <MW>  (22) 
+263.126991404
+
+>  <TPSA>  (22) 
+80.32
+
+>  <LogP>  (22) 
+0.02749999999999947
+
+>  <RBs>  (22) 
+5
+
+>  <G_bound>  (22) 
+0.23548544138596306
+
+>  <G_unbound>  (22) 
+0.47208632753227037
+
+>  <deltaG>  (22) 
+-0.2366008861463073
+
+>  <comRMSD>  (22) 
+0.5612652056337444
+
+>  <substructure_overlap_check>  (22) 
+1
+
+>  <energy_ratio_check>  (22) 
+1
+
+>  <const_energy/unconst_energy>  (22) 
+6.57288853093659
+
+>  <sucos>  (22) 
+0.5612679804618546
+
+>  <interactions>  (22) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21
+
+>  <total_num_ints>  (22) 
+2
+
+>  <total_num_ints_nonhyd>  (22) 
+0
+
+>  <num_uniq_frag_ints>  (22) 
+3
+
+>  <num_repl_uniq_ints>  (22) 
+2
+
+>  <num_uniq_ints_lost>  (22) 
+1
+
+>  <num_new_uniq_ints>  (22) 
+0
+
+>  <int_check>  (22) 
+1
+
+>  <prop_maintained_ints>  (22) 
+0.6666666666666666
+
+>  <rationale>  (22) 
+FragNet: perfect merge incl c1ccncc1,O=C1NCCC1[Xe]
+
+$$$$
+Ax0515a-Ax0528a_885_B1X
+     RDKit          3D
+
+ 18 19  0  0  0  0  0  0  0  0999 V2000
+   31.1973   13.0302    5.7259 O   0  0  0  0  0  0  0  0  0  0  0  0
+   31.8217   12.2085    6.3574 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7293   11.9838    7.6845 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4074   11.6863    8.1058 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5650   12.7941    8.1454 C   0  0  2  0  0  0  0  0  0  0  0  0
+   29.0547   13.1508    6.9386 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7503   13.8770    7.1756 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7703   14.6025    8.5086 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.1066   15.0372    8.8154 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.1032   14.1005    8.7394 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2452   14.3577    9.1058 O   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8077   11.3057    5.7818 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7709   11.7526    4.6880 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.7225   10.6741    4.2307 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.7172    9.4412    4.7478 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8040    9.1833    5.7166 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8678   10.0215    6.2439 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0469    9.5665    7.1954 F   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  3  4  1  0
+  5  4  1  6
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+  2 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  2  0
+ 15 16  1  0
+ 16 17  2  0
+ 17 18  1  0
+ 10  5  1  0
+ 17 12  1  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ O2 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ N1 
+A   10
+ C7 
+A   11
+ O3 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ N2 
+A   16
+ C11
+A   17
+ C12
+A   18
+ F1 
+M  END
+>  <ref_url>  (23) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (23) 
+Steph Wills
+
+>  <submitter_institution>  (23) 
+University of Oxford
+
+>  <submitter_email>  (23) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (23) 
+2024-06-03
+
+>  <method>  (23) 
+FragNetv2
+
+>  <original SMILES>  (23) 
+O=C(OCC1CCCNC1=O)c1ccncc1F
+
+>  <original_name>  (23) 
+Ax0515a-Ax0528a_885_B1X
+
+>  <ref_mols>  (23) 
+Ax0515a,Ax0528a
+
+>  <ref_pdb>  (23) 
+Ax0310a
+
+>  <similarity>  (23) 
+1.0
+
+>  <smiles>  (23) 
+O=C(OCC1CCCNC1=O)c1ccncc1F
+
+>  <cmpd_id>  (23) 
+ENAMINE:PV-003486295011
+
+>  <used_subnode>  (23) 
+COC(=O)c1ccncc1
+
+>  <used_synthon>  (23) 
+O=C1NCCCC1[Xe]
+
+>  <ref_subnode>  (23) 
+COC(=O)c1ccncc1
+
+>  <ref_synthon>  (23) 
+O=C1NCCC1[Xe]
+
+>  <fragmentA>  (23) 
+Ax0515a
+
+>  <fragmentB>  (23) 
+Ax0528a
+
+>  <HA>  (23) 
+18
+
+>  <HBD>  (23) 
+1
+
+>  <HBA>  (23) 
+4
+
+>  <MW>  (23) 
+252.091020496
+
+>  <TPSA>  (23) 
+68.28999999999999
+
+>  <LogP>  (23) 
+0.9036999999999997
+
+>  <RBs>  (23) 
+3
+
+>  <G_bound>  (23) 
+-1.5297256817225708
+
+>  <G_unbound>  (23) 
+1.0746623912816642
+
+>  <deltaG>  (23) 
+-2.604388073004235
+
+>  <comRMSD>  (23) 
+0.8694692322163915
+
+>  <substructure_overlap_check>  (23) 
+1
+
+>  <energy_ratio_check>  (23) 
+1
+
+>  <const_energy/unconst_energy>  (23) 
+6.875283368159134
+
+>  <sucos>  (23) 
+0.5761810211199488
+
+>  <interactions>  (23) 
+Hydrophobic_PRO-107,Hydrophobic_TYR-89,Hydrophobic_HIS-21,HBAcceptor_SER-87
+
+>  <total_num_ints>  (23) 
+4
+
+>  <total_num_ints_nonhyd>  (23) 
+1
+
+>  <num_uniq_frag_ints>  (23) 
+3
+
+>  <num_repl_uniq_ints>  (23) 
+2
+
+>  <num_uniq_ints_lost>  (23) 
+1
+
+>  <num_new_uniq_ints>  (23) 
+2
+
+>  <int_check>  (23) 
+1
+
+>  <prop_maintained_ints>  (23) 
+0.6666666666666666
+
+>  <rationale>  (23) 
+FragNet: 1 round bioisosteric merging incl COC(=O)c1ccncc1 and O=C1NCCCC1[Xe] replacing O=C1NCCC1[Xe]
+
+$$$$
+Ax0528a-Ax0515a_841_PXX
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+   28.8064   16.5953    8.5779 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.7071   15.1929    8.4401 N   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9055   14.6333    7.3973 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.1269   13.1594    7.5023 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.5113   13.0434    8.1058 C   0  0  1  0  0  0  0  0  0  0  0  0
+   30.5254   12.6929    7.1414 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.2786   11.6345    7.0844 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0255   11.9194    5.9777 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0306   11.0447    5.4902 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2663    9.8153    6.0542 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2766    9.0780    5.4942 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.0326    9.4430    4.4513 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.7700   10.6400    3.9271 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7888   11.4685    4.4123 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7493   13.0781    5.3732 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.7422   13.5855    6.1479 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.8077   14.4093    8.6804 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8295   14.7824    9.2395 O   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  1  0
+  5  6  1  6
+  6  7  2  0
+  7  8  1  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+  8 15  2  0
+ 15 16  1  0
+  5 17  1  0
+ 17 18  2  0
+ 17  2  1  0
+ 16  6  1  0
+ 14  9  1  0
+A    1
+ C1 
+A    2
+ N1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ N2 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ N3 
+A   13
+ C10
+A   14
+ C11
+A   15
+ N4 
+A   16
+ O1 
+A   17
+ C12
+A   18
+ O2 
+M  END
+>  <ref_url>  (24) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (24) 
+Steph Wills
+
+>  <submitter_institution>  (24) 
+University of Oxford
+
+>  <submitter_email>  (24) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (24) 
+2024-06-03
+
+>  <method>  (24) 
+FragNetv2
+
+>  <original SMILES>  (24) 
+CN1CCC(c2nc(-c3ccncc3)no2)C1=O
+
+>  <original_name>  (24) 
+Ax0528a-Ax0515a_841_PXX
+
+>  <ref_mols>  (24) 
+Ax0528a,Ax0515a
+
+>  <ref_pdb>  (24) 
+Ax0310a
+
+>  <similarity>  (24) 
+NA
+
+>  <smiles>  (24) 
+CN1CCC(c2nc(-c3ccncc3)no2)C1=O
+
+>  <cmpd_id>  (24) 
+ENAMINE:Z1778581024
+
+>  <used_subnode>  (24) 
+NA
+
+>  <used_synthon>  (24) 
+NA
+
+>  <ref_subnode>  (24) 
+O=C1CCCN1
+
+>  <ref_synthon>  (24) 
+[Xe]c1ccncc1
+
+>  <fragmentA>  (24) 
+Ax0528a
+
+>  <fragmentB>  (24) 
+Ax0515a
+
+>  <HA>  (24) 
+18
+
+>  <HBD>  (24) 
+0
+
+>  <HBA>  (24) 
+5
+
+>  <MW>  (24) 
+244.096025624
+
+>  <TPSA>  (24) 
+72.12
+
+>  <LogP>  (24) 
+1.0773
+
+>  <RBs>  (24) 
+2
+
+>  <G_bound>  (24) 
+-4.25034932690257
+
+>  <G_unbound>  (24) 
+0.6019024427592075
+
+>  <deltaG>  (24) 
+-4.852251769661777
+
+>  <comRMSD>  (24) 
+0.6461019577578032
+
+>  <substructure_overlap_check>  (24) 
+1
+
+>  <energy_ratio_check>  (24) 
+1
+
+>  <const_energy/unconst_energy>  (24) 
+1.6225632378970514
+
+>  <sucos>  (24) 
+0.5612929367889791
+
+>  <interactions>  (24) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21
+
+>  <total_num_ints>  (24) 
+2
+
+>  <total_num_ints_nonhyd>  (24) 
+0
+
+>  <num_uniq_frag_ints>  (24) 
+3
+
+>  <num_repl_uniq_ints>  (24) 
+2
+
+>  <num_uniq_ints_lost>  (24) 
+1
+
+>  <num_new_uniq_ints>  (24) 
+0
+
+>  <int_check>  (24) 
+1
+
+>  <prop_maintained_ints>  (24) 
+0.6666666666666666
+
+>  <rationale>  (24) 
+FragNet: perfect merge incl O=C1CCCN1,[Xe]c1ccncc1
+
+$$$$
+Ax0556a-Ax0310a_4519_B1X
+     RDKit          3D
+
+ 22 23  0  0  0  0  0  0  0  0999 V2000
+   36.3740    4.3787    4.5155 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.3859    5.1094    3.6485 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.7900    6.2500    2.7837 C   0  0  2  0  0  0  0  0  0  0  0  0
+   36.9592    7.2217    3.9542 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.7061    7.9920    3.4346 C   0  0  2  0  0  0  0  0  0  0  0  0
+   34.7205    8.4029    4.4761 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5654    9.7192    4.8736 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3439   10.6002    4.5294 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4649   10.0885    5.7132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3279   11.4388    5.6755 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3105   12.0175    6.4204 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.4665   11.2127    7.1798 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4699   11.9165    7.8562 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7106   12.8110    7.1349 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.0673   13.3183    6.0838 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.3241   13.1388    7.6884 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.3426   13.1271    6.5061 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.9023   12.0133    8.6225 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2844   14.5441    8.3249 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6052    9.8779    7.2249 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6060    9.3308    6.4879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3145    6.6781    2.7255 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  3  2  1  1
+  3  4  1  0
+  4  5  1  0
+  5  6  1  1
+  6  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  2  0
+ 14 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 16 19  1  0
+ 12 20  1  0
+ 20 21  2  0
+  5 22  1  0
+ 22  3  1  0
+ 21  9  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ C4 
+A    5
+ C5 
+A    6
+ N1 
+A    7
+ C6 
+A    8
+ O1 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ C10
+A   13
+ N2 
+A   14
+ C11
+A   15
+ O2 
+A   16
+ C12
+A   17
+ C13
+A   18
+ C14
+A   19
+ C15
+A   20
+ N3 
+A   21
+ C16
+A   22
+ C17
+M  END
+>  <ref_url>  (25) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (25) 
+Steph Wills
+
+>  <submitter_institution>  (25) 
+University of Oxford
+
+>  <submitter_email>  (25) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (25) 
+2024-06-03
+
+>  <method>  (25) 
+FragNetv2
+
+>  <original SMILES>  (25) 
+CCC1CC(NC(=O)c2ccc(NC(=O)C(C)(C)C)nc2)C1
+
+>  <original_name>  (25) 
+Ax0556a-Ax0310a_4519_B1X
+
+>  <ref_mols>  (25) 
+Ax0556a,Ax0310a
+
+>  <ref_pdb>  (25) 
+Ax0310a
+
+>  <similarity>  (25) 
+1.0
+
+>  <smiles>  (25) 
+CCC1CC(NC(=O)c2ccc(NC(=O)C(C)(C)C)nc2)C1
+
+>  <cmpd_id>  (25) 
+ENAMINE:Z4179197232
+
+>  <used_subnode>  (25) 
+O=CNC1CCC1
+
+>  <used_synthon>  (25) 
+CC(C)(C)C(=O)N[Xe]
+
+>  <ref_subnode>  (25) 
+O=CNC1CCC1
+
+>  <ref_synthon>  (25) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (25) 
+Ax0556a
+
+>  <fragmentB>  (25) 
+Ax0310a
+
+>  <HA>  (25) 
+22
+
+>  <HBD>  (25) 
+2
+
+>  <HBA>  (25) 
+3
+
+>  <MW>  (25) 
+303.19467704
+
+>  <TPSA>  (25) 
+71.09
+
+>  <LogP>  (25) 
+2.9846000000000013
+
+>  <RBs>  (25) 
+4
+
+>  <G_bound>  (25) 
+-10.67278991046966
+
+>  <G_unbound>  (25) 
+0.5743951551955933
+
+>  <deltaG>  (25) 
+-11.247185065665253
+
+>  <comRMSD>  (25) 
+0.7653524158207906
+
+>  <substructure_overlap_check>  (25) 
+1
+
+>  <energy_ratio_check>  (25) 
+1
+
+>  <const_energy/unconst_energy>  (25) 
+2.7453871553262617
+
+>  <sucos>  (25) 
+0.6201717186621979
+
+>  <interactions>  (25) 
+Hydrophobic_TYR-90,Hydrophobic_PRO-107,Hydrophobic_TYR-89,Hydrophobic_HIS-21,HBDonor_SER-125,Hydrophobic_GLU-106,Hydrophobic_CYS-110,HBDonor_SER-105,Hydrophobic_HIS-104
+
+>  <total_num_ints>  (25) 
+9
+
+>  <total_num_ints_nonhyd>  (25) 
+2
+
+>  <num_uniq_frag_ints>  (25) 
+8
+
+>  <num_repl_uniq_ints>  (25) 
+7
+
+>  <num_uniq_ints_lost>  (25) 
+1
+
+>  <num_new_uniq_ints>  (25) 
+2
+
+>  <int_check>  (25) 
+1
+
+>  <prop_maintained_ints>  (25) 
+0.875
+
+>  <rationale>  (25) 
+FragNet: 1 round bioisosteric merging incl O=CNC1CCC1 and CC(C)(C)C(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0556a-Ax0310a_3149_PXX
+     RDKit          3D
+
+ 17 17  0  0  0  0  0  0  0  0999 V2000
+   34.2949    8.4470    2.6003 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5087    9.9417    2.7744 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7975   10.4224    3.9224 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.9725    9.7110    5.0757 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.9126    8.9543    5.2642 O   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9124    9.9361    6.0785 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3579   11.1917    6.4310 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3981   10.9481    7.3949 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5969   11.8996    8.0124 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7215   12.6794    7.2934 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.8280   12.9424    6.1035 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5633   13.2340    8.0755 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5799   14.6801    7.9560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6443   15.8209    7.8454 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.4167    9.6017    7.5855 N   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5965    8.8464    8.5073 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3219    8.9612    6.7988 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  3  0
+  8 15  1  0
+ 15 16  1  0
+ 15 17  1  0
+ 17  6  2  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ O1 
+A    4
+ C3 
+A    5
+ O2 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ N1 
+A   10
+ C7 
+A   11
+ O3 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ N2 
+A   15
+ N3 
+A   16
+ C10
+A   17
+ N4 
+M  END
+>  <ref_url>  (26) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (26) 
+Steph Wills
+
+>  <submitter_institution>  (26) 
+University of Oxford
+
+>  <submitter_email>  (26) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (26) 
+2024-06-03
+
+>  <method>  (26) 
+FragNetv2
+
+>  <original SMILES>  (26) 
+CCOC(=O)c1cc(NC(=O)CC#N)n(C)n1
+
+>  <original_name>  (26) 
+Ax0556a-Ax0310a_3149_PXX
+
+>  <ref_mols>  (26) 
+Ax0556a,Ax0310a
+
+>  <ref_pdb>  (26) 
+Ax0310a
+
+>  <similarity>  (26) 
+NA
+
+>  <smiles>  (26) 
+CCOC(=O)c1cc(NC(=O)CC#N)n(C)n1
+
+>  <cmpd_id>  (26) 
+ENAMINE:Z3609358359
+
+>  <used_subnode>  (26) 
+NA
+
+>  <used_synthon>  (26) 
+NA
+
+>  <ref_subnode>  (26) 
+Cn1cccn1
+
+>  <ref_synthon>  (26) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (26) 
+Ax0556a
+
+>  <fragmentB>  (26) 
+Ax0310a
+
+>  <HA>  (26) 
+17
+
+>  <HBD>  (26) 
+1
+
+>  <HBA>  (26) 
+6
+
+>  <MW>  (26) 
+236.090940244
+
+>  <TPSA>  (26) 
+97.01
+
+>  <LogP>  (26) 
+0.44898
+
+>  <RBs>  (26) 
+4
+
+>  <G_bound>  (26) 
+-8.096519978212376
+
+>  <G_unbound>  (26) 
+0.5626514685861383
+
+>  <deltaG>  (26) 
+-8.659171446798513
+
+>  <comRMSD>  (26) 
+0.41429098388109686
+
+>  <substructure_overlap_check>  (26) 
+1
+
+>  <energy_ratio_check>  (26) 
+1
+
+>  <const_energy/unconst_energy>  (26) 
+1.8707162338782464
+
+>  <sucos>  (26) 
+0.5915655432737414
+
+>  <interactions>  (26) 
+Hydrophobic_PRO-107,Hydrophobic_HIS-21,Hydrophobic_GLU-106,HBDonor_SER-125
+
+>  <total_num_ints>  (26) 
+4
+
+>  <total_num_ints_nonhyd>  (26) 
+1
+
+>  <num_uniq_frag_ints>  (26) 
+8
+
+>  <num_repl_uniq_ints>  (26) 
+4
+
+>  <num_uniq_ints_lost>  (26) 
+4
+
+>  <num_new_uniq_ints>  (26) 
+0
+
+>  <int_check>  (26) 
+1
+
+>  <prop_maintained_ints>  (26) 
+0.5
+
+>  <rationale>  (26) 
+FragNet: perfect merge incl Cn1cccn1,N#CCC(=O)N[Xe]
+
+$$$$
+Ax0556a-Ax0310a_4580_B1X
+     RDKit          3D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+   28.5324   13.5706    9.2077 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6641   13.6366    7.7020 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6322   15.1113    7.4187 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.5203   13.0514    6.8792 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9014   12.9381    7.1392 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.3399   13.3291    6.0709 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4355   11.8681    7.8279 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.4553   11.2178    7.1435 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2918   12.0661    6.4375 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3274   11.5389    5.6891 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5198   10.1700    5.6530 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6485    9.6846    4.8244 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.5335   10.4867    4.5585 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6872    8.3784    4.3602 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.6654    7.9413    3.2900 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.8610    9.0105    2.2105 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.1717    9.0158    1.8355 F   0  0  0  0  0  0  0  0  0  0  0  0
+   35.1532    8.6928    1.0922 F   0  0  0  0  0  0  0  0  0  0  0  0
+   36.9793    7.3154    3.8630 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.9128    6.2754    2.7444 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.4023    6.5003    2.7689 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6476    9.3886    6.3945 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6238    9.8875    7.1355 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  5  6  2  0
+  5  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 15 19  1  0
+ 19 20  1  0
+ 20 21  1  0
+ 11 22  1  0
+ 22 23  2  0
+ 23  8  1  0
+ 21 15  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ C4 
+A    5
+ C5 
+A    6
+ O1 
+A    7
+ N1 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ C8 
+A   11
+ C9 
+A   12
+ C10
+A   13
+ O2 
+A   14
+ N2 
+A   15
+ C11
+A   16
+ C12
+A   17
+ F1 
+A   18
+ F2 
+A   19
+ C13
+A   20
+ C14
+A   21
+ C15
+A   22
+ C16
+A   23
+ N3 
+M  END
+>  <ref_url>  (27) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (27) 
+Steph Wills
+
+>  <submitter_institution>  (27) 
+University of Oxford
+
+>  <submitter_email>  (27) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (27) 
+2024-06-03
+
+>  <method>  (27) 
+FragNetv2
+
+>  <original SMILES>  (27) 
+CC(C)(C)C(=O)Nc1ccc(C(=O)NC2(C(F)F)CCC2)cn1
+
+>  <original_name>  (27) 
+Ax0556a-Ax0310a_4580_B1X
+
+>  <ref_mols>  (27) 
+Ax0556a,Ax0310a
+
+>  <ref_pdb>  (27) 
+Ax0310a
+
+>  <similarity>  (27) 
+1.0
+
+>  <smiles>  (27) 
+CC(C)(C)C(=O)Nc1ccc(C(=O)NC2(C(F)F)CCC2)cn1
+
+>  <cmpd_id>  (27) 
+ENAMINE:Z4042883048
+
+>  <used_subnode>  (27) 
+O=CNC1CCC1
+
+>  <used_synthon>  (27) 
+CC(C)(C)C(=O)N[Xe]
+
+>  <ref_subnode>  (27) 
+O=CNC1CCC1
+
+>  <ref_synthon>  (27) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (27) 
+Ax0556a
+
+>  <fragmentB>  (27) 
+Ax0310a
+
+>  <HA>  (27) 
+23
+
+>  <HBD>  (27) 
+2
+
+>  <HBA>  (27) 
+3
+
+>  <MW>  (27) 
+325.16018335200005
+
+>  <TPSA>  (27) 
+71.09
+
+>  <LogP>  (27) 
+2.9838000000000013
+
+>  <RBs>  (27) 
+4
+
+>  <G_bound>  (27) 
+-8.39339133568822
+
+>  <G_unbound>  (27) 
+1.0198675004043736
+
+>  <deltaG>  (27) 
+-9.413258836092593
+
+>  <comRMSD>  (27) 
+0.5759080483514887
+
+>  <substructure_overlap_check>  (27) 
+1
+
+>  <energy_ratio_check>  (27) 
+1
+
+>  <const_energy/unconst_energy>  (27) 
+2.3035841803056365
+
+>  <sucos>  (27) 
+0.6085426721086562
+
+>  <interactions>  (27) 
+Hydrophobic_PRO-107,Hydrophobic_TYR-89,Hydrophobic_HIS-21,Hydrophobic_GLU-106,HBDonor_SER-105,Hydrophobic_HIS-104
+
+>  <total_num_ints>  (27) 
+6
+
+>  <total_num_ints_nonhyd>  (27) 
+1
+
+>  <num_uniq_frag_ints>  (27) 
+8
+
+>  <num_repl_uniq_ints>  (27) 
+6
+
+>  <num_uniq_ints_lost>  (27) 
+2
+
+>  <num_new_uniq_ints>  (27) 
+0
+
+>  <int_check>  (27) 
+1
+
+>  <prop_maintained_ints>  (27) 
+0.75
+
+>  <rationale>  (27) 
+FragNet: 1 round bioisosteric merging incl O=CNC1CCC1 and CC(C)(C)C(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0556a-Ax0310a_4243_B1X
+     RDKit          3D
+
+ 22 23  0  0  0  0  0  0  0  0999 V2000
+   28.6191   15.8598    8.2605 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2162   14.6876    7.4034 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5471   13.3688    8.0639 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6212   12.6487    7.3088 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7319   12.6912    6.0983 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.4718   11.9461    8.1120 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7578   11.5069    7.6005 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7377    9.9871    7.3879 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6866    9.4219    6.3452 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7006   10.2942    5.7749 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6469    9.8509    4.8445 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.5238   10.5936    4.4268 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5404    8.5335    4.4194 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.7109    7.6699    4.1058 C   0  0  2  0  0  0  0  0  0  0  0  0
+   36.7923    8.1608    3.1198 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.9167    6.6789    2.6763 C   0  0  1  0  0  0  0  0  0  0  0  0
+   37.9039    5.7382    3.3744 C   0  0  0  0  0  0  0  0  0  0  0  0
+   39.2809    6.2406    3.4560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   40.3697    6.6276    3.5472 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.4251    6.5924    3.0385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5038   11.7511    5.7903 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1933   12.2806    6.3694 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  2  0
+ 11 13  1  0
+ 14 13  1  6
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  1
+ 17 18  1  0
+ 18 19  3  0
+ 16 20  1  0
+ 10 21  1  0
+ 21 22  1  0
+ 22  7  1  0
+ 20 14  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ C4 
+A    5
+ O1 
+A    6
+ N1 
+A    7
+ C5 
+A    8
+ C6 
+A    9
+ C7 
+A   10
+ N2 
+A   11
+ C8 
+A   12
+ O2 
+A   13
+ N3 
+A   14
+ C9 
+A   15
+ C10
+A   16
+ C11
+A   17
+ C12
+A   18
+ C13
+A   19
+ N4 
+A   20
+ C14
+A   21
+ C15
+A   22
+ C16
+M  END
+>  <ref_url>  (28) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (28) 
+Steph Wills
+
+>  <submitter_institution>  (28) 
+University of Oxford
+
+>  <submitter_email>  (28) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (28) 
+2024-06-03
+
+>  <method>  (28) 
+FragNetv2
+
+>  <original SMILES>  (28) 
+CCCC(=O)NC1CCN(C(=O)NC2CC(CC#N)C2)CC1
+
+>  <original_name>  (28) 
+Ax0556a-Ax0310a_4243_B1X
+
+>  <ref_mols>  (28) 
+Ax0556a,Ax0310a
+
+>  <ref_pdb>  (28) 
+Ax0310a
+
+>  <similarity>  (28) 
+1.0
+
+>  <smiles>  (28) 
+CCCC(=O)NC1CCN(C(=O)NC2CC(CC#N)C2)CC1
+
+>  <cmpd_id>  (28) 
+ENAMINE:Z3798134777,ENAMINE:Z3798174450
+
+>  <used_subnode>  (28) 
+O=CNC1CCC1
+
+>  <used_synthon>  (28) 
+CCCC(=O)N[Xe]
+
+>  <ref_subnode>  (28) 
+O=CNC1CCC1
+
+>  <ref_synthon>  (28) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (28) 
+Ax0556a
+
+>  <fragmentB>  (28) 
+Ax0310a
+
+>  <HA>  (28) 
+22
+
+>  <HBD>  (28) 
+2
+
+>  <HBA>  (28) 
+3
+
+>  <MW>  (28) 
+306.205576072
+
+>  <TPSA>  (28) 
+85.23
+
+>  <LogP>  (28) 
+1.76898
+
+>  <RBs>  (28) 
+5
+
+>  <G_bound>  (28) 
+-4.998305298275611
+
+>  <G_unbound>  (28) 
+1.236385563538824
+
+>  <deltaG>  (28) 
+-6.2346908618144345
+
+>  <comRMSD>  (28) 
+0.6169364486458991
+
+>  <substructure_overlap_check>  (28) 
+1
+
+>  <energy_ratio_check>  (28) 
+1
+
+>  <const_energy/unconst_energy>  (28) 
+2.509589330534019
+
+>  <sucos>  (28) 
+0.6060664691627273
+
+>  <interactions>  (28) 
+Hydrophobic_TYR-90,Hydrophobic_PRO-107,Hydrophobic_HIS-21,Hydrophobic_TYR-89,HBDonor_SER-125,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (28) 
+7
+
+>  <total_num_ints_nonhyd>  (28) 
+2
+
+>  <num_uniq_frag_ints>  (28) 
+8
+
+>  <num_repl_uniq_ints>  (28) 
+6
+
+>  <num_uniq_ints_lost>  (28) 
+2
+
+>  <num_new_uniq_ints>  (28) 
+1
+
+>  <int_check>  (28) 
+1
+
+>  <prop_maintained_ints>  (28) 
+0.75
+
+>  <rationale>  (28) 
+FragNet: 1 round bioisosteric merging incl O=CNC1CCC1 and CCCC(=O)N[Xe] replacing N#CCC(=O)N[Xe]
+
+$$$$
+Ax0556a-Ax0528a_999_B1X
+     RDKit          3D
+
+ 18 20  0  0  0  0  0  0  0  0999 V2000
+   34.3868    8.6216    4.3932 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2978    9.8458    4.9899 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.1021   10.7290    4.7150 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1926   10.0092    5.9558 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6772   11.2313    6.4588 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6614   10.8954    7.3265 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.7970   11.6432    8.1146 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.0258   12.9843    8.4560 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0780   13.5008    8.8244 O   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7742   13.8250    8.2723 C   0  0  2  0  0  0  0  0  0  0  0  0
+   29.2120   13.5405    6.8631 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7138   13.6822    7.0729 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.7452   14.6084    8.2753 C   0  0  2  0  0  0  0  0  0  0  0  0
+   28.7311   15.7172    7.9680 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.9786   15.2138    8.4716 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5726   13.7382    9.1933 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6178    9.5279    7.3004 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5291    8.9653    6.4845 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  1  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+ 10  8  1  1
+ 10 11  1  0
+ 11 12  1  0
+ 13 12  1  6
+ 13 14  1  0
+ 14 15  1  0
+ 13 16  1  0
+  6 17  1  0
+ 17 18  1  0
+ 18  4  2  0
+ 15 10  1  0
+ 16 10  1  0
+A    1
+ N1 
+A    2
+ C1 
+A    3
+ O1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ N2 
+A    8
+ C5 
+A    9
+ O2 
+A   10
+ C6 
+A   11
+ C7 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ O3 
+A   16
+ C11
+A   17
+ N3 
+A   18
+ N4 
+M  END
+>  <ref_url>  (29) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (29) 
+Steph Wills
+
+>  <submitter_institution>  (29) 
+University of Oxford
+
+>  <submitter_email>  (29) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (29) 
+2024-06-03
+
+>  <method>  (29) 
+FragNetv2
+
+>  <original SMILES>  (29) 
+NC(=O)c1cc(NC(=O)C23CCC(CO2)C3)[nH]n1
+
+>  <original_name>  (29) 
+Ax0556a-Ax0528a_999_B1X
+
+>  <ref_mols>  (29) 
+Ax0556a,Ax0528a
+
+>  <ref_pdb>  (29) 
+Ax0310a
+
+>  <similarity>  (29) 
+1.0
+
+>  <smiles>  (29) 
+NC(=O)c1cc(NC(=O)C23CCC(CO2)C3)[nH]n1
+
+>  <cmpd_id>  (29) 
+ENAMINE:PV-002817997743
+
+>  <used_subnode>  (29) 
+NC(=O)c1cc[nH]n1
+
+>  <used_synthon>  (29) 
+[Xe]C12CCC(CO1)C2
+
+>  <ref_subnode>  (29) 
+NC(=O)c1cc[nH]n1
+
+>  <ref_synthon>  (29) 
+O=C1CCCN1[Xe]
+
+>  <fragmentA>  (29) 
+Ax0556a
+
+>  <fragmentB>  (29) 
+Ax0528a
+
+>  <HA>  (29) 
+18
+
+>  <HBD>  (29) 
+3
+
+>  <HBA>  (29) 
+4
+
+>  <MW>  (29) 
+250.106590308
+
+>  <TPSA>  (29) 
+110.10000000000001
+
+>  <LogP>  (29) 
+0.01619999999999916
+
+>  <RBs>  (29) 
+3
+
+>  <G_bound>  (29) 
+-5.46899009226056
+
+>  <G_unbound>  (29) 
+0.5177830917120317
+
+>  <deltaG>  (29) 
+-5.986773183972591
+
+>  <comRMSD>  (29) 
+0.8536430645655466
+
+>  <substructure_overlap_check>  (29) 
+1
+
+>  <energy_ratio_check>  (29) 
+1
+
+>  <const_energy/unconst_energy>  (29) 
+1.9967955719072523
+
+>  <sucos>  (29) 
+0.5604670013745101
+
+>  <interactions>  (29) 
+Hydrophobic_TYR-90,Hydrophobic_PRO-107,Hydrophobic_TYR-89,Hydrophobic_HIS-21,HBDonor_SER-105,HBAcceptor_SER-87
+
+>  <total_num_ints>  (29) 
+6
+
+>  <total_num_ints_nonhyd>  (29) 
+2
+
+>  <num_uniq_frag_ints>  (29) 
+7
+
+>  <num_repl_uniq_ints>  (29) 
+4
+
+>  <num_uniq_ints_lost>  (29) 
+3
+
+>  <num_new_uniq_ints>  (29) 
+2
+
+>  <int_check>  (29) 
+1
+
+>  <prop_maintained_ints>  (29) 
+0.5714285714285714
+
+>  <rationale>  (29) 
+FragNet: 1 round bioisosteric merging incl NC(=O)c1cc[nH]n1 and [Xe]C12CCC(CO1)C2 replacing O=C1CCCN1[Xe]
+
+$$$$
+Ax0556a-Ax0566a_187_B1X
+     RDKit          3D
+
+ 19 21  0  0  0  0  0  0  0  0999 V2000
+   35.3810   11.0041    3.7911 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.7750   10.1195    4.3817 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.0341    8.7412    4.2465 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.9534    8.1488    3.2609 C   0  0  1  0  0  0  0  0  0  0  0  0
+   37.0611    7.2396    3.8618 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.7883    6.2212    2.7361 C   0  0  2  0  0  0  0  0  0  0  0  0
+   37.6585    6.2859    1.5080 C   0  0  0  0  0  0  0  0  0  0  0  0
+   38.8952    6.7314    1.8238 F   0  0  0  0  0  0  0  0  0  0  0  0
+   37.7868    5.0574    0.9592 F   0  0  0  0  0  0  0  0  0  0  0  0
+   37.1381    7.1075    0.5719 F   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3814    6.8541    2.6451 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7141   10.3211    5.3106 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2561    9.2355    5.9487 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.2834    9.6299    6.7592 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5122    8.9126    7.6094 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.6494    9.7591    8.2396 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8659   11.4127    7.7075 S   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0828   10.9293    6.6840 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9702   11.4329    5.7693 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  2  0
+  2  3  1  0
+  4  3  1  1
+  4  5  1  0
+  5  6  1  0
+  6  7  1  6
+  7  8  1  0
+  7  9  1  0
+  7 10  1  0
+  6 11  1  0
+  2 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  2  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  1  0
+ 11  4  1  0
+ 19 12  1  0
+ 18 14  2  0
+A    1
+ O1 
+A    2
+ C1 
+A    3
+ N1 
+A    4
+ C2 
+A    5
+ C3 
+A    6
+ C4 
+A    7
+ C5 
+A    8
+ F1 
+A    9
+ F2 
+A   10
+ F3 
+A   11
+ C6 
+A   12
+ C7 
+A   13
+ C8 
+A   14
+ C9 
+A   15
+ C10
+A   16
+ C11
+A   17
+ S1 
+A   18
+ C12
+A   19
+ N2 
+M  END
+>  <ref_url>  (30) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (30) 
+Steph Wills
+
+>  <submitter_institution>  (30) 
+University of Oxford
+
+>  <submitter_email>  (30) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (30) 
+2024-06-03
+
+>  <method>  (30) 
+FragNetv2
+
+>  <original SMILES>  (30) 
+O=C(NC1CC(C(F)(F)F)C1)c1cc2ccsc2[nH]1
+
+>  <original_name>  (30) 
+Ax0556a-Ax0566a_187_B1X
+
+>  <ref_mols>  (30) 
+Ax0556a,Ax0566a
+
+>  <ref_pdb>  (30) 
+Ax0310a
+
+>  <similarity>  (30) 
+1.0
+
+>  <smiles>  (30) 
+O=C(NC1CC(C(F)(F)F)C1)c1cc2ccsc2[nH]1
+
+>  <cmpd_id>  (30) 
+ENAMINE:Z2201237030
+
+>  <used_subnode>  (30) 
+O=CNC1CCC1
+
+>  <used_synthon>  (30) 
+[Xe]c1cc2ccsc2[nH]1
+
+>  <ref_subnode>  (30) 
+O=CNC1CCC1
+
+>  <ref_synthon>  (30) 
+[Xe]c1cccc2cc[nH]c12
+
+>  <fragmentA>  (30) 
+Ax0556a
+
+>  <fragmentB>  (30) 
+Ax0566a
+
+>  <HA>  (30) 
+19
+
+>  <HBD>  (30) 
+2
+
+>  <HBA>  (30) 
+2
+
+>  <MW>  (30) 
+288.0544186320001
+
+>  <TPSA>  (30) 
+44.89
+
+>  <LogP>  (30) 
+3.3001000000000014
+
+>  <RBs>  (30) 
+2
+
+>  <G_bound>  (30) 
+-5.9669422127227785
+
+>  <G_unbound>  (30) 
+0.6355519415729532
+
+>  <deltaG>  (30) 
+-6.602494154295732
+
+>  <comRMSD>  (30) 
+0.8774348911547653
+
+>  <substructure_overlap_check>  (30) 
+1
+
+>  <energy_ratio_check>  (30) 
+1
+
+>  <const_energy/unconst_energy>  (30) 
+5.157023887003144
+
+>  <sucos>  (30) 
+0.5762120147435923
+
+>  <interactions>  (30) 
+Hydrophobic_PRO-107,Hydrophobic_GLU-106,HBDonor_SER-105
+
+>  <total_num_ints>  (30) 
+3
+
+>  <total_num_ints_nonhyd>  (30) 
+1
+
+>  <num_uniq_frag_ints>  (30) 
+5
+
+>  <num_repl_uniq_ints>  (30) 
+3
+
+>  <num_uniq_ints_lost>  (30) 
+2
+
+>  <num_new_uniq_ints>  (30) 
+0
+
+>  <int_check>  (30) 
+1
+
+>  <prop_maintained_ints>  (30) 
+0.6
+
+>  <rationale>  (30) 
+FragNet: 1 round bioisosteric merging incl O=CNC1CCC1 and [Xe]c1cc2ccsc2[nH]1 replacing [Xe]c1cccc2cc[nH]c12
+
+$$$$
+Ax0556a-Ax0719a_1303_B1X
+     RDKit          3D
+
+ 22 23  0  0  0  0  0  0  0  0999 V2000
+   36.8818    4.5408    4.7375 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.3576    4.1039    3.3772 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.1222    3.2122    3.5333 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.4227    3.3167    2.6088 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.8608    5.2181    2.6261 O   0  0  0  0  0  0  0  0  0  0  0  0
+   36.4138    6.5443    2.7216 C   0  0  2  0  0  0  0  0  0  0  0  0
+   36.3988    7.2102    3.9247 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.7334    8.4039    3.6735 C   0  0  2  0  0  0  0  0  0  0  0  0
+   34.5827    8.7857    4.5544 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.4867   10.1109    5.0092 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3159   10.9243    4.6234 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4651   10.5146    5.8890 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5523    9.5127    6.3385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5214   10.1130    7.3256 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5104   11.5560    6.7854 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7913   11.8257    5.9899 C   0  0  1  0  0  0  0  0  0  0  0  0
+   33.6041   13.0284    6.4665 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4937   13.6201    8.1458 S   0  0  0  0  0  6  0  0  0  0  0  0
+   34.6137   14.8358    8.0629 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1833   14.1528    8.4246 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.0113   12.7291    9.1025 O   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3825    7.6628    2.3522 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  2  4  1  0
+  2  5  1  0
+  6  5  1  1
+  6  7  1  0
+  7  8  1  0
+  8  9  1  1
+  9 10  1  0
+ 10 11  2  0
+ 10 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  1
+ 17 18  1  0
+ 18 19  1  0
+ 18 20  2  0
+ 18 21  2  0
+  8 22  1  0
+ 22  6  1  0
+ 16 12  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ C3 
+A    4
+ C4 
+A    5
+ O1 
+A    6
+ C5 
+A    7
+ C6 
+A    8
+ C7 
+A    9
+ N1 
+A   10
+ C8 
+A   11
+ O2 
+A   12
+ N2 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ C12
+A   17
+ C13
+A   18
+ S1 
+A   19
+ N3 
+A   20
+ O3 
+A   21
+ O4 
+A   22
+ C14
+M  END
+>  <ref_url>  (31) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (31) 
+Steph Wills
+
+>  <submitter_institution>  (31) 
+University of Oxford
+
+>  <submitter_email>  (31) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (31) 
+2024-06-03
+
+>  <method>  (31) 
+FragNetv2
+
+>  <original SMILES>  (31) 
+CC(C)(C)OC1CC(NC(=O)N2CCCC2CS(N)(=O)=O)C1
+
+>  <original_name>  (31) 
+Ax0556a-Ax0719a_1303_B1X
+
+>  <ref_mols>  (31) 
+Ax0556a,Ax0719a
+
+>  <ref_pdb>  (31) 
+Ax0310a
+
+>  <similarity>  (31) 
+1.0
+
+>  <smiles>  (31) 
+CC(C)(C)OC1CC(NC(=O)N2CCCC2CS(N)(=O)=O)C1
+
+>  <cmpd_id>  (31) 
+ENAMINE:PV-002085671850
+
+>  <used_subnode>  (31) 
+O=CNC1CCC1
+
+>  <used_synthon>  (31) 
+NS(=O)(=O)C[Xe]
+
+>  <ref_subnode>  (31) 
+O=CNC1CCC1
+
+>  <ref_synthon>  (31) 
+CC([Xe])CS(N)(=O)=O
+
+>  <fragmentA>  (31) 
+Ax0556a
+
+>  <fragmentB>  (31) 
+Ax0719a
+
+>  <HA>  (31) 
+22
+
+>  <HBD>  (31) 
+2
+
+>  <HBA>  (31) 
+4
+
+>  <MW>  (31) 
+333.17222734399996
+
+>  <TPSA>  (31) 
+101.72999999999999
+
+>  <LogP>  (31) 
+0.7950000000000014
+
+>  <RBs>  (31) 
+4
+
+>  <G_bound>  (31) 
+-5.02053836632637
+
+>  <G_unbound>  (31) 
+1.5622985592646057
+
+>  <deltaG>  (31) 
+-6.582836925590976
+
+>  <comRMSD>  (31) 
+0.7608032416683367
+
+>  <substructure_overlap_check>  (31) 
+1
+
+>  <energy_ratio_check>  (31) 
+1
+
+>  <const_energy/unconst_energy>  (31) 
+2.480978882448248
+
+>  <sucos>  (31) 
+0.5601525987508597
+
+>  <interactions>  (31) 
+Hydrophobic_PRO-107,HBAcceptor_GLY-127,Hydrophobic_GLU-106,HBDonor_SER-105,Hydrophobic_HIS-104
+
+>  <total_num_ints>  (31) 
+5
+
+>  <total_num_ints_nonhyd>  (31) 
+2
+
+>  <num_uniq_frag_ints>  (31) 
+6
+
+>  <num_repl_uniq_ints>  (31) 
+5
+
+>  <num_uniq_ints_lost>  (31) 
+1
+
+>  <num_new_uniq_ints>  (31) 
+0
+
+>  <int_check>  (31) 
+1
+
+>  <prop_maintained_ints>  (31) 
+0.8333333333333334
+
+>  <rationale>  (31) 
+FragNet: 1 round bioisosteric merging incl O=CNC1CCC1 and NS(=O)(=O)C[Xe] replacing CC([Xe])CS(N)(=O)=O
+
+$$$$
+Ax0556a-Ax0719a_1204_B1X
+     RDKit          3D
+
+ 21 22  0  0  0  0  0  0  0  0999 V2000
+   39.9572    5.7815    3.8989 N   0  0  0  0  0  0  0  0  0  0  0  0
+   38.8891    5.5236    3.5231 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.5249    5.2201    3.0623 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.8262    6.4958    2.6375 C   0  0  2  0  0  0  0  0  0  0  0  0
+   36.7830    7.6042    3.6990 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.4313    8.0578    3.1027 C   0  0  2  0  0  0  0  0  0  0  0  0
+   34.4695    8.5881    4.1072 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5753    9.9164    4.5069 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.6486   10.4943    4.4291 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4452   10.5936    4.9649 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.1660   10.2974    6.3376 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.7848   10.6365    6.7853 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5172   12.1221    6.6100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.5734   12.8773    5.7652 C   0  0  1  0  0  0  0  0  0  0  0  0
+   33.6837   13.5319    6.6270 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3439   13.7557    8.3904 S   0  0  0  0  0  6  0  0  0  0  0  0
+   34.4274   14.9553    8.8272 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.0151   14.2586    8.6525 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.8152   12.6779    9.1344 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.2273   12.0155    4.6385 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.2763    6.5643    2.6998 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  3  0
+  2  3  1  0
+  4  3  1  1
+  4  5  1  0
+  5  6  1  0
+  6  7  1  1
+  7  8  1  0
+  8  9  2  0
+  8 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  1
+ 15 16  1  0
+ 16 17  1  0
+ 16 18  2  0
+ 16 19  2  0
+ 14 20  1  0
+  6 21  1  0
+ 21  4  1  0
+ 20 10  1  0
+A    1
+ N1 
+A    2
+ C1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ C5 
+A    7
+ N2 
+A    8
+ C6 
+A    9
+ O1 
+A   10
+ N3 
+A   11
+ C7 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ C11
+A   16
+ S1 
+A   17
+ N4 
+A   18
+ O2 
+A   19
+ O3 
+A   20
+ C12
+A   21
+ C13
+M  END
+>  <ref_url>  (32) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (32) 
+Steph Wills
+
+>  <submitter_institution>  (32) 
+University of Oxford
+
+>  <submitter_email>  (32) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (32) 
+2024-06-03
+
+>  <method>  (32) 
+FragNetv2
+
+>  <original SMILES>  (32) 
+N#CCC1CC(NC(=O)N2CCCC(CS(N)(=O)=O)C2)C1
+
+>  <original_name>  (32) 
+Ax0556a-Ax0719a_1204_B1X
+
+>  <ref_mols>  (32) 
+Ax0556a,Ax0719a
+
+>  <ref_pdb>  (32) 
+Ax0310a
+
+>  <similarity>  (32) 
+1.0
+
+>  <smiles>  (32) 
+N#CCC1CC(NC(=O)N2CCCC(CS(N)(=O)=O)C2)C1
+
+>  <cmpd_id>  (32) 
+ENAMINE:PV-002903155997
+
+>  <used_subnode>  (32) 
+O=CNC1CCC1
+
+>  <used_synthon>  (32) 
+NS(=O)(=O)C[Xe]
+
+>  <ref_subnode>  (32) 
+O=CNC1CCC1
+
+>  <ref_synthon>  (32) 
+CC([Xe])CS(N)(=O)=O
+
+>  <fragmentA>  (32) 
+Ax0556a
+
+>  <fragmentB>  (32) 
+Ax0719a
+
+>  <HA>  (32) 
+21
+
+>  <HBD>  (32) 
+2
+
+>  <HBA>  (32) 
+4
+
+>  <MW>  (32) 
+314.141261564
+
+>  <TPSA>  (32) 
+116.28999999999999
+
+>  <LogP>  (32) 
+0.3887800000000009
+
+>  <RBs>  (32) 
+4
+
+>  <G_bound>  (32) 
+-2.980140111477112
+
+>  <G_unbound>  (32) 
+1.1809827636170753
+
+>  <deltaG>  (32) 
+-4.161122875094187
+
+>  <comRMSD>  (32) 
+0.5257224153057498
+
+>  <substructure_overlap_check>  (32) 
+1
+
+>  <energy_ratio_check>  (32) 
+1
+
+>  <const_energy/unconst_energy>  (32) 
+2.1418982714049104
+
+>  <sucos>  (32) 
+0.5788464823279311
+
+>  <interactions>  (32) 
+Hydrophobic_PRO-107,HBAcceptor_GLY-127,Hydrophobic_GLU-106,HBDonor_SER-105,Hydrophobic_HIS-104
+
+>  <total_num_ints>  (32) 
+5
+
+>  <total_num_ints_nonhyd>  (32) 
+2
+
+>  <num_uniq_frag_ints>  (32) 
+6
+
+>  <num_repl_uniq_ints>  (32) 
+5
+
+>  <num_uniq_ints_lost>  (32) 
+1
+
+>  <num_new_uniq_ints>  (32) 
+0
+
+>  <int_check>  (32) 
+1
+
+>  <prop_maintained_ints>  (32) 
+0.8333333333333334
+
+>  <rationale>  (32) 
+FragNet: 1 round bioisosteric merging incl O=CNC1CCC1 and NS(=O)(=O)C[Xe] replacing CC([Xe])CS(N)(=O)=O
+
+$$$$
+Ax0556a-Ax0719a_1644_B1X
+     RDKit          3D
+
+ 22 23  0  0  0  0  0  0  0  0999 V2000
+   34.5689   14.8528    8.0170 N   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5009   13.5746    8.0634 S   0  0  0  0  0  6  0  0  0  0  0  0
+   32.1650   14.0557    8.3214 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.1245   12.7314    9.0056 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.7596   13.0361    6.3638 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.7970   11.9431    5.8469 C   0  0  2  0  0  0  0  0  0  0  0  0
+   31.4316   12.0750    6.5600 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.3464   11.1925    7.7647 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.5867    9.7201    7.4515 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6123    9.4375    6.3529 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.4271   10.5426    5.8664 N   0  0  0  0  0  0  0  0  0  0  0  0
+   34.5009   10.1389    5.0100 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.3375   10.9537    4.6503 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.6114    8.7976    4.5650 N   0  0  0  0  0  0  0  0  0  0  0  0
+   35.5621    8.2647    3.4647 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.8520    9.3525    2.4258 C   0  0  0  0  0  0  0  0  0  0  0  0
+   34.7629   10.0937    2.1219 F   0  0  0  0  0  0  0  0  0  0  0  0
+   36.2983    8.7866    1.2795 F   0  0  0  0  0  0  0  0  0  0  0  0
+   36.8237   10.1892    2.8655 F   0  0  0  0  0  0  0  0  0  0  0  0
+   36.8438    7.4625    3.8808 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.6040    6.5280    2.6977 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.1319    6.9214    2.8265 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  2  4  2  0
+  2  5  1  0
+  6  5  1  1
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  1  0
+ 11 12  1  0
+ 12 13  2  0
+ 12 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 16 18  1  0
+ 16 19  1  0
+ 15 20  1  0
+ 20 21  1  0
+ 21 22  1  0
+ 11  6  1  0
+ 22 15  1  0
+A    1
+ N1 
+A    2
+ S1 
+A    3
+ O1 
+A    4
+ O2 
+A    5
+ C1 
+A    6
+ C2 
+A    7
+ C3 
+A    8
+ C4 
+A    9
+ C5 
+A   10
+ C6 
+A   11
+ N2 
+A   12
+ C7 
+A   13
+ O3 
+A   14
+ N3 
+A   15
+ C8 
+A   16
+ C9 
+A   17
+ F1 
+A   18
+ F2 
+A   19
+ F3 
+A   20
+ C10
+A   21
+ C11
+A   22
+ C12
+M  END
+>  <ref_url>  (33) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (33) 
+Steph Wills
+
+>  <submitter_institution>  (33) 
+University of Oxford
+
+>  <submitter_email>  (33) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (33) 
+2024-06-03
+
+>  <method>  (33) 
+FragNetv2
+
+>  <original SMILES>  (33) 
+NS(=O)(=O)CC1CCCCN1C(=O)NC1(C(F)(F)F)CCC1
+
+>  <original_name>  (33) 
+Ax0556a-Ax0719a_1644_B1X
+
+>  <ref_mols>  (33) 
+Ax0556a,Ax0719a
+
+>  <ref_pdb>  (33) 
+Ax0310a
+
+>  <similarity>  (33) 
+1.0
+
+>  <smiles>  (33) 
+NS(=O)(=O)CC1CCCCN1C(=O)NC1(C(F)(F)F)CCC1
+
+>  <cmpd_id>  (33) 
+ENAMINE:Z3593835265
+
+>  <used_subnode>  (33) 
+O=CNC1CCC1
+
+>  <used_synthon>  (33) 
+NS(=O)(=O)C[Xe]
+
+>  <ref_subnode>  (33) 
+O=CNC1CCC1
+
+>  <ref_synthon>  (33) 
+CC([Xe])CS(N)(=O)=O
+
+>  <fragmentA>  (33) 
+Ax0556a
+
+>  <fragmentB>  (33) 
+Ax0719a
+
+>  <HA>  (33) 
+22
+
+>  <HBD>  (33) 
+2
+
+>  <HBA>  (33) 
+3
+
+>  <MW>  (33) 
+343.11774716
+
+>  <TPSA>  (33) 
+92.5
+
+>  <LogP>  (33) 
+1.324
+
+>  <RBs>  (33) 
+3
+
+>  <G_bound>  (33) 
+-1.0778114564584325
+
+>  <G_unbound>  (33) 
+2.601094942127484
+
+>  <deltaG>  (33) 
+-3.6789063985859163
+
+>  <comRMSD>  (33) 
+0.7007448644210164
+
+>  <substructure_overlap_check>  (33) 
+1
+
+>  <energy_ratio_check>  (33) 
+1
+
+>  <const_energy/unconst_energy>  (33) 
+2.3284566379043077
+
+>  <sucos>  (33) 
+0.5697565982039311
+
+>  <interactions>  (33) 
+Hydrophobic_PRO-107,HBAcceptor_GLY-127,Hydrophobic_GLU-106,HBDonor_SER-105,Hydrophobic_HIS-104
+
+>  <total_num_ints>  (33) 
+5
+
+>  <total_num_ints_nonhyd>  (33) 
+2
+
+>  <num_uniq_frag_ints>  (33) 
+6
+
+>  <num_repl_uniq_ints>  (33) 
+5
+
+>  <num_uniq_ints_lost>  (33) 
+1
+
+>  <num_new_uniq_ints>  (33) 
+0
+
+>  <int_check>  (33) 
+1
+
+>  <prop_maintained_ints>  (33) 
+0.8333333333333334
+
+>  <rationale>  (33) 
+FragNet: 1 round bioisosteric merging incl O=CNC1CCC1 and NS(=O)(=O)C[Xe] replacing CC([Xe])CS(N)(=O)=O
+
+$$$$
+Ax0732a-Ax0310a_894_PXX
+     RDKit          3D
+
+ 23 24  0  0  0  0  0  0  0  0999 V2000
+   39.6609   12.4814    8.1870 C   0  0  0  0  0  0  0  0  0  0  0  0
+   38.3452   13.0447    8.2105 N   0  0  0  0  0  0  0  0  0  0  0  0
+   37.5366   13.2087    7.1299 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.3090   13.8057    7.7015 C   0  0  0  0  0  0  0  0  0  0  0  0
+   35.2187   14.1071    6.8849 C   0  0  2  0  0  0  0  0  0  0  0  0
+   34.7000   15.3820    7.2281 O   0  0  0  0  0  0  0  0  0  0  0  0
+   34.2087   13.2311    7.1804 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.9323   13.0607    8.3822 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.5987   12.5636    6.1412 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.8176   11.4960    6.5330 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.0987   10.0255    6.2970 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1076    9.0558    6.8853 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.9670    9.6590    7.6138 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.7902   11.0173    7.7531 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.7738   11.6683    8.3855 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.6411   13.0203    8.4663 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.5382   13.8328    8.6575 O   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2424   13.4909    8.2995 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.4137   14.8399    7.8674 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.6883   15.8905    7.5467 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6988   11.8957    7.2263 C   0  0  0  0  0  0  0  0  0  0  0  0
+   36.5722   13.9200    9.0795 C   0  0  0  0  0  0  0  0  0  0  0  0
+   37.8009   13.4658    9.3886 N   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  1
+  5  7  1  0
+  7  8  2  0
+  7  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 18 19  1  0
+ 19 20  3  0
+ 14 21  2  0
+  4 22  1  0
+ 22 23  2  0
+ 23  2  1  0
+ 21 10  1  0
+A    1
+ C1 
+A    2
+ N1 
+A    3
+ C2 
+A    4
+ C3 
+A    5
+ C4 
+A    6
+ O1 
+A    7
+ C5 
+A    8
+ O2 
+A    9
+ N2 
+A   10
+ C6 
+A   11
+ C7 
+A   12
+ C8 
+A   13
+ C9 
+A   14
+ C10
+A   15
+ N3 
+A   16
+ C11
+A   17
+ O3 
+A   18
+ C12
+A   19
+ C13
+A   20
+ N4 
+A   21
+ C14
+A   22
+ C15
+A   23
+ N5 
+M  END
+>  <ref_url>  (34) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (34) 
+Steph Wills
+
+>  <submitter_institution>  (34) 
+University of Oxford
+
+>  <submitter_email>  (34) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (34) 
+2024-06-03
+
+>  <method>  (34) 
+FragNetv2
+
+>  <original SMILES>  (34) 
+Cn1cc(C(O)C(=O)Nc2cccc(NC(=O)CC#N)c2)cn1
+
+>  <original_name>  (34) 
+Ax0732a-Ax0310a_894_PXX
+
+>  <ref_mols>  (34) 
+Ax0732a,Ax0310a
+
+>  <ref_pdb>  (34) 
+Ax0310a
+
+>  <similarity>  (34) 
+NA
+
+>  <smiles>  (34) 
+Cn1cc(C(O)C(=O)Nc2cccc(NC(=O)CC#N)c2)cn1
+
+>  <cmpd_id>  (34) 
+ENAMINE:PV-003205731961
+
+>  <used_subnode>  (34) 
+NA
+
+>  <used_synthon>  (34) 
+NA
+
+>  <ref_subnode>  (34) 
+O=C(CO)Nc1ccccc1
+
+>  <ref_synthon>  (34) 
+N#CCC(=O)N[Xe]
+
+>  <fragmentA>  (34) 
+Ax0732a
+
+>  <fragmentB>  (34) 
+Ax0310a
+
+>  <HA>  (34) 
+23
+
+>  <HBD>  (34) 
+3
+
+>  <HBA>  (34) 
+6
+
+>  <MW>  (34) 
+313.1174893400001
+
+>  <TPSA>  (34) 
+120.04
+
+>  <LogP>  (34) 
+0.9443799999999998
+
+>  <RBs>  (34) 
+5
+
+>  <G_bound>  (34) 
+-4.8792435503566916
+
+>  <G_unbound>  (34) 
+0.71162911516188
+
+>  <deltaG>  (34) 
+-5.590872665518572
+
+>  <comRMSD>  (34) 
+0.7561574761817649
+
+>  <substructure_overlap_check>  (34) 
+1
+
+>  <energy_ratio_check>  (34) 
+1
+
+>  <const_energy/unconst_energy>  (34) 
+3.2022131026100475
+
+>  <sucos>  (34) 
+0.6123586149453388
+
+>  <interactions>  (34) 
+Hydrophobic_PRO-107,Hydrophobic_GLU-85,HBAcceptor_GLU-85,HBDonor_GLU-85,HBAcceptor_GLY-127,Hydrophobic_HIS-21,Hydrophobic_VAL-84
+
+>  <total_num_ints>  (34) 
+7
+
+>  <total_num_ints_nonhyd>  (34) 
+3
+
+>  <num_uniq_frag_ints>  (34) 
+6
+
+>  <num_repl_uniq_ints>  (34) 
+3
+
+>  <num_uniq_ints_lost>  (34) 
+3
+
+>  <num_new_uniq_ints>  (34) 
+4
+
+>  <int_check>  (34) 
+1
+
+>  <prop_maintained_ints>  (34) 
+0.5
+
+>  <rationale>  (34) 
+FragNet: perfect merge incl O=C(CO)Nc1ccccc1,N#CCC(=O)N[Xe]
+
+$$$$
+Ax0884a-Ax0719a_876_B1X
+     RDKit          3D
+
+ 20 21  0  0  0  0  0  0  0  0999 V2000
+   28.2673   14.8303    7.1961 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2258   13.6973    6.1710 C   0  0  0  0  0  0  0  0  0  0  0  0
+   29.0405   12.6426    6.7269 N   0  0  0  0  0  0  0  0  0  0  0  0
+   29.1446   12.6970    8.0737 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.2798   13.2314    8.7547 O   0  0  0  0  0  0  0  0  0  0  0  0
+   30.2955   12.1254    8.5210 N   0  0  0  0  0  0  0  0  0  0  0  0
+   31.1068   11.2162    7.8186 C   0  0  0  0  0  0  0  0  0  0  0  0
+   30.8614    9.8519    7.9164 C   0  0  0  0  0  0  0  0  0  0  0  0
+   31.6459    8.9448    7.2365 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6869    9.3625    6.4340 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.9615   10.7097    6.3214 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.1896   11.6520    7.0132 C   0  0  0  0  0  0  0  0  0  0  0  0
+   32.6045   13.0889    6.8383 C   0  0  0  0  0  0  0  0  0  0  0  0
+   33.3203   13.7699    8.3680 S   0  0  0  0  0  6  0  0  0  0  0  0
+   34.6506   14.6847    7.9094 N   0  0  0  0  0  0  0  0  0  0  0  0
+   32.3571   14.5970    9.0533 O   0  0  0  0  0  0  0  0  0  0  0  0
+   33.9325   12.7183    9.0753 O   0  0  0  0  0  0  0  0  0  0  0  0
+   26.8105   13.2022    5.7362 C   0  0  0  0  0  0  0  0  0  0  0  0
+   27.0523   13.8183    4.3355 C   0  0  0  0  0  0  0  0  0  0  0  0
+   28.5566   14.0043    4.7061 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  1  0
+  4  5  2  0
+  4  6  1  0
+  6  7  1  0
+  7  8  2  0
+  8  9  1  0
+  9 10  2  0
+ 10 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 14 16  2  0
+ 14 17  2  0
+  2 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20  2  1  0
+ 12  7  1  0
+A    1
+ C1 
+A    2
+ C2 
+A    3
+ N1 
+A    4
+ C3 
+A    5
+ O1 
+A    6
+ N2 
+A    7
+ C4 
+A    8
+ C5 
+A    9
+ C6 
+A   10
+ C7 
+A   11
+ C8 
+A   12
+ C9 
+A   13
+ C10
+A   14
+ S1 
+A   15
+ N3 
+A   16
+ O2 
+A   17
+ O3 
+A   18
+ C11
+A   19
+ C12
+A   20
+ C13
+M  END
+>  <ref_url>  (35) 
+https://pubs.acs.org/doi/10.1021/acs.jcim.3c00276?fig=tgr1&ref=pdf
+
+>  <submitter_name>  (35) 
+Steph Wills
+
+>  <submitter_institution>  (35) 
+University of Oxford
+
+>  <submitter_email>  (35) 
+stephanie.wills@balliol.ox.ac.uk
+
+>  <generation_date>  (35) 
+2024-06-03
+
+>  <method>  (35) 
+FragNetv2
+
+>  <original SMILES>  (35) 
+CC1(NC(=O)Nc2ccccc2CS(N)(=O)=O)CCC1
+
+>  <original_name>  (35) 
+Ax0884a-Ax0719a_876_B1X
+
+>  <ref_mols>  (35) 
+Ax0884a,Ax0719a
+
+>  <ref_pdb>  (35) 
+Ax0310a
+
+>  <similarity>  (35) 
+1.0
+
+>  <smiles>  (35) 
+CC1(NC(=O)Nc2ccccc2CS(N)(=O)=O)CCC1
+
+>  <cmpd_id>  (35) 
+ENAMINE:PV-002917366677
+
+>  <used_subnode>  (35) 
+NC(=O)Nc1ccccc1
+
+>  <used_synthon>  (35) 
+NS(=O)(=O)C[Xe]
+
+>  <ref_subnode>  (35) 
+NC(=O)Nc1ccccc1
+
+>  <ref_synthon>  (35) 
+CC([Xe])CS(N)(=O)=O
+
+>  <fragmentA>  (35) 
+Ax0884a
+
+>  <fragmentB>  (35) 
+Ax0719a
+
+>  <HA>  (35) 
+20
+
+>  <HBD>  (35) 
+3
+
+>  <HBA>  (35) 
+3
+
+>  <MW>  (35) 
+297.11471246800005
+
+>  <TPSA>  (35) 
+101.28999999999999
+
+>  <LogP>  (35) 
+1.5391999999999997
+
+>  <RBs>  (35) 
+4
+
+>  <G_bound>  (35) 
+-6.289469249375217
+
+>  <G_unbound>  (35) 
+2.2486490315339447
+
+>  <deltaG>  (35) 
+-8.538118280909162
+
+>  <comRMSD>  (35) 
+0.6840589134484641
+
+>  <substructure_overlap_check>  (35) 
+1
+
+>  <energy_ratio_check>  (35) 
+1
+
+>  <const_energy/unconst_energy>  (35) 
+4.335154745654891
+
+>  <sucos>  (35) 
+0.5996657562362092
+
+>  <interactions>  (35) 
+HBDonor_GLU-85,Hydrophobic_PRO-107,Hydrophobic_TYR-89,Hydrophobic_HIS-21,HBAcceptor_GLY-127,HBDonor_SER-125,Hydrophobic_GLU-88
+
+>  <total_num_ints>  (35) 
+7
+
+>  <total_num_ints_nonhyd>  (35) 
+3
+
+>  <num_uniq_frag_ints>  (35) 
+3
+
+>  <num_repl_uniq_ints>  (35) 
+3
+
+>  <num_uniq_ints_lost>  (35) 
+0
+
+>  <num_new_uniq_ints>  (35) 
+4
+
+>  <int_check>  (35) 
+1
+
+>  <prop_maintained_ints>  (35) 
+1.0
+
+>  <rationale>  (35) 
+FragNet: 1 round bioisosteric merging incl NC(=O)Nc1ccccc1 and NS(=O)(=O)C[Xe] replacing CC([Xe])CS(N)(=O)=O
+
+$$$$
