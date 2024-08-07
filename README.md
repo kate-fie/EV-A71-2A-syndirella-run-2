@@ -6,10 +6,10 @@ The following compound sets will be elaborated:
 
 | Creator           | Description                                                              | Number of compounds | Status |
 |-------------------|--------------------------------------------------------------------------|---------------------|--------|
-| Kate              | `x1346` analogues designed manually                                      | 38                  | 🟥       | 
-| Ryan              | Various fragment analogues designed manually                             | 24                  | 🟥       |
-| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 36                  | 🟥       |
-| Warren (Kate)     | Covalent hits as themselves and non-covalent, ketone, aldehyde analogues | 16                  | 🟥       |
+| Kate              | `x1346` analogues designed manually                                      | 38                  | 🟥     | 
+| Ryan              | Various fragment analogues designed manually                             | 24                  | 🟧     |
+| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 36                  | 🟥     |
+| Warren (Kate)     | Covalent hits as themselves and non-covalent, ketone, aldehyde analogues | 16                  | 🟧     |
 | Kate              | `x1346a x1431a x1445a` fragments                                         | 3                   | 🟥     |
 | Kate              | `x0926` fragment w/ manual amidation route                               | 1                   | 🟩     |
 |                   |                                                                          | Total: 118          |
@@ -28,7 +28,7 @@ Algorithm to choose template goes as follows:
 ## Running
 All outputs are in `/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5`.
 
-# OLD
+# OLD – DISREGARD BELOW
 ## Summary
 Matteo has found compounds close to fragments that are starting reactants with functional groups of:
 - amine (22)
