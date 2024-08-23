@@ -1,0 +1,125 @@
+,smiles,compound_set,ROMol,inchi
+0,NC(=O)C1CCCN(C(=O)c2ccc(Cl)c(C(=O)CN3CCCC3)c2)C1,x0926 merge into p1’,<rdkit.Chem.rdchem.Mol object at 0x160390740>,XFGYJWHIQIBJSY-UHFFFAOYSA-N
+1,NC(=O)C1CCCN(C(=O)c2cccc(O)c2C(=O)NC2CC2)C1,x0926 going down p1,<rdkit.Chem.rdchem.Mol object at 0x1603902e0>,FLMILONKHOWECW-UHFFFAOYSA-N
+2,NC(=O)C1CCCN(C(=O)c2cccc(O)c2C(=O)NCc2ccccc2)C1,x0926 going down p1,<rdkit.Chem.rdchem.Mol object at 0x160390270>,IBRVECODLZJKOD-UHFFFAOYSA-N
+3,C[n+]1ccc(C(=O)N2CCCC(C(N)=O)C2Cl)[nH]1,X0926 and x1346,<rdkit.Chem.rdchem.Mol object at 0x160390350>,BTEBCTYBHLEZJH-UHFFFAOYSA-O
+4,NC(=O)C1CCCN(C(=O)Cc2[nH]ncc2CC(=O)NC2CC2)C1,X0926 and x1346,<rdkit.Chem.rdchem.Mol object at 0x160390190>,OUZJAERXRYTSSC-UHFFFAOYSA-N
+5,O=C(Cc1cn[nH]c1CC(=O)N1CCCC(C(F)(F)F)C1)NC1CC1,X0926 and x1346,<rdkit.Chem.rdchem.Mol object at 0x160390200>,QGMUJYUUQHRYMH-UHFFFAOYSA-N
+6,O=C(Cc1cn[nH]c1CC(=O)N1CCCC(C(F)(F)F)C1)NC1CC1,X0926 and x1347and x1019,<rdkit.Chem.rdchem.Mol object at 0x1603903c0>,QGMUJYUUQHRYMH-UHFFFAOYSA-N
+7,CC(=O)Nc1ccccc1CCS(N)(=O)=O,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160390430>,RCQABPSABHETPA-UHFFFAOYSA-N
+8,CC(=O)Nc1c(F)cncc1CCS(N)(=O)=O,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391a10>,WGWAZNAGHJOVFM-UHFFFAOYSA-N
+9,CC(=O)Nc1c(F)cncc1C(C)CS(N)(=O)=O,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391a80>,HTUHNYUZKHXZKD-UHFFFAOYSA-N
+10,CC(=O)Nc1c(CCS(=O)(=O)Cc2ccccc2)cnnc1F,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391af0>,OIKGITNDONYCGO-UHFFFAOYSA-N
+11,CC(=O)Nc1c(CCS(=O)(=O)Cc2ccccc2)cnnc1C,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391b60>,NHMZCBSXKMEJPX-UHFFFAOYSA-N
+12,CC(=O)Nc1c(C(C)CS(=O)(=O)Cc2ccccc2)cnnc1C,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391bd0>,JLIOJHVBOJMQIF-UHFFFAOYSA-N
+13,CC(=O)Nc1c(CCS(=O)(=O)CC2CCCC2)cnnc1F,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391c40>,YNGHFNAFDPLNPO-UHFFFAOYSA-N
+14,CC(=O)Nc1c(CCS(=O)(=O)CNC2CCCC2)cnnc1F,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391cb0>,KJFMHANYSPMOLY-UHFFFAOYSA-N
+15,CC(=O)Nc1c(C)cncc1CCS(=O)(=O)CNC1CCCC1,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391d20>,SPDPMZFAIDCEMQ-UHFFFAOYSA-N
+16,CC(=O)Nc1c(C(C)CS(=O)(=O)CNC2CCCC2)cnnc1F,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391d90>,ZZZRMRBVIAKRQS-UHFFFAOYSA-N
+17,N#CCC(=O)Nc1c(F)cncc1CCS(N)(=O)=O,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391e00>,KNJJQPLIBGXAOK-UHFFFAOYSA-N
+18,N#CCC(=O)Nc1c(CCS(N)(=O)=O)cnnc1F,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391e70>,MAAPOHOMKSDLKT-UHFFFAOYSA-N
+19,CC(CS(N)(=O)=O)c1cncc(F)c1NC(=O)CC#N,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391ee0>,AKFVJEZWTIKHMN-UHFFFAOYSA-N
+20,Cc1cncc(C(C)CS(N)(=O)=O)c1NC(=O)CC#N,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391f50>,QCEYPWDABLHUFH-UHFFFAOYSA-N
+21,CC(=O)Nc1c(CCS(=O)(=O)NCC2CCCC2)cnnc1F,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160391fc0>,IYOGHWZXFXYOQU-UHFFFAOYSA-N
+22,CC(=O)Nc1c(C)cncc1CCS(=O)(=O)NCC1CCCC1,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x160392030>,YIKJHUKYLWWLRK-UHFFFAOYSA-N
+23,CC(=O)Nc1c(C(C)CS(=O)(=O)NCC2CCCC2)cnnc1F,x0487 P2 extension,<rdkit.Chem.rdchem.Mol object at 0x1603920a0>,DWYTUPBMKQNMSK-UHFFFAOYSA-N
+24,N#CCC(=O)Nc1ccc(C(N)=O)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392110>,YOZGXEFFSUYIHZ-UHFFFAOYSA-N
+25,CC(=O)Nc1ccc(NCc2ccc(F)cc2)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392180>,PYJAQWOJPPUYGG-UHFFFAOYSA-N
+26,COc1cccc(CNc2ccc(NC(C)=O)cn2)c1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603921f0>,BRGVKEGCIHEPPP-UHFFFAOYSA-N
+27,CC(=O)Nc1ccc(NCc2ccc(C)cc2F)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392260>,STENHMKKTIKNSL-UHFFFAOYSA-N
+28,CC(=O)Nc1ccc(NCc2cccc(C(C)C)c2)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603922d0>,YOLKTWJVPVNAFB-UHFFFAOYSA-N
+29,Cn1nc(C2CCCOC2)cc1NC(=O)CC#N,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392340>,FXRFYQFBDSCVNV-UHFFFAOYSA-N
+30,CC(=O)Nc1ccc(NCc2cc(F)ccc2C)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603923b0>,CVEFMCDJOJXUIK-UHFFFAOYSA-N
+31,CC(=O)Nc1ccc(NCc2ccccc2C2CC2)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392420>,DJUIWIREQOAEAT-UHFFFAOYSA-N
+32,CC(=O)Nc1ccc(NCc2c(C)cccc2F)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392490>,VZJOPPZUDXGJLP-UHFFFAOYSA-N
+33,Cn1ccc2ccc(NCc3ccccc3)cc21,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392500>,UHNZJDZIMIGMKU-UHFFFAOYSA-N
+34,Cc1ccc(CNc2ccc(N3CCNC(=O)C3)cn2)cc1C,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392570>,AOLHRJZGGWAHNY-UHFFFAOYSA-N
+35,O=C1NCCC1C(=O)N1CCCC(NCc2ccccc2)C1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603925e0>,HOWRLYKLFLMWBY-UHFFFAOYSA-N
+36,O=C1NCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)cc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392650>,ZGAPODHVEGIIKR-UHFFFAOYSA-N
+37,O=C1NCCN1c1ccc(NCc2cccc(F)c2)cc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603926c0>,KKHICEOOLIHEJQ-UHFFFAOYSA-N
+38,CSc1cccc(CNc2ccc(N3CCNC(=O)C3)cn2)c1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392730>,AKBIFIUVGFTRED-UHFFFAOYSA-N
+39,Cn1nc(C2CCOCC2)cc1C(=O)OCC1CNC(=O)C1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603927a0>,VGTICCPOHXQQKL-UHFFFAOYSA-N
+40,NCc1ccc(C(=O)Nc2c[nH]c3ccccc23)cc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392810>,XTQDUNSPBPDCKJ-UHFFFAOYSA-N
+41,Cc1ncc(C(=O)N(C)C2CN(C3CCNC3=O)C2)s1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392880>,VLACOELDXIUEQB-UHFFFAOYSA-N
+42,CCC(C)CC(=O)Nc1ccc(C(=O)N(C)C)cc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603928f0>,BOAMHCYETLQJMX-UHFFFAOYSA-N
+43,CN(C)C(=O)c1ccc(NC(=O)CC(C)(C)C(F)(F)F)c(F)c1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392960>,ILHKCRSAMLMADP-UHFFFAOYSA-N
+44,COc1cncc(CCC(=O)NC2CCNC2=O)c1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603929d0>,UMHURAQUKMFEOS-UHFFFAOYSA-N
+45,O=C(OCC1CCCNC1=O)c1ccncc1F,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392a40>,NKHJVGNWKQVXFO-UHFFFAOYSA-N
+46,CN1CCC(c2nc(-c3ccncc3)no2)C1=O,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392ab0>,XCTXQFYSMNRKHU-UHFFFAOYSA-N
+47,CCC1CC(NC(=O)c2ccc(NC(=O)C(C)(C)C)nc2)C1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392b20>,MEWGRUZWHVKYDS-UHFFFAOYSA-N
+48,CCOC(=O)c1cc(NC(=O)CC#N)n(C)n1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392b90>,AJVIKZPIPBHAKY-UHFFFAOYSA-N
+49,CC(C)(C)C(=O)Nc1ccc(C(=O)NC2(C(F)F)CCC2)cn1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392c00>,FLWASAJBVPBCFC-UHFFFAOYSA-N
+50,CCCC(=O)NC1CCN(C(=O)NC2CC(CC#N)C2)CC1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392c70>,ADKGLDCQLGUTAN-UHFFFAOYSA-N
+51,NC(=O)c1cc(NC(=O)C23CCC(CO2)C3)[nH]n1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392ce0>,IXJHDOWQFHNIPX-UHFFFAOYSA-N
+52,O=C(NC1CC(C(F)(F)F)C1)c1cc2ccsc2[nH]1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392d50>,VKQJXGLAYUFNNG-UHFFFAOYSA-N
+53,CC(C)(C)OC1CC(NC(=O)N2CCCC2CS(N)(=O)=O)C1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392dc0>,AJDWMOBETOFCCQ-UHFFFAOYSA-N
+54,N#CCC1CC(NC(=O)N2CCCC(CS(N)(=O)=O)C2)C1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392e30>,PBKZXBCNWICEAZ-UHFFFAOYSA-N
+55,NS(=O)(=O)CC1CCCCN1C(=O)NC1(C(F)(F)F)CCC1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392ea0>,CDEQWWZMXKMRIT-UHFFFAOYSA-N
+56,Cn1cc(C(O)C(=O)Nc2cccc(NC(=O)CC#N)c2)cn1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392f10>,FNVXGPBMKFGEAW-UHFFFAOYSA-N
+57,CC1(NC(=O)Nc2ccccc2CS(N)(=O)=O)CCC1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392f80>,QCDPODCBNROZRQ-UHFFFAOYSA-N
+58,CC(=O)Nc1ccc(NCc2ccccc2F)cn1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160392ff0>,YUOBBXFWNXVYIH-UHFFFAOYSA-N
+59,CC(=O)N(C)c1ccc(NCc2cccc(C(C)C)c2)cn1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160393060>,WYGQDRQQQRDYQK-UHFFFAOYSA-N
+60,CC(=O)Nc1ccc(NCc2ccccc2C)cn1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603930d0>,JOZAESUJELHHNF-UHFFFAOYSA-N
+61,CC(=O)N(C)c1ccc(NCc2ccccc2C2CC2)cn1 ,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160393140>,HEZJZHLSMMYDJW-UHFFFAOYSA-N
+62,Cc1ccc(C(=O)Nc2ccc(N3CCNC(=O)C3)nc2)cc1C ,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x1603931b0>,XPPBWHFHQYXQOT-UHFFFAOYSA-N
+63,O=C1CCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160393220>,AZMOINLCXHZGHV-UHFFFAOYSA-N
+64,O=C1CCCN1c1ccc(NCc2cccc(F)c2)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160393290>,LOFPJTBPHYUPTQ-UHFFFAOYSA-N
+65,CC(=O)Nc1ccc(C(=O)N(C)C)nc1,knitwork_june_2024,<rdkit.Chem.rdchem.Mol object at 0x160393300>,ARUJUKWSMBISDK-UHFFFAOYSA-N
+66,Cn1cc(NC(=O)CC#N)c(C(F)F)n1,exact_hits_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393370>,YUEAFRHXWPAMFJ-UHFFFAOYSA-N
+67,Cc1nn(C)c(C)c1CC(=O)N[C@@H](CNC(=O)CCl)c1ccc2ccccc2c1 |a:12|,exact_hits_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603933e0>,BKBFLODZEQEWBQ-FQEVSTJZSA-N
+68,COc1cc(NC(=O)C[C@@H](C)C(F)(F)F)n(C)n1 |a:9|,exact_hits_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393450>,NZVJBVJDSSUPIL-ZCFIWIBFSA-N
+69,CC(=O)Nc1cc(CC(=O)N[C@@H](CNC(=O)CCl)c2ccc3ccccc3c2)cnn1 |a:11|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603934c0>,SIFNOWIDTARFBR-IBGZPJMESA-N
+70,CC(=O)Nc1c(CC(=O)N[C@@H](CNC(=O)CCl)c2ccc3ccccc3c2)c(C)nn1C |a:10|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393530>,SXYLVBRZJXQQRT-FQEVSTJZSA-N
+71,CC(=O)Nc1cc(CC(=O)N[C@@H](CNC(=O)CCl)c2cccnc2)cnn1 |a:11|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603935a0>,DTXWADQFBJPDFQ-AWEZNQCLSA-N
+72,CC(=O)Nc1c(CC(=O)N[C@@H](CNC(=O)CCl)c2cccnc2)c(C)nn1C |a:10|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393610>,UTFHQGDFQLQWDL-HNNXBMFYSA-N
+73,CC(=O)Nc1cc(CC(=O)N[C@@H](CNC(=O)CN)c2ccc3ccccc3c2)cnn1 |a:11|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393680>,PYVBZLQQVPICOH-IBGZPJMESA-N
+74,CC(=O)Nc1c(CC(=O)N[C@@H](CNC(=O)CN)c2ccc3ccccc3c2)c(C)nn1C |a:10|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603936f0>,BEZTZAGGDXJGFO-FQEVSTJZSA-N
+75,Cc1nn(C)c(C)c1CC(=O)N[C@@H](CNC(=O)CN)c1ccc2ccccc2c1 |a:12|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393760>,DQWUNIXDDNPLQU-FQEVSTJZSA-N
+76,CC(=O)Nc1cc(CC(=O)N[C@@H](CNC(=O)CN)c2cccnc2)cnn1 |a:11|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603937d0>,PIQJRRJAGPEAMR-AWEZNQCLSA-N
+77,CC(=O)Nc1c(CC(=O)N[C@@H](CNC(=O)CN)c2cccnc2)c(C)nn1C |a:10|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393840>,XIORHBOCOFRYFD-HNNXBMFYSA-N
+78,CC(=O)Nc1cncc(CC(=O)N[C@@H](CNC(=O)CCl)c2ccc3ccccc3c2)c1 |a:13|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603938b0>,OQOLMCJQPJBXLR-NRFANRHFSA-N
+79,CC(=O)Nc1cncc(CC(=O)N[C@@H](CNC(=O)CCl)c2cccnc2)c1 |a:13|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393920>,DFKGVRAMBBIYRO-INIZCTEOSA-N
+80,CC(=O)Nc1cncc(CC(=O)N[C@@H](CNC(=O)CN)c2ccc3ccccc3c2)c1 |a:13|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393990>,SRKRLPVCPSZUQN-NRFANRHFSA-N
+81,CC(=O)Nc1cncc(CC(=O)N[C@@H](CNC(=O)CN)c2cccnc2)c1 |a:13|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393a00>,VNCZFLFCYKVYPW-INIZCTEOSA-N
+82,CC(=O)Nc1cc(CC(=O)N[C@@H](CNC(=O)CCl)c2ccc3ccccc3c2)c(NC(C)=O)nn1 |a:11|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393a70>,UQJYZDUPODIDKG-FQEVSTJZSA-N
+83,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)N[C@@H](CNC(=O)CCl)c1ccc2ccccc2c1 |a:18|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393ae0>,NABKQIYAVLWRCF-FQEVSTJZSA-N
+84,CC(=O)Nc1cc(CC(=O)N[C@@H](CNC(=O)CCl)c2cccnc2)c(NC(C)=O)nn1 |a:11|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393b50>,RYBPMOJTEQMKKH-HNNXBMFYSA-N
+85,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)N[C@@H](CNC(=O)CCl)c1cccnc1 |a:18|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393bc0>,SGXOWRBLHZCNRN-HNNXBMFYSA-N
+86,CC(=O)Nc1cc(CC(=O)N[C@@H](CNC(=O)CN)c2ccc3ccccc3c2)c(NC(C)=O)nn1 |a:11|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393c30>,KPERIRNORGNZOK-FQEVSTJZSA-N
+87,CC(=O)Nc1cc(CC(=O)NCC(NC(=O)CCl)c2ccc3ccccc3c2)c(NC(C)=O)nn1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393ca0>,JVZXHYPLNFZOGG-UHFFFAOYSA-N
+88,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)NCC(NC(=O)CCl)c1ccc2ccccc2c1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393d10>,TUCPZQSNPSFHQP-UHFFFAOYSA-N
+89,CC(=O)Nc1cc(CC(=O)NCC(NC(=O)CCl)c2cccnc2)c(NC(C)=O)nn1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393d80>,RHANAJVRLKPORR-UHFFFAOYSA-N
+90,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)NCC(NC(=O)CCl)c1cccnc1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393df0>,YUFCPORBLIBJSD-UHFFFAOYSA-N
+91,CC(=O)Nc1cc(CC(=O)NCC(NC(=O)CN)c2ccc3ccccc3c2)c(NC(C)=O)nn1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393e60>,SEDVFDWHZUODGN-UHFFFAOYSA-N
+92,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)N[C@@H](CNC(=O)CN)c1ccc2ccccc2c1 |a:18|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393ed0>,LYOAGXGPRBSKRC-FQEVSTJZSA-N
+93,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)NCC(NC(=O)CN)c1ccc2ccccc2c1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x160393f40>,MGJPRFDIQKWXDQ-UHFFFAOYSA-N
+94,Cc1nn(C)c(C)c1CC(=O)NCC(NC(=O)CN)c1ccc2ccccc2c1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc040>,SHLNSOIRGLGPSR-UHFFFAOYSA-N
+95,CC(=O)Nc1cc(CC(=O)N[C@@H](CNC(=O)CN)c2cccnc2)c(NC(C)=O)nn1 |a:11|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc0b0>,LBUZQUWVYQOXCD-HNNXBMFYSA-N
+96,CC(=O)Nc1cc(CC(=O)NCC(NC(=O)CN)c2cccnc2)c(NC(C)=O)nn1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc120>,MXPRYVLVNLFFPZ-UHFFFAOYSA-N
+97,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)N[C@@H](CNC(=O)CN)c1cccnc1 |a:18|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc190>,XPYBVOSNGYRXIJ-HNNXBMFYSA-N
+98,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)NCC(NC(=O)CN)c1cccnc1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc200>,OGEFHXQNNGIDQK-UHFFFAOYSA-N
+99,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)N[C@@H](CNC(=O)CCl)c2ccc3ccccc3c2)c1 |a:17|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc270>,VCDNITPVWFDANN-QFIPXVFZSA-N
+100,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)NCC(NC(=O)CCl)c2ccc3ccccc3c2)c1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc2e0>,UXADFTGYSAHHGI-UHFFFAOYSA-N
+101,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)N[C@@H](CNC(=O)CCl)c2cccnc2)c1 |a:17|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc350>,CMGPOYUFCPYGSH-KRWDZBQOSA-N
+102,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)NCC(NC(=O)CCl)c2cccnc2)c1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc3c0>,RSVKCRFNQMHJGM-UHFFFAOYSA-N
+103,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)N[C@@H](CNC(=O)CN)c2ccc3ccccc3c2)c1 |a:17|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc430>,HEFIARXTVOECPK-QFIPXVFZSA-N
+104,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)NCC(NC(=O)CN)c2ccc3ccccc3c2)c1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc4a0>,JOAABFJXAAZIHP-UHFFFAOYSA-N
+105,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)N[C@@H](CNC(=O)CN)c2cccnc2)c1 |a:17|,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc510>,CBLWINMXWBVKNE-KRWDZBQOSA-N
+106,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)NCC(NC(=O)CN)c2cccnc2)c1,x1346_manual_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc580>,MKLPNWCIHVCMSV-UHFFFAOYSA-N
+107,COCC(=O)N1CCC[C@H](C(N)=O)C1 |a:9|,exact_hits_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc5f0>,VINVRWFILPAKSR-ZETCQYMHSA-N
+108,CCOc1ccc(C(=O)CC)cc1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc660>,XZJXCESWBMDSBO-UHFFFAOYSA-N
+109,CCC(=O)c1ccc(NC(C)=O)cc1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc6d0>,JGCDYYAXNUYBHB-UHFFFAOYSA-N
+110,CCOc1ccc(C(=O)CCl)cc1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc740>,ZYLJLWLQPBRDLN-UHFFFAOYSA-N
+111,CC(=O)Nc1ccc(C(=O)CCl)cc1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc7b0>,VMMDOCYDNRLESP-UHFFFAOYSA-N
+112,CC(=O)N1CCc2cc(C(=O)CCl)ccc21,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc820>,CBLHPICDDMRZIW-UHFFFAOYSA-N
+113,CCC(=O)c1ccc2c(c1)CCN2C(C)=O,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc890>,HSHULNOIEDSBFV-UHFFFAOYSA-N
+114,CCC(=O)c1ccc2c(c1)NC(=O)CO2,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc900>,SGXMEUBMGXFRJY-UHFFFAOYSA-N
+115,O=C1COc2ccc(C(=O)CCl)cc2N1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc970>,MIAHXWVABDHISZ-UHFFFAOYSA-N
+116,CCOc1ccc(C(C)=O)cc1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fc9e0>,YJFNFQHMQJCPRG-UHFFFAOYSA-N
+117,CCOc1ccc(C=O)cc1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fca50>,JRHHJNMASOIRDS-UHFFFAOYSA-N
+118,CC(=O)Nc1ccc(C(C)=O)cc1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fcac0>,WECHHDJTILFYQT-UHFFFAOYSA-N
+119,CC(=O)Nc1ccc(C=O)cc1,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fcb30>,SKLUWKYNZNXSLX-UHFFFAOYSA-N
+120,CC(=O)c1ccc2c(c1)CCN2C(C)=O,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fcba0>,DDTZNSOMVMYKHA-UHFFFAOYSA-N
+121,CC(=O)N1CCc2cc(C=O)ccc21,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fcc10>,XFHXIXRTXWMWFG-UHFFFAOYSA-N
+122,CC(=O)c1ccc2c(c1)NC(=O)CO2,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fcc80>,BKJFWHFUERNXLJ-UHFFFAOYSA-N
+123,O=Cc1ccc2c(c1)NC(=O)CO2,covalent_analogues_aug_2024,<rdkit.Chem.rdchem.Mol object at 0x1603fccf0>,VHKABBARGFUYOF-UHFFFAOYSA-N
