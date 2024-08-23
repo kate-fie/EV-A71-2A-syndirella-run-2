@@ -137,7 +137,7 @@ def make_scaffold_outputs(csv_path: str, home_path: str, output_path: str):
                         base_check_dir: str = path
             else:
                 base_check_dir: str = base_check_dirs[0]
-            to_hippo: bool = find_to_hippo(base_check_dir=base_check_dir)
+            to_hippo: bool = find_to_hippo(base_check_dir=base_check_dir, inchi=inchi)
             logger.info(base_check_dir)
             json_path: List[str] = glob2.glob(os.path.join(base_check_dir, '**/*.minimised.json'))
             if len(json_path) == 1:
