@@ -120,10 +120,13 @@ def make_scaffold_outputs(csv_path: str, home_path: str, output_path: str):
         base_check_dirs: List[str]= glob2.glob(os.path.join(home_path, f'*/{inchi}-base-check/'))
         if len(base_check_dirs) == 0:
             outcome = 'not-found'
-        elif len(base_check_dirs) > 1:
-            outcome = 'multiple-found'
         else:
-            base_check_dir: str = base_check_dirs[0]
+            if len(base_check_dirs) > 1:
+                for path in base_check_dirs:
+                    if os.listdir(path):  # not empty
+                        base_check_dir: str = path
+            else:
+                base_check_dir: str = base_check_dirs[0]
             logger.info(base_check_dir)
             json_path: List[str] = glob2.glob(os.path.join(base_check_dir, '**/*.minimised.json'))
             if len(json_path) == 1:
