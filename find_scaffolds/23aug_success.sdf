@@ -1918,6 +1918,202 @@ $$$$
 LIG
      RDKit          3D
 
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+    8.1078   11.8261   32.1253 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3558   11.5187   30.8603 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8246   10.2339   30.6756 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1355    9.9060   29.5082 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9597   10.8542   28.4981 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2389   10.4753   27.2291 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1179    9.8953   26.2415 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0177   10.6049   25.4874 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8550   11.9524   25.2375 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7532   12.6270   24.4275 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8268   11.9694   23.8407 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.7908   12.6709   23.0756 N   0  0  0  0  0  0  0  0  0  0  0  0
+    9.3003   13.8879   22.3785 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.4185   14.5870   21.5942 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.5143   14.9542   22.4569 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.9171   14.1084   23.4518 C   0  0  0  0  0  0  0  0  0  0  0  0
+   12.9881   14.3079   24.0238 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.9785   12.9811   23.9253 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8989   10.5995   24.1176 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0287    9.9189   24.9244 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4759   12.1451   28.6892 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1885   12.4850   29.8509 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.7282   13.8820   29.9979 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  2  0
+  3  4  1  0
+  4  5  2  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  2  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  1  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  2  0
+ 16 18  1  0
+ 11 19  1  0
+ 19 20  2  0
+  5 21  1  0
+ 21 22  2  0
+ 22 23  1  0
+ 22  2  1  0
+ 20  8  1  0
+ 18 12  1  0
+M  END
+>  <inchi>  (32) 
+AOLHRJZGGWAHNY-UHFFFAOYSA-N
+
+>  <compound_set>  (32) 
+knitwork_june_2024
+
+>  <ddG>  (32) 
+-21.154106674038815
+
+>  <rmsd>  (32) 
+1.6688245501902725
+
+$$$$
+LIG
+     RDKit          3D
+
+ 23 25  0  0  0  0  0  0  0  0999 V2000
+    6.5033   15.1989   29.7024 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.9196   14.1258   30.0617 S   0  0  0  0  0  0  0  0  0  0  0  0
+    7.1712   12.5178   29.8626 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3361   11.5678   30.8733 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8020   10.2860   30.7334 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1151    9.9380   29.5713 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.9537   10.8667   28.5366 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.2446   10.4629   27.2671 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.1422    9.9020   26.2867 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.0166   10.6294   25.5211 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8105   11.9668   25.2570 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.6752   12.6564   24.4232 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.7669   12.0359   23.8331 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.6118   12.7449   22.9882 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0586   12.7519   23.2615 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.6557   14.1733   23.3423 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.3820   14.9230   22.1426 N   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1721   14.7539   21.5094 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.9478   15.2741   20.4221 O   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1103   13.9680   22.2970 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.8882   10.6759   24.1402 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0489    9.9735   24.9635 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4811   12.1604   28.6995 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  2  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+ 10 11  2  0
+ 11 12  1  0
+ 12 13  2  0
+ 13 14  1  0
+ 14 15  1  0
+ 15 16  1  0
+ 16 17  1  0
+ 17 18  1  0
+ 18 19  2  0
+ 18 20  1  0
+ 13 21  1  0
+ 21 22  2  0
+  7 23  2  0
+ 23  3  1  0
+ 22 10  1  0
+ 20 14  1  0
+M  END
+>  <inchi>  (33) 
+AKBIFIUVGFTRED-UHFFFAOYSA-N
+
+>  <compound_set>  (33) 
+knitwork_june_2024
+
+>  <ddG>  (33) 
+-15.088749713314883
+
+>  <rmsd>  (33) 
+1.5976119597982203
+
+$$$$
+LIG
+     RDKit          3D
+
+ 22 24  0  0  0  0  0  0  0  0999 V2000
+    8.7133   14.3149   25.2650 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.0256   13.1117   25.6040 N   0  0  0  0  0  0  0  0  0  0  0  0
+    7.2172   13.1685   26.6435 N   0  0  0  0  0  0  0  0  0  0  0  0
+    6.7558   11.9308   26.7971 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.8066   11.7596   27.9550 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4496   12.1984   29.2969 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.4385   11.1118   30.3529 C   0  0  0  0  0  0  0  0  0  0  0  0
+    6.8071    9.8816   29.7457 O   0  0  0  0  0  0  0  0  0  0  0  0
+    5.7627    9.3786   28.9169 C   0  0  0  0  0  0  0  0  0  0  0  0
+    5.0912   10.4213   28.0386 C   0  0  0  0  0  0  0  0  0  0  0  0
+    7.3061   11.0793   25.7992 C   0  0  0  0  0  0  0  0  0  0  0  0
+    8.2029   11.8751   25.0919 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.1376   11.6084   24.0420 C   0  0  0  0  0  0  0  0  0  0  0  0
+    9.0927   10.6484   23.2940 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.0839   12.6109   23.9773 O   0  0  0  0  0  0  0  0  0  0  0  0
+   10.5312   12.8367   22.6506 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8262   13.6426   22.4947 C   0  0  2  0  0  0  0  0  0  0  0  0
+   12.0314   14.8355   23.4076 C   0  0  0  0  0  0  0  0  0  0  0  0
+   11.4711   15.9249   22.6772 N   0  0  0  0  0  0  0  0  0  0  0  0
+   11.0227   15.5071   21.4435 C   0  0  0  0  0  0  0  0  0  0  0  0
+   10.1277   15.9806   20.7766 O   0  0  0  0  0  0  0  0  0  0  0  0
+   11.8241   14.3058   21.1139 C   0  0  0  0  0  0  0  0  0  0  0  0
+  1  2  1  0
+  2  3  1  0
+  3  4  2  0
+  4  5  1  0
+  5  6  1  0
+  6  7  1  0
+  7  8  1  0
+  8  9  1  0
+  9 10  1  0
+  4 11  1  0
+ 11 12  2  0
+ 12 13  1  0
+ 13 14  2  0
+ 13 15  1  0
+ 15 16  1  0
+ 17 16  1  1
+ 17 18  1  0
+ 18 19  1  0
+ 19 20  1  0
+ 20 21  2  0
+ 20 22  1  0
+ 12  2  1  0
+ 22 17  1  0
+ 10  5  1  0
+M  END
+>  <inchi>  (34) 
+VGTICCPOHXQQKL-UHFFFAOYSA-N
+
+>  <compound_set>  (34) 
+knitwork_june_2024
+
+>  <ddG>  (34) 
+-13.034048661224915
+
+>  <rmsd>  (34) 
+1.718292447129349
+
+$$$$
+LIG
+     RDKit          3D
+
  20 22  0  0  0  0  0  0  0  0999 V2000
     1.7446    4.6204   27.6841 N   0  0  0  0  0  0  0  0  0  0  0  0
     1.4151    5.8754   28.3398 C   0  0  0  0  0  0  0  0  0  0  0  0
@@ -1962,16 +2158,16 @@ LIG
  18 10  1  0
  18 13  1  0
 M  END
->  <inchi>  (32) 
+>  <inchi>  (35) 
 XTQDUNSPBPDCKJ-UHFFFAOYSA-N
 
->  <compound_set>  (32) 
+>  <compound_set>  (35) 
 knitwork_june_2024
 
->  <ddG>  (32) 
+>  <ddG>  (35) 
 -17.202920728152435
 
->  <rmsd>  (32) 
+>  <rmsd>  (35) 
 0.6272716682644492
 
 $$$$
@@ -2026,16 +2222,16 @@ LIG
  21 23  2  0
  23  6  1  0
 M  END
->  <inchi>  (33) 
+>  <inchi>  (36) 
 ILHKCRSAMLMADP-UHFFFAOYSA-N
 
->  <compound_set>  (33) 
+>  <compound_set>  (36) 
 knitwork_june_2024
 
->  <ddG>  (33) 
+>  <ddG>  (36) 
 36.11438255179331
 
->  <rmsd>  (33) 
+>  <rmsd>  (36) 
 1.5076714488797274
 
 $$$$
@@ -2081,16 +2277,16 @@ LIG
  10  5  1  0
  17 12  1  0
 M  END
->  <inchi>  (34) 
+>  <inchi>  (37) 
 NKHJVGNWKQVXFO-UHFFFAOYSA-N
 
->  <compound_set>  (34) 
+>  <compound_set>  (37) 
 knitwork_june_2024
 
->  <ddG>  (34) 
+>  <ddG>  (37) 
 127.88914555363154
 
->  <rmsd>  (34) 
+>  <rmsd>  (37) 
 1.0639813974155954
 
 $$$$
@@ -2137,16 +2333,16 @@ LIG
  16  6  1  0
  14  9  1  0
 M  END
->  <inchi>  (35) 
+>  <inchi>  (38) 
 XCTXQFYSMNRKHU-UHFFFAOYSA-N
 
->  <compound_set>  (35) 
+>  <compound_set>  (38) 
 knitwork_june_2024
 
->  <ddG>  (35) 
+>  <ddG>  (38) 
 2.85127631615552
 
->  <rmsd>  (35) 
+>  <rmsd>  (38) 
 1.8982954358606792
 
 $$$$
@@ -2200,16 +2396,16 @@ LIG
  22  3  1  0
  21  9  1  0
 M  END
->  <inchi>  (36) 
+>  <inchi>  (39) 
 MEWGRUZWHVKYDS-UHFFFAOYSA-N
 
->  <compound_set>  (36) 
+>  <compound_set>  (39) 
 knitwork_june_2024
 
->  <ddG>  (36) 
+>  <ddG>  (39) 
 -14.264857220854879
 
->  <rmsd>  (36) 
+>  <rmsd>  (39) 
 1.3698810187440738
 
 $$$$
@@ -2252,16 +2448,16 @@ LIG
  15 17  1  0
  17  6  2  0
 M  END
->  <inchi>  (37) 
+>  <inchi>  (40) 
 AJVIKZPIPBHAKY-UHFFFAOYSA-N
 
->  <compound_set>  (37) 
+>  <compound_set>  (40) 
 knitwork_june_2024
 
->  <ddG>  (37) 
+>  <ddG>  (40) 
 -25.098183867171883
 
->  <rmsd>  (37) 
+>  <rmsd>  (40) 
 0.6116909695313241
 
 $$$$
@@ -2317,16 +2513,16 @@ LIG
  23  8  1  0
  21 15  1  0
 M  END
->  <inchi>  (38) 
+>  <inchi>  (41) 
 FLWASAJBVPBCFC-UHFFFAOYSA-N
 
->  <compound_set>  (38) 
+>  <compound_set>  (41) 
 knitwork_june_2024
 
->  <ddG>  (38) 
+>  <ddG>  (41) 
 13.767057947353237
 
->  <rmsd>  (38) 
+>  <rmsd>  (41) 
 1.7162474131965637
 
 $$$$
@@ -2380,16 +2576,16 @@ LIG
  22  7  1  0
  20 14  1  0
 M  END
->  <inchi>  (39) 
+>  <inchi>  (42) 
 ADKGLDCQLGUTAN-UHFFFAOYSA-N
 
->  <compound_set>  (39) 
+>  <compound_set>  (42) 
 knitwork_june_2024
 
->  <ddG>  (39) 
+>  <ddG>  (42) 
 -164.2048735230237
 
->  <rmsd>  (39) 
+>  <rmsd>  (42) 
 1.7402779431882034
 
 $$$$
@@ -2436,16 +2632,16 @@ LIG
  15 10  1  0
  16 10  1  0
 M  END
->  <inchi>  (40) 
+>  <inchi>  (43) 
 IXJHDOWQFHNIPX-UHFFFAOYSA-N
 
->  <compound_set>  (40) 
+>  <compound_set>  (43) 
 knitwork_june_2024
 
->  <ddG>  (40) 
+>  <ddG>  (43) 
 1.0731422713947723
 
->  <rmsd>  (40) 
+>  <rmsd>  (43) 
 1.9977036528474723
 
 $$$$
@@ -2494,16 +2690,16 @@ LIG
  19 12  1  0
  18 14  2  0
 M  END
->  <inchi>  (41) 
+>  <inchi>  (44) 
 VKQJXGLAYUFNNG-UHFFFAOYSA-N
 
->  <compound_set>  (41) 
+>  <compound_set>  (44) 
 knitwork_june_2024
 
->  <ddG>  (41) 
+>  <ddG>  (44) 
 -8.325431380061843
 
->  <rmsd>  (41) 
+>  <rmsd>  (44) 
 1.8283300167802161
 
 $$$$
@@ -2553,16 +2749,16 @@ LIG
  20  2  1  0
  12  7  1  0
 M  END
->  <inchi>  (42) 
+>  <inchi>  (45) 
 QCDPODCBNROZRQ-UHFFFAOYSA-N
 
->  <compound_set>  (42) 
+>  <compound_set>  (45) 
 knitwork_june_2024
 
->  <ddG>  (42) 
+>  <ddG>  (45) 
 -20.999047811077162
 
->  <rmsd>  (42) 
+>  <rmsd>  (45) 
 1.1410536357519072
 
 $$$$
@@ -2610,16 +2806,16 @@ LIG
  19  5  1  0
  16 11  1  0
 M  END
->  <inchi>  (43) 
+>  <inchi>  (46) 
 YUOBBXFWNXVYIH-UHFFFAOYSA-N
 
->  <compound_set>  (43) 
+>  <compound_set>  (46) 
 knitwork_june_2024
 
->  <ddG>  (43) 
+>  <ddG>  (46) 
 -48.11414324766932
 
->  <rmsd>  (43) 
+>  <rmsd>  (46) 
 1.5835945977329244
 
 $$$$
@@ -2673,16 +2869,16 @@ LIG
  22  6  1  0
  20 12  1  0
 M  END
->  <inchi>  (44) 
+>  <inchi>  (47) 
 WYGQDRQQQRDYQK-UHFFFAOYSA-N
 
->  <compound_set>  (44) 
+>  <compound_set>  (47) 
 knitwork_june_2024
 
->  <ddG>  (44) 
+>  <ddG>  (47) 
 -6.602498715704428
 
->  <rmsd>  (44) 
+>  <rmsd>  (47) 
 1.12183348003152
 
 $$$$
@@ -2730,16 +2926,16 @@ LIG
  19  5  1  0
  16 11  1  0
 M  END
->  <inchi>  (45) 
+>  <inchi>  (48) 
 JOZAESUJELHHNF-UHFFFAOYSA-N
 
->  <compound_set>  (45) 
+>  <compound_set>  (48) 
 knitwork_june_2024
 
->  <ddG>  (45) 
+>  <ddG>  (48) 
 -27.492830158882384
 
->  <rmsd>  (45) 
+>  <rmsd>  (48) 
 1.3094885892720072
 
 $$$$
@@ -2794,16 +2990,16 @@ LIG
  17 12  1  0
  20 18  1  0
 M  END
->  <inchi>  (46) 
+>  <inchi>  (49) 
 HEZJZHLSMMYDJW-UHFFFAOYSA-N
 
->  <compound_set>  (46) 
+>  <compound_set>  (49) 
 knitwork_june_2024
 
->  <ddG>  (46) 
+>  <ddG>  (49) 
 9.938360861357978
 
->  <rmsd>  (46) 
+>  <rmsd>  (49) 
 1.1320148767637452
 
 $$$$
@@ -2862,16 +3058,16 @@ LIG
  21  9  1  0
  19 13  1  0
 M  END
->  <inchi>  (47) 
+>  <inchi>  (50) 
 XPPBWHFHQYXQOT-UHFFFAOYSA-N
 
->  <compound_set>  (47) 
+>  <compound_set>  (50) 
 knitwork_june_2024
 
->  <ddG>  (47) 
+>  <ddG>  (50) 
 44.103493582436386
 
->  <rmsd>  (47) 
+>  <rmsd>  (50) 
 1.0603781402718762
 
 $$$$
@@ -2930,16 +3126,16 @@ LIG
  24  7  1  0
  22 13  1  0
 M  END
->  <inchi>  (48) 
+>  <inchi>  (51) 
 AZMOINLCXHZGHV-UHFFFAOYSA-N
 
->  <compound_set>  (48) 
+>  <compound_set>  (51) 
 knitwork_june_2024
 
->  <ddG>  (48) 
+>  <ddG>  (51) 
 21.12120124954629
 
->  <rmsd>  (48) 
+>  <rmsd>  (51) 
 1.0192096953620848
 
 $$$$
@@ -2992,16 +3188,16 @@ LIG
  21  7  1  0
  19 13  1  0
 M  END
->  <inchi>  (49) 
+>  <inchi>  (52) 
 LOFPJTBPHYUPTQ-UHFFFAOYSA-N
 
->  <compound_set>  (49) 
+>  <compound_set>  (52) 
 knitwork_june_2024
 
->  <ddG>  (49) 
+>  <ddG>  (52) 
 7.344725475547193
 
->  <rmsd>  (49) 
+>  <rmsd>  (52) 
 1.5250812647233312
 
 $$$$
@@ -3040,16 +3236,16 @@ LIG
  11 15  2  0
  15  2  1  0
 M  END
->  <inchi>  (50) 
+>  <inchi>  (53) 
 YUEAFRHXWPAMFJ-UHFFFAOYSA-N
 
->  <compound_set>  (50) 
+>  <compound_set>  (53) 
 exact_hits_aug_2024
 
->  <ddG>  (50) 
+>  <ddG>  (53) 
 -29.1939668721011
 
->  <rmsd>  (50) 
+>  <rmsd>  (53) 
 0.3970030891554794
 
 $$$$
@@ -3118,16 +3314,16 @@ LIG
  29 20  1  0
  28 23  1  0
 M  END
->  <inchi>  (51) 
+>  <inchi>  (54) 
 BKBFLODZEQEWBQ-FQEVSTJZSA-N
 
->  <compound_set>  (51) 
+>  <compound_set>  (54) 
 exact_hits_aug_2024
 
->  <ddG>  (51) 
+>  <ddG>  (54) 
 -41.161612408840256
 
->  <rmsd>  (51) 
+>  <rmsd>  (54) 
 0.1966259227092794
 
 $$$$
@@ -3172,16 +3368,16 @@ LIG
  16 18  1  0
  18  3  2  0
 M  END
->  <inchi>  (52) 
+>  <inchi>  (55) 
 NZVJBVJDSSUPIL-ZCFIWIBFSA-N
 
->  <compound_set>  (52) 
+>  <compound_set>  (55) 
 exact_hits_aug_2024
 
->  <ddG>  (52) 
+>  <ddG>  (55) 
 -25.019429292262657
 
->  <rmsd>  (52) 
+>  <rmsd>  (55) 
 0.2376142166322131
 
 $$$$
@@ -3254,16 +3450,16 @@ LIG
  28 19  1  0
  27 22  1  0
 M  END
->  <inchi>  (53) 
+>  <inchi>  (56) 
 SIFNOWIDTARFBR-IBGZPJMESA-N
 
->  <compound_set>  (53) 
+>  <compound_set>  (56) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (53) 
+>  <ddG>  (56) 
 -33.002951984122944
 
->  <rmsd>  (53) 
+>  <rmsd>  (56) 
 0.45623624790773776
 
 $$$$
@@ -3338,16 +3534,16 @@ LIG
  27 18  1  0
  26 21  1  0
 M  END
->  <inchi>  (54) 
+>  <inchi>  (57) 
 SXYLVBRZJXQQRT-FQEVSTJZSA-N
 
->  <compound_set>  (54) 
+>  <compound_set>  (57) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (54) 
+>  <ddG>  (57) 
 -49.589410620766216
 
->  <rmsd>  (54) 
+>  <rmsd>  (57) 
 0.19213931518429822
 
 $$$$
@@ -3411,16 +3607,16 @@ LIG
  27  5  1  0
  24 19  1  0
 M  END
->  <inchi>  (55) 
+>  <inchi>  (58) 
 DTXWADQFBJPDFQ-AWEZNQCLSA-N
 
->  <compound_set>  (55) 
+>  <compound_set>  (58) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (55) 
+>  <ddG>  (58) 
 -25.479221205156023
 
->  <rmsd>  (55) 
+>  <rmsd>  (58) 
 0.4745841661058358
 
 $$$$
@@ -3486,16 +3682,16 @@ LIG
  27  5  1  0
  23 18  1  0
 M  END
->  <inchi>  (56) 
+>  <inchi>  (59) 
 UTFHQGDFQLQWDL-HNNXBMFYSA-N
 
->  <compound_set>  (56) 
+>  <compound_set>  (59) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (56) 
+>  <ddG>  (59) 
 -54.01177316632095
 
->  <rmsd>  (56) 
+>  <rmsd>  (59) 
 0.2579755454596059
 
 $$$$
@@ -3568,16 +3764,16 @@ LIG
  28 19  1  0
  27 22  1  0
 M  END
->  <inchi>  (57) 
+>  <inchi>  (60) 
 PYVBZLQQVPICOH-IBGZPJMESA-N
 
->  <compound_set>  (57) 
+>  <compound_set>  (60) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (57) 
+>  <ddG>  (60) 
 -22.528948562239748
 
->  <rmsd>  (57) 
+>  <rmsd>  (60) 
 0.40837460294465644
 
 $$$$
@@ -3652,16 +3848,16 @@ LIG
  27 18  1  0
  26 21  1  0
 M  END
->  <inchi>  (58) 
+>  <inchi>  (61) 
 BEZTZAGGDXJGFO-FQEVSTJZSA-N
 
->  <compound_set>  (58) 
+>  <compound_set>  (61) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (58) 
+>  <ddG>  (61) 
 -29.46301335141493
 
->  <rmsd>  (58) 
+>  <rmsd>  (61) 
 0.3352381539203537
 
 $$$$
@@ -3730,16 +3926,16 @@ LIG
  29 20  1  0
  28 23  1  0
 M  END
->  <inchi>  (59) 
+>  <inchi>  (62) 
 DQWUNIXDDNPLQU-FQEVSTJZSA-N
 
->  <compound_set>  (59) 
+>  <compound_set>  (62) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (59) 
+>  <ddG>  (62) 
 -48.414337859131024
 
->  <rmsd>  (59) 
+>  <rmsd>  (62) 
 0.21828385558643343
 
 $$$$
@@ -3803,16 +3999,16 @@ LIG
  27  5  1  0
  24 19  1  0
 M  END
->  <inchi>  (60) 
+>  <inchi>  (63) 
 PIQJRRJAGPEAMR-AWEZNQCLSA-N
 
->  <compound_set>  (60) 
+>  <compound_set>  (63) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (60) 
+>  <ddG>  (63) 
 -39.56360478180437
 
->  <rmsd>  (60) 
+>  <rmsd>  (63) 
 0.4885823935578288
 
 $$$$
@@ -3878,16 +4074,16 @@ LIG
  27  5  1  0
  23 18  1  0
 M  END
->  <inchi>  (61) 
+>  <inchi>  (64) 
 XIORHBOCOFRYFD-HNNXBMFYSA-N
 
->  <compound_set>  (61) 
+>  <compound_set>  (64) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (61) 
+>  <ddG>  (64) 
 -53.52265776026354
 
->  <rmsd>  (61) 
+>  <rmsd>  (64) 
 0.3051564088025495
 
 $$$$
@@ -3960,16 +4156,16 @@ LIG
  30 21  1  0
  29 24  1  0
 M  END
->  <inchi>  (62) 
+>  <inchi>  (65) 
 OQOLMCJQPJBXLR-NRFANRHFSA-N
 
->  <compound_set>  (62) 
+>  <compound_set>  (65) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (62) 
+>  <ddG>  (65) 
 -41.523786114147185
 
->  <rmsd>  (62) 
+>  <rmsd>  (65) 
 0.8873234561827007
 
 $$$$
@@ -4033,16 +4229,16 @@ LIG
  27  5  1  0
  26 21  1  0
 M  END
->  <inchi>  (63) 
+>  <inchi>  (66) 
 DFKGVRAMBBIYRO-INIZCTEOSA-N
 
->  <compound_set>  (63) 
+>  <compound_set>  (66) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (63) 
+>  <ddG>  (66) 
 -34.84314125778525
 
->  <rmsd>  (63) 
+>  <rmsd>  (66) 
 0.8833669611307347
 
 $$$$
@@ -4115,16 +4311,16 @@ LIG
  30 21  1  0
  29 24  1  0
 M  END
->  <inchi>  (64) 
+>  <inchi>  (67) 
 SRKRLPVCPSZUQN-NRFANRHFSA-N
 
->  <compound_set>  (64) 
+>  <compound_set>  (67) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (64) 
+>  <ddG>  (67) 
 -47.8520810730505
 
->  <rmsd>  (64) 
+>  <rmsd>  (67) 
 0.8876436157918278
 
 $$$$
@@ -4188,16 +4384,16 @@ LIG
  27  5  1  0
  26 21  1  0
 M  END
->  <inchi>  (65) 
+>  <inchi>  (68) 
 VNCZFLFCYKVYPW-INIZCTEOSA-N
 
->  <compound_set>  (65) 
+>  <compound_set>  (68) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (65) 
+>  <ddG>  (68) 
 -39.75945591215924
 
->  <rmsd>  (65) 
+>  <rmsd>  (68) 
 0.9953861881599435
 
 $$$$
@@ -4278,16 +4474,16 @@ LIG
  28 19  1  0
  27 22  1  0
 M  END
->  <inchi>  (66) 
+>  <inchi>  (69) 
 UQJYZDUPODIDKG-FQEVSTJZSA-N
 
->  <compound_set>  (66) 
+>  <compound_set>  (69) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (66) 
+>  <ddG>  (69) 
 -49.365566708126266
 
->  <rmsd>  (66) 
+>  <rmsd>  (69) 
 0.4060793672758725
 
 $$$$
@@ -4368,16 +4564,16 @@ LIG
  35 26  1  0
  34 29  1  0
 M  END
->  <inchi>  (67) 
+>  <inchi>  (70) 
 NABKQIYAVLWRCF-FQEVSTJZSA-N
 
->  <compound_set>  (67) 
+>  <compound_set>  (70) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (67) 
+>  <ddG>  (70) 
 -59.752551219962186
 
->  <rmsd>  (67) 
+>  <rmsd>  (70) 
 0.3051344430190364
 
 $$$$
@@ -4449,16 +4645,16 @@ LIG
  31  5  1  0
  24 19  1  0
 M  END
->  <inchi>  (68) 
+>  <inchi>  (71) 
 RYBPMOJTEQMKKH-HNNXBMFYSA-N
 
->  <compound_set>  (68) 
+>  <compound_set>  (71) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (68) 
+>  <ddG>  (71) 
 -39.2528552393137
 
->  <rmsd>  (68) 
+>  <rmsd>  (71) 
 0.5092713945157268
 
 $$$$
@@ -4530,16 +4726,16 @@ LIG
  14  5  1  0
  31 26  1  0
 M  END
->  <inchi>  (69) 
+>  <inchi>  (72) 
 SGXOWRBLHZCNRN-HNNXBMFYSA-N
 
->  <compound_set>  (69) 
+>  <compound_set>  (72) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (69) 
+>  <ddG>  (72) 
 -55.91170463885919
 
->  <rmsd>  (69) 
+>  <rmsd>  (72) 
 0.2900812094417527
 
 $$$$
@@ -4620,16 +4816,16 @@ LIG
  28 19  1  0
  27 22  1  0
 M  END
->  <inchi>  (70) 
+>  <inchi>  (73) 
 KPERIRNORGNZOK-FQEVSTJZSA-N
 
->  <compound_set>  (70) 
+>  <compound_set>  (73) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (70) 
+>  <ddG>  (73) 
 -44.27561271186704
 
->  <rmsd>  (70) 
+>  <rmsd>  (73) 
 0.8825386524424474
 
 $$$$
@@ -4710,16 +4906,16 @@ LIG
  28 19  1  0
  27 22  1  0
 M  END
->  <inchi>  (71) 
+>  <inchi>  (74) 
 JVZXHYPLNFZOGG-UHFFFAOYSA-N
 
->  <compound_set>  (71) 
+>  <compound_set>  (74) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (71) 
+>  <ddG>  (74) 
 5.054083999566444
 
->  <rmsd>  (71) 
+>  <rmsd>  (74) 
 1.333230431610751
 
 $$$$
@@ -4800,16 +4996,16 @@ LIG
  35 26  1  0
  34 29  1  0
 M  END
->  <inchi>  (72) 
+>  <inchi>  (75) 
 TUCPZQSNPSFHQP-UHFFFAOYSA-N
 
->  <compound_set>  (72) 
+>  <compound_set>  (75) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (72) 
+>  <ddG>  (75) 
 7.2100819997366585
 
->  <rmsd>  (72) 
+>  <rmsd>  (75) 
 2.414141615031507
 
 $$$$
@@ -4881,16 +5077,16 @@ LIG
  31  5  1  0
  24 19  1  0
 M  END
->  <inchi>  (73) 
+>  <inchi>  (76) 
 RHANAJVRLKPORR-UHFFFAOYSA-N
 
->  <compound_set>  (73) 
+>  <compound_set>  (76) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (73) 
+>  <ddG>  (76) 
 -27.873311486917316
 
->  <rmsd>  (73) 
+>  <rmsd>  (76) 
 0.9987647596755638
 
 $$$$
@@ -4962,16 +5158,16 @@ LIG
  14  5  1  0
  31 26  1  0
 M  END
->  <inchi>  (74) 
+>  <inchi>  (77) 
 YUFCPORBLIBJSD-UHFFFAOYSA-N
 
->  <compound_set>  (74) 
+>  <compound_set>  (77) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (74) 
+>  <ddG>  (77) 
 -33.16367014538025
 
->  <rmsd>  (74) 
+>  <rmsd>  (77) 
 0.9237293473886471
 
 $$$$
@@ -5052,16 +5248,16 @@ LIG
  28 19  1  0
  27 22  1  0
 M  END
->  <inchi>  (75) 
+>  <inchi>  (78) 
 SEDVFDWHZUODGN-UHFFFAOYSA-N
 
->  <compound_set>  (75) 
+>  <compound_set>  (78) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (75) 
+>  <ddG>  (78) 
 -7.05567135927231
 
->  <rmsd>  (75) 
+>  <rmsd>  (78) 
 1.6234012250191463
 
 $$$$
@@ -5142,16 +5338,16 @@ LIG
  35 26  1  0
  34 29  1  0
 M  END
->  <inchi>  (76) 
+>  <inchi>  (79) 
 LYOAGXGPRBSKRC-FQEVSTJZSA-N
 
->  <compound_set>  (76) 
+>  <compound_set>  (79) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (76) 
+>  <ddG>  (79) 
 -49.259660178351396
 
->  <rmsd>  (76) 
+>  <rmsd>  (79) 
 0.34837342590642667
 
 $$$$
@@ -5232,16 +5428,16 @@ LIG
  35 26  1  0
  34 29  1  0
 M  END
->  <inchi>  (77) 
+>  <inchi>  (80) 
 MGJPRFDIQKWXDQ-UHFFFAOYSA-N
 
->  <compound_set>  (77) 
+>  <compound_set>  (80) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (77) 
+>  <ddG>  (80) 
 -31.0795804582429
 
->  <rmsd>  (77) 
+>  <rmsd>  (80) 
 0.9322398683355578
 
 $$$$
@@ -5310,16 +5506,16 @@ LIG
  29 20  1  0
  28 23  1  0
 M  END
->  <inchi>  (78) 
+>  <inchi>  (81) 
 SHLNSOIRGLGPSR-UHFFFAOYSA-N
 
->  <compound_set>  (78) 
+>  <compound_set>  (81) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (78) 
+>  <ddG>  (81) 
 -15.434418850717293
 
->  <rmsd>  (78) 
+>  <rmsd>  (81) 
 0.9821762488607612
 
 $$$$
@@ -5391,16 +5587,16 @@ LIG
  31  5  1  0
  24 19  1  0
 M  END
->  <inchi>  (79) 
+>  <inchi>  (82) 
 LBUZQUWVYQOXCD-HNNXBMFYSA-N
 
->  <compound_set>  (79) 
+>  <compound_set>  (82) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (79) 
+>  <ddG>  (82) 
 -49.3072072995007
 
->  <rmsd>  (79) 
+>  <rmsd>  (82) 
 0.8462885095567447
 
 $$$$
@@ -5472,16 +5668,16 @@ LIG
  31  5  1  0
  24 19  1  0
 M  END
->  <inchi>  (80) 
+>  <inchi>  (83) 
 MXPRYVLVNLFFPZ-UHFFFAOYSA-N
 
->  <compound_set>  (80) 
+>  <compound_set>  (83) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (80) 
+>  <ddG>  (83) 
 -38.35525326395896
 
->  <rmsd>  (80) 
+>  <rmsd>  (83) 
 1.0006137250643252
 
 $$$$
@@ -5553,16 +5749,16 @@ LIG
  14  5  1  0
  31 26  1  0
 M  END
->  <inchi>  (81) 
+>  <inchi>  (84) 
 XPYBVOSNGYRXIJ-HNNXBMFYSA-N
 
->  <compound_set>  (81) 
+>  <compound_set>  (84) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (81) 
+>  <ddG>  (84) 
 -73.20342579619677
 
->  <rmsd>  (81) 
+>  <rmsd>  (84) 
 0.4990932284619428
 
 $$$$
@@ -5634,16 +5830,16 @@ LIG
  14  5  1  0
  31 26  1  0
 M  END
->  <inchi>  (82) 
+>  <inchi>  (85) 
 OGEFHXQNNGIDQK-UHFFFAOYSA-N
 
->  <compound_set>  (82) 
+>  <compound_set>  (85) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (82) 
+>  <ddG>  (85) 
 -32.04706503081343
 
->  <rmsd>  (82) 
+>  <rmsd>  (85) 
 1.019131842194815
 
 $$$$
@@ -5724,16 +5920,16 @@ LIG
  34 25  1  0
  33 28  1  0
 M  END
->  <inchi>  (83) 
+>  <inchi>  (86) 
 VCDNITPVWFDANN-QFIPXVFZSA-N
 
->  <compound_set>  (83) 
+>  <compound_set>  (86) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (83) 
+>  <ddG>  (86) 
 -35.69152841078812
 
->  <rmsd>  (83) 
+>  <rmsd>  (86) 
 0.8573621999173715
 
 $$$$
@@ -5814,16 +6010,16 @@ LIG
  34 25  1  0
  33 28  1  0
 M  END
->  <inchi>  (84) 
+>  <inchi>  (87) 
 UXADFTGYSAHHGI-UHFFFAOYSA-N
 
->  <compound_set>  (84) 
+>  <compound_set>  (87) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (84) 
+>  <ddG>  (87) 
 63.45519253717055
 
->  <rmsd>  (84) 
+>  <rmsd>  (87) 
 1.6665290155111345
 
 $$$$
@@ -5895,16 +6091,16 @@ LIG
  31  5  1  0
  30 25  1  0
 M  END
->  <inchi>  (85) 
+>  <inchi>  (88) 
 CMGPOYUFCPYGSH-KRWDZBQOSA-N
 
->  <compound_set>  (85) 
+>  <compound_set>  (88) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (85) 
+>  <ddG>  (88) 
 -29.66225737584537
 
->  <rmsd>  (85) 
+>  <rmsd>  (88) 
 0.5265893144429165
 
 $$$$
@@ -5976,16 +6172,16 @@ LIG
  31  5  1  0
  30 25  1  0
 M  END
->  <inchi>  (86) 
+>  <inchi>  (89) 
 RSVKCRFNQMHJGM-UHFFFAOYSA-N
 
->  <compound_set>  (86) 
+>  <compound_set>  (89) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (86) 
+>  <ddG>  (89) 
 -24.534415915702198
 
->  <rmsd>  (86) 
+>  <rmsd>  (89) 
 1.1146529014645488
 
 $$$$
@@ -6066,16 +6262,16 @@ LIG
  34 25  1  0
  33 28  1  0
 M  END
->  <inchi>  (87) 
+>  <inchi>  (90) 
 HEFIARXTVOECPK-QFIPXVFZSA-N
 
->  <compound_set>  (87) 
+>  <compound_set>  (90) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (87) 
+>  <ddG>  (90) 
 -34.22367330006813
 
->  <rmsd>  (87) 
+>  <rmsd>  (90) 
 1.0640667667390535
 
 $$$$
@@ -6156,16 +6352,16 @@ LIG
  34 25  1  0
  33 28  1  0
 M  END
->  <inchi>  (88) 
+>  <inchi>  (91) 
 JOAABFJXAAZIHP-UHFFFAOYSA-N
 
->  <compound_set>  (88) 
+>  <compound_set>  (91) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (88) 
+>  <ddG>  (91) 
 113.37306457134241
 
->  <rmsd>  (88) 
+>  <rmsd>  (91) 
 0.5212854451112815
 
 $$$$
@@ -6237,16 +6433,16 @@ LIG
  31  5  1  0
  30 25  1  0
 M  END
->  <inchi>  (89) 
+>  <inchi>  (92) 
 CBLWINMXWBVKNE-KRWDZBQOSA-N
 
->  <compound_set>  (89) 
+>  <compound_set>  (92) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (89) 
+>  <ddG>  (92) 
 -48.119424265607506
 
->  <rmsd>  (89) 
+>  <rmsd>  (92) 
 0.7565191904607618
 
 $$$$
@@ -6318,16 +6514,16 @@ LIG
  31  5  1  0
  30 25  1  0
 M  END
->  <inchi>  (90) 
+>  <inchi>  (93) 
 MKLPNWCIHVCMSV-UHFFFAOYSA-N
 
->  <compound_set>  (90) 
+>  <compound_set>  (93) 
 x1346_manual_analogues_aug_2024
 
->  <ddG>  (90) 
+>  <ddG>  (93) 
 -44.14958324780997
 
->  <rmsd>  (90) 
+>  <rmsd>  (93) 
 1.2316630759811538
 
 $$$$
@@ -6364,16 +6560,16 @@ LIG
  10 14  1  0
  14  6  1  0
 M  END
->  <inchi>  (91) 
+>  <inchi>  (94) 
 VINVRWFILPAKSR-ZETCQYMHSA-N
 
->  <compound_set>  (91) 
+>  <compound_set>  (94) 
 exact_hits_aug_2024
 
->  <ddG>  (91) 
+>  <ddG>  (94) 
 -32.63863416520985
 
->  <rmsd>  (91) 
+>  <rmsd>  (94) 
 0.2677520820307632
 
 $$$$
@@ -6408,16 +6604,16 @@ LIG
  12 13  2  0
  13  4  1  0
 M  END
->  <inchi>  (92) 
+>  <inchi>  (95) 
 XZJXCESWBMDSBO-UHFFFAOYSA-N
 
->  <compound_set>  (92) 
+>  <compound_set>  (95) 
 covalent_analogues_aug_2024
 
->  <ddG>  (92) 
+>  <ddG>  (95) 
 -14.951008018032326
 
->  <rmsd>  (92) 
+>  <rmsd>  (95) 
 0.36458187617929677
 
 $$$$
@@ -6454,16 +6650,16 @@ LIG
  13 14  2  0
  14  5  1  0
 M  END
->  <inchi>  (93) 
+>  <inchi>  (96) 
 JGCDYYAXNUYBHB-UHFFFAOYSA-N
 
->  <compound_set>  (93) 
+>  <compound_set>  (96) 
 covalent_analogues_aug_2024
 
->  <ddG>  (93) 
+>  <ddG>  (96) 
 -10.81217325118422
 
->  <rmsd>  (93) 
+>  <rmsd>  (96) 
 0.4679013883546959
 
 $$$$
@@ -6498,16 +6694,16 @@ LIG
  12 13  2  0
  13  4  1  0
 M  END
->  <inchi>  (94) 
+>  <inchi>  (97) 
 ZYLJLWLQPBRDLN-UHFFFAOYSA-N
 
->  <compound_set>  (94) 
+>  <compound_set>  (97) 
 covalent_analogues_aug_2024
 
->  <ddG>  (94) 
+>  <ddG>  (97) 
 -10.519338255841603
 
->  <rmsd>  (94) 
+>  <rmsd>  (97) 
 0.39756726130750536
 
 $$$$
@@ -6544,16 +6740,16 @@ LIG
  13 14  2  0
  14  5  1  0
 M  END
->  <inchi>  (95) 
+>  <inchi>  (98) 
 VMMDOCYDNRLESP-UHFFFAOYSA-N
 
->  <compound_set>  (95) 
+>  <compound_set>  (98) 
 covalent_analogues_aug_2024
 
->  <ddG>  (95) 
+>  <ddG>  (98) 
 -12.254906271332459
 
->  <rmsd>  (95) 
+>  <rmsd>  (98) 
 0.4967669634005389
 
 $$$$
@@ -6595,16 +6791,16 @@ LIG
  16  4  1  0
  16  7  1  0
 M  END
->  <inchi>  (96) 
+>  <inchi>  (99) 
 CBLHPICDDMRZIW-UHFFFAOYSA-N
 
->  <compound_set>  (96) 
+>  <compound_set>  (99) 
 covalent_analogues_aug_2024
 
->  <ddG>  (96) 
+>  <ddG>  (99) 
 -9.211307483402493
 
->  <rmsd>  (96) 
+>  <rmsd>  (99) 
 0.47616895556849675
 
 $$$$
@@ -6646,16 +6842,16 @@ LIG
  10  5  1  0
  13  8  1  0
 M  END
->  <inchi>  (97) 
+>  <inchi>  (100) 
 HSHULNOIEDSBFV-UHFFFAOYSA-N
 
->  <compound_set>  (97) 
+>  <compound_set>  (100) 
 covalent_analogues_aug_2024
 
->  <ddG>  (97) 
+>  <ddG>  (100) 
 -10.367470503530171
 
->  <rmsd>  (97) 
+>  <rmsd>  (100) 
 0.4431007542117767
 
 $$$$
@@ -6695,16 +6891,16 @@ LIG
  10  5  1  0
  15  8  1  0
 M  END
->  <inchi>  (98) 
+>  <inchi>  (101) 
 SGXMEUBMGXFRJY-UHFFFAOYSA-N
 
->  <compound_set>  (98) 
+>  <compound_set>  (101) 
 covalent_analogues_aug_2024
 
->  <ddG>  (98) 
+>  <ddG>  (101) 
 -7.938859144837011
 
->  <rmsd>  (98) 
+>  <rmsd>  (101) 
 0.4479959668882469
 
 $$$$
@@ -6744,16 +6940,16 @@ LIG
  15  2  1  0
  14  5  1  0
 M  END
->  <inchi>  (99) 
+>  <inchi>  (102) 
 MIAHXWVABDHISZ-UHFFFAOYSA-N
 
->  <compound_set>  (99) 
+>  <compound_set>  (102) 
 covalent_analogues_aug_2024
 
->  <ddG>  (99) 
+>  <ddG>  (102) 
 -14.99228685753053
 
->  <rmsd>  (99) 
+>  <rmsd>  (102) 
 0.47674779632224656
 
 $$$$
@@ -6786,16 +6982,16 @@ LIG
  11 12  2  0
  12  4  1  0
 M  END
->  <inchi>  (100) 
+>  <inchi>  (103) 
 YJFNFQHMQJCPRG-UHFFFAOYSA-N
 
->  <compound_set>  (100) 
+>  <compound_set>  (103) 
 covalent_analogues_aug_2024
 
->  <ddG>  (100) 
+>  <ddG>  (103) 
 -10.886582848443652
 
->  <rmsd>  (100) 
+>  <rmsd>  (103) 
 0.5074658308091953
 
 $$$$
@@ -6826,16 +7022,16 @@ LIG
  10 11  2  0
  11  4  1  0
 M  END
->  <inchi>  (101) 
+>  <inchi>  (104) 
 JRHHJNMASOIRDS-UHFFFAOYSA-N
 
->  <compound_set>  (101) 
+>  <compound_set>  (104) 
 covalent_analogues_aug_2024
 
->  <ddG>  (101) 
+>  <ddG>  (104) 
 -13.336342482123086
 
->  <rmsd>  (101) 
+>  <rmsd>  (104) 
 0.327720590844188
 
 $$$$
@@ -6870,16 +7066,16 @@ LIG
  12 13  2  0
  13  5  1  0
 M  END
->  <inchi>  (102) 
+>  <inchi>  (105) 
 WECHHDJTILFYQT-UHFFFAOYSA-N
 
->  <compound_set>  (102) 
+>  <compound_set>  (105) 
 covalent_analogues_aug_2024
 
->  <ddG>  (102) 
+>  <ddG>  (105) 
 -8.872387835430175
 
->  <rmsd>  (102) 
+>  <rmsd>  (105) 
 0.5954652767697736
 
 $$$$
@@ -6912,16 +7108,16 @@ LIG
  11 12  2  0
  12  5  1  0
 M  END
->  <inchi>  (103) 
+>  <inchi>  (106) 
 SKLUWKYNZNXSLX-UHFFFAOYSA-N
 
->  <compound_set>  (103) 
+>  <compound_set>  (106) 
 covalent_analogues_aug_2024
 
->  <ddG>  (103) 
+>  <ddG>  (106) 
 -7.099016810286798
 
->  <rmsd>  (103) 
+>  <rmsd>  (106) 
 0.4525928145789262
 
 $$$$
@@ -6961,16 +7157,16 @@ LIG
   9  4  1  0
  12  7  1  0
 M  END
->  <inchi>  (104) 
+>  <inchi>  (107) 
 DDTZNSOMVMYKHA-UHFFFAOYSA-N
 
->  <compound_set>  (104) 
+>  <compound_set>  (107) 
 covalent_analogues_aug_2024
 
->  <ddG>  (104) 
+>  <ddG>  (107) 
 -14.065965130350207
 
->  <rmsd>  (104) 
+>  <rmsd>  (107) 
 0.8136057423561024
 
 $$$$
@@ -7008,16 +7204,16 @@ LIG
  14  4  1  0
  14  7  1  0
 M  END
->  <inchi>  (105) 
+>  <inchi>  (108) 
 XFHXIXRTXWMWFG-UHFFFAOYSA-N
 
->  <compound_set>  (105) 
+>  <compound_set>  (108) 
 covalent_analogues_aug_2024
 
->  <ddG>  (105) 
+>  <ddG>  (108) 
 -17.45214151080563
 
->  <rmsd>  (105) 
+>  <rmsd>  (108) 
 0.5582511705921128
 
 $$$$
@@ -7055,16 +7251,16 @@ LIG
   9  4  1  0
  14  7  1  0
 M  END
->  <inchi>  (106) 
+>  <inchi>  (109) 
 BKJFWHFUERNXLJ-UHFFFAOYSA-N
 
->  <compound_set>  (106) 
+>  <compound_set>  (109) 
 covalent_analogues_aug_2024
 
->  <ddG>  (106) 
+>  <ddG>  (109) 
 -11.713565909955605
 
->  <rmsd>  (106) 
+>  <rmsd>  (109) 
 0.7951821822928065
 
 $$$$
@@ -7100,16 +7296,16 @@ LIG
   8  3  1  0
  13  6  1  0
 M  END
->  <inchi>  (107) 
+>  <inchi>  (110) 
 VHKABBARGFUYOF-UHFFFAOYSA-N
 
->  <compound_set>  (107) 
+>  <compound_set>  (110) 
 covalent_analogues_aug_2024
 
->  <ddG>  (107) 
+>  <ddG>  (110) 
 -10.869848213006492
 
->  <rmsd>  (107) 
+>  <rmsd>  (110) 
 0.36680778991228313
 
 $$$$

@@ -18,21 +18,27 @@
 16,COc1cccc(CNc2ccc(NC(C)=O)cn2)c1,knitwork_june_2024,BRGVKEGCIHEPPP-UHFFFAOYSA-N,place-fail
 17,CC(=O)Nc1ccc(NCc2ccc(C)cc2F)nc1,knitwork_june_2024,STENHMKKTIKNSL-UHFFFAOYSA-N,place-fail
 18,CC(=O)Nc1ccc(NCc2cccc(C(C)C)c2)nc1,knitwork_june_2024,YOLKTWJVPVNAFB-UHFFFAOYSA-N,place-fail
-19,Cc1ncc(C(=O)N(C)C2CN(C3CCNC3=O)C2)s1,knitwork_june_2024,VLACOELDXIUEQB-UHFFFAOYSA-N,not-found
-20,CCC(C)CC(=O)Nc1ccc(C(=O)N(C)C)cc1,knitwork_june_2024,BOAMHCYETLQJMX-UHFFFAOYSA-N,not-found
-21,CN(C)C(=O)c1ccc(NC(=O)CC(C)(C)C(F)(F)F)c(F)c1,knitwork_june_2024,ILHKCRSAMLMADP-UHFFFAOYSA-N,place-fail
-22,COc1cncc(CCC(=O)NC2CCNC2=O)c1,knitwork_june_2024,UMHURAQUKMFEOS-UHFFFAOYSA-N,not-found
-23,O=C(OCC1CCCNC1=O)c1ccncc1F,knitwork_june_2024,NKHJVGNWKQVXFO-UHFFFAOYSA-N,place-fail
-24,CN1CCC(c2nc(-c3ccncc3)no2)C1=O,knitwork_june_2024,XCTXQFYSMNRKHU-UHFFFAOYSA-N,place-fail
-25,CC(C)(C)C(=O)Nc1ccc(C(=O)NC2(C(F)F)CCC2)cn1,knitwork_june_2024,FLWASAJBVPBCFC-UHFFFAOYSA-N,place-fail
-26,NC(=O)c1cc(NC(=O)C23CCC(CO2)C3)[nH]n1,knitwork_june_2024,IXJHDOWQFHNIPX-UHFFFAOYSA-N,place-fail
-27,Cn1cc(C(O)C(=O)Nc2cccc(NC(=O)CC#N)c2)cn1,knitwork_june_2024,FNVXGPBMKFGEAW-UHFFFAOYSA-N,not-found
-28,CC(=O)N(C)c1ccc(NCc2ccccc2C2CC2)cn1 ,knitwork_june_2024,HEZJZHLSMMYDJW-UHFFFAOYSA-N,place-fail
-29,Cc1ccc(C(=O)Nc2ccc(N3CCNC(=O)C3)nc2)cc1C ,knitwork_june_2024,XPPBWHFHQYXQOT-UHFFFAOYSA-N,place-fail
-30,O=C1CCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)nc1,knitwork_june_2024,AZMOINLCXHZGHV-UHFFFAOYSA-N,place-fail
-31,O=C1CCCN1c1ccc(NCc2cccc(F)c2)nc1,knitwork_june_2024,LOFPJTBPHYUPTQ-UHFFFAOYSA-N,place-fail
-32,CC(=O)Nc1ccc(C(=O)N(C)C)nc1,knitwork_june_2024,ARUJUKWSMBISDK-UHFFFAOYSA-N,not-found
-33,CC(=O)Nc1cc(CC(=O)NCC(NC(=O)CCl)c2ccc3ccccc3c2)c(NC(C)=O)nn1,x1346_manual_analogues_aug_2024,JVZXHYPLNFZOGG-UHFFFAOYSA-N,place-fail
-34,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)NCC(NC(=O)CCl)c1ccc2ccccc2c1,x1346_manual_analogues_aug_2024,TUCPZQSNPSFHQP-UHFFFAOYSA-N,place-fail
-35,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)NCC(NC(=O)CCl)c2ccc3ccccc3c2)c1,x1346_manual_analogues_aug_2024,UXADFTGYSAHHGI-UHFFFAOYSA-N,place-fail
-36,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)NCC(NC(=O)CN)c2ccc3ccccc3c2)c1,x1346_manual_analogues_aug_2024,JOAABFJXAAZIHP-UHFFFAOYSA-N,place-fail
+19,O=C1NCCC1C(=O)N1CCCC(NCc2ccccc2)C1,knitwork_june_2024,HOWRLYKLFLMWBY-UHFFFAOYSA-N,not-found
+20,O=C1NCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)cc1,knitwork_june_2024,ZGAPODHVEGIIKR-UHFFFAOYSA-N,not-found
+21,O=C1NCCN1c1ccc(NCc2cccc(F)c2)cc1,knitwork_june_2024,KKHICEOOLIHEJQ-UHFFFAOYSA-N,not-found
+22,Cc1ncc(C(=O)N(C)C2CN(C3CCNC3=O)C2)s1,knitwork_june_2024,VLACOELDXIUEQB-UHFFFAOYSA-N,not-found
+23,CCC(C)CC(=O)Nc1ccc(C(=O)N(C)C)cc1,knitwork_june_2024,BOAMHCYETLQJMX-UHFFFAOYSA-N,not-found
+24,CN(C)C(=O)c1ccc(NC(=O)CC(C)(C)C(F)(F)F)c(F)c1,knitwork_june_2024,ILHKCRSAMLMADP-UHFFFAOYSA-N,place-fail
+25,COc1cncc(CCC(=O)NC2CCNC2=O)c1,knitwork_june_2024,UMHURAQUKMFEOS-UHFFFAOYSA-N,not-found
+26,O=C(OCC1CCCNC1=O)c1ccncc1F,knitwork_june_2024,NKHJVGNWKQVXFO-UHFFFAOYSA-N,place-fail
+27,CN1CCC(c2nc(-c3ccncc3)no2)C1=O,knitwork_june_2024,XCTXQFYSMNRKHU-UHFFFAOYSA-N,place-fail
+28,CC(C)(C)C(=O)Nc1ccc(C(=O)NC2(C(F)F)CCC2)cn1,knitwork_june_2024,FLWASAJBVPBCFC-UHFFFAOYSA-N,place-fail
+29,NC(=O)c1cc(NC(=O)C23CCC(CO2)C3)[nH]n1,knitwork_june_2024,IXJHDOWQFHNIPX-UHFFFAOYSA-N,place-fail
+30,CC(C)(C)OC1CC(NC(=O)N2CCCC2CS(N)(=O)=O)C1,knitwork_june_2024,AJDWMOBETOFCCQ-UHFFFAOYSA-N,not-found
+31,N#CCC1CC(NC(=O)N2CCCC(CS(N)(=O)=O)C2)C1,knitwork_june_2024,PBKZXBCNWICEAZ-UHFFFAOYSA-N,not-found
+32,NS(=O)(=O)CC1CCCCN1C(=O)NC1(C(F)(F)F)CCC1,knitwork_june_2024,CDEQWWZMXKMRIT-UHFFFAOYSA-N,not-found
+33,Cn1cc(C(O)C(=O)Nc2cccc(NC(=O)CC#N)c2)cn1,knitwork_june_2024,FNVXGPBMKFGEAW-UHFFFAOYSA-N,not-found
+34,CC(=O)N(C)c1ccc(NCc2ccccc2C2CC2)cn1 ,knitwork_june_2024,HEZJZHLSMMYDJW-UHFFFAOYSA-N,place-fail
+35,Cc1ccc(C(=O)Nc2ccc(N3CCNC(=O)C3)nc2)cc1C ,knitwork_june_2024,XPPBWHFHQYXQOT-UHFFFAOYSA-N,place-fail
+36,O=C1CCCN1c1ccc(NCc2ccc(C(F)(F)F)cc2)nc1,knitwork_june_2024,AZMOINLCXHZGHV-UHFFFAOYSA-N,place-fail
+37,O=C1CCCN1c1ccc(NCc2cccc(F)c2)nc1,knitwork_june_2024,LOFPJTBPHYUPTQ-UHFFFAOYSA-N,place-fail
+38,CC(=O)Nc1ccc(C(=O)N(C)C)nc1,knitwork_june_2024,ARUJUKWSMBISDK-UHFFFAOYSA-N,not-found
+39,CC(=O)Nc1cc(CC(=O)NCC(NC(=O)CCl)c2ccc3ccccc3c2)c(NC(C)=O)nn1,x1346_manual_analogues_aug_2024,JVZXHYPLNFZOGG-UHFFFAOYSA-N,place-fail
+40,CC(=O)Nc1nn(C)c(NC(C)=O)c1CC(=O)NCC(NC(=O)CCl)c1ccc2ccccc2c1,x1346_manual_analogues_aug_2024,TUCPZQSNPSFHQP-UHFFFAOYSA-N,place-fail
+41,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)NCC(NC(=O)CCl)c2ccc3ccccc3c2)c1,x1346_manual_analogues_aug_2024,UXADFTGYSAHHGI-UHFFFAOYSA-N,place-fail
+42,CC(=O)Nc1cnc(NC(C)=O)c(CC(=O)NCC(NC(=O)CN)c2ccc3ccccc3c2)c1,x1346_manual_analogues_aug_2024,JOAABFJXAAZIHP-UHFFFAOYSA-N,place-fail
