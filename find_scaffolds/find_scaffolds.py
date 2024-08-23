@@ -94,7 +94,7 @@ def find_to_hippo(base_check_dir: str, inchi: str) -> bool:
     # get the same parent dir that base-check was in
     base_check_home_dir = os.path.dirname(base_check_dir)
     to_hippo: List[str] = glob2.glob(os.path.join(base_check_home_dir, f"{inchi}/*_to_hippo.pkl.gz"))
-    logger.info(to_hippo)
+    logger.info(os.path.join(base_check_home_dir, f"{inchi}/*_to_hippo.pkl.gz"))
     if len(to_hippo) == 0:
         return False
     else:
