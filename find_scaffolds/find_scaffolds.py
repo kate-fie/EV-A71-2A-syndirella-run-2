@@ -17,6 +17,20 @@ from rdkit import Chem
 
 logger = logging.getLogger()
 
+# Set the logging level (e.g., DEBUG, INFO, WARNING, ERROR, CRITICAL)
+logger.setLevel(logging.DEBUG)
+
+# Create a console handler (StreamHandler) and set its level
+console_handler = logging.StreamHandler()
+console_handler.setLevel(logging.DEBUG)
+
+# Create a formatter and set it for the handler
+formatter = logging.Formatter('%(asctime)s - %(name)s - %(levelname)s - %(message)s')
+console_handler.setFormatter(formatter)
+
+# Add the handler to the logger
+logger.addHandler(console_handler)
+
 def get_delta_delta_G(data: dict) -> float:
     # Get the delta delta G value from the JSON file. Accounts for different formats.
     try:
@@ -103,7 +117,7 @@ def make_scaffold_outputs(csv_path: str, home_path: str, output_path: str):
         path_to_mol = None
         inchi: str = row['inchi']
         compound_set: str = row['compound_set']
-        base_check_dirs: List[str]= glob2.glob(os.path.join(home_path, f'**/{inchi}-base-check/'))
+        base_check_dirs: List[str]= glob2.glob(os.path.join(home_path, f'*/{inchi}-base-check/'))
         if len(base_check_dirs) == 0:
             outcome = 'not-found'
         elif len(base_check_dirs) > 1:
