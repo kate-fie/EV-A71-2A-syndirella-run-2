@@ -90,6 +90,16 @@ def format_success_sdf(mol_paths: Dict[str, List[str | float]], output_path: str
     logger.info(f'done writing (if successful) output_path is {path}')
     return path
 
+def find_to_hippo(base_check_dir: str, inchi: str) -> bool:
+    # get the same parent dir that base-check was in
+    base_check_home_dir = os.path.dirname(base_check_dir)
+    to_hippo: List[str] = glob2.glob(os.path.join(base_check_dir, f"{inchi}/*_to_hippo.pkl.gz"))
+    logger.info(to_hippo)
+    if len(to_hippo) == 0:
+        return False
+    else:
+        return True
+
 
 def make_scaffold_outputs(csv_path: str, home_path: str, output_path: str):
     """
@@ -127,6 +137,7 @@ def make_scaffold_outputs(csv_path: str, home_path: str, output_path: str):
                         base_check_dir: str = path
             else:
                 base_check_dir: str = base_check_dirs[0]
+            to_hippo: bool = find_to_hippo(base_check_dir=base_check_dir)
             logger.info(base_check_dir)
             json_path: List[str] = glob2.glob(os.path.join(base_check_dir, '**/*.minimised.json'))
             if len(json_path) == 1:
@@ -153,7 +164,8 @@ def make_scaffold_outputs(csv_path: str, home_path: str, output_path: str):
             'outcome': outcome,
             'ddG': ddG,
             'rmsd': rmsd,
-            'mol_path': path_to_mol
+            'mol_path': path_to_mol,
+            'to_hippo_created': to_hippo
         }
         new_rows.append(new_row)
     # format SDF with success mols
