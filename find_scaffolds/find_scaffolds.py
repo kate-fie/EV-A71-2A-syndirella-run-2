@@ -84,8 +84,8 @@ def format_success_sdf(mol_paths: Dict[str, List[str | float]], output_path: str
             if mol is not None:
                 mol.SetProp('inchi', key)
                 mol.SetProp('compound_set', compound_set)
-                mol.SetProp('ddG', ddG)
-                mol.SetProp('rmsd', rmsd)
+                mol.SetProp('ddG', str(ddG))
+                mol.SetProp('rmsd', str(rmsd))
                 writer.write(mol)
     logger.info(f'done writing (if successful) output_path is {path}')
     return path
