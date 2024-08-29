@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=A71EV2A_x1346_analogues_38
+#SBATCH --job-name=A71EV2A_x1346_analogues_38_test_output
 #SBATCH --chdir=/opt/xchem-fragalysis-2/kfieseler
 #SBATCH --output=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
 #SBATCH --error=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
