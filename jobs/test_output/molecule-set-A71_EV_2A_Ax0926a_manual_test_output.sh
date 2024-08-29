@@ -54,6 +54,8 @@ export INPUT="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/syndi
 export OUTPUT="/opt/xchem-fragalysis-2/kfieseler/A71EV2A_test_aug_2024/molecule-set-A71_EV_2A_Ax0926a_manual";
 export TEMPLATES="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/templates";
 export HITS="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/A71EV2A_combined.sdf";
+export METADATA="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/metadata.csv";
+export BATCH_NUM=50;
 
 echo "Running molecule-set-A71_EV_2A_Ax0926a_manual";
 
@@ -61,8 +63,9 @@ nice -19 python -m syndirella \
 --input $INPUT \
 --output $OUTPUT \
 --templates $TEMPLATES \
---hits $HITS \
---compound_set \
---manual;
+--hits_path $HITS \
+--metadata $METADATA \
+--batch_num $BATCH_NUM \
+--compound_set;
 
 echo 'COMPLETE'
