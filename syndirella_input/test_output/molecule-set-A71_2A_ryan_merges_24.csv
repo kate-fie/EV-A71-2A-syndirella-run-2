@@ -1,0 +1,25 @@
+smiles,template,compound_set,,hit1,hit2,hit3
+NC(=O)C1CCCN(C(=O)c2ccc(Cl)c(C(=O)CN3CCCC3)c2)C1,Ax0926a,x0926 merge into p1’,,Ax0926a,Ax1140a,
+NC(=O)C1CCCN(C(=O)c2cccc(O)c2C(=O)NC2CC2)C1,Ax0926a,x0926 going down p1,,Ax0926a,Ax1292a,
+NC(=O)C1CCCN(C(=O)c2cccc(O)c2C(=O)NCc2ccccc2)C1,Ax0926a,x0926 going down p1,,Ax0926a,Ax0836a,
+C[n+]1ccc(C(=O)N2CCCC(C(N)=O)C2Cl)[nH]1,Ax0926a,X0926 and x1346,,Ax0926a,Ax1346a,
+NC(=O)C1CCCN(C(=O)Cc2[nH]ncc2CC(=O)NC2CC2)C1,Ax0926a,X0926 and x1346,,Ax0926a,Ax1346a,
+O=C(Cc1cn[nH]c1CC(=O)N1CCCC(C(F)(F)F)C1)NC1CC1,Ax0926a,X0926 and x1346,,Ax0926a,Ax1346a,
+O=C(Cc1cn[nH]c1CC(=O)N1CCCC(C(F)(F)F)C1)NC1CC1,Ax0926a,X0926 and x1347and x1019,,Ax0926a,Ax1346a,Ax1019a
+CC(=O)Nc1ccccc1CCS(N)(=O)=O,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(F)cncc1CCS(N)(=O)=O,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(F)cncc1C(C)CS(N)(=O)=O,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(CCS(=O)(=O)Cc2ccccc2)cnnc1F,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(CCS(=O)(=O)Cc2ccccc2)cnnc1C,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(C(C)CS(=O)(=O)Cc2ccccc2)cnnc1C,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(CCS(=O)(=O)CC2CCCC2)cnnc1F,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(CCS(=O)(=O)CNC2CCCC2)cnnc1F,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(C)cncc1CCS(=O)(=O)CNC1CCCC1,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(C(C)CS(=O)(=O)CNC2CCCC2)cnnc1F,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+N#CCC(=O)Nc1c(F)cncc1CCS(N)(=O)=O,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,Ax0310a
+N#CCC(=O)Nc1c(CCS(N)(=O)=O)cnnc1F,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,Ax0310a
+CC(CS(N)(=O)=O)c1cncc(F)c1NC(=O)CC#N,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,Ax0310a
+Cc1cncc(C(C)CS(N)(=O)=O)c1NC(=O)CC#N,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,Ax0310a
+CC(=O)Nc1c(CCS(=O)(=O)NCC2CCCC2)cnnc1F,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(C)cncc1CCS(=O)(=O)NCC1CCCC1,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,
+CC(=O)Nc1c(C(C)CS(=O)(=O)NCC2CCCC2)cnnc1F,Ax0487a,x0487 P2 extension,,Ax0487a,Ax0719a,

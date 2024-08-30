@@ -50,12 +50,12 @@ conda info
 cd $HOME2/syndirella
 pwd;
 
-export INPUT="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/syndirella_input/molecule-set-A71_2A_ryan_merges_24.csv";
+export INPUT="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/syndirella_input/test_output/molecule-set-A71_2A_ryan_merges_24.csv";
 export OUTPUT="/opt/xchem-fragalysis-2/kfieseler/A71EV2A_test_aug_2024/molecule-set-A71_2A_ryan_merges_24";
 export TEMPLATES="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/templates";
 export HITS="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/A71EV2A_combined.sdf";
 export METADATA="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/metadata.csv";
-export BATCH_NUM=50;
+export BATCH_NUM=10;
 
 echo "Running molecule-set-A71_2A_ryan_merges_24.csv";
 
