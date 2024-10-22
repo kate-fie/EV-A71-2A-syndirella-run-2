@@ -1,2 +1,2 @@
 ,smiles,template,compound_set,hit1,hit2,hit3,short_hits
-61,CN(C)C(=O)c1ccc(NC(=O)CC(C)(C)C(F)(F)F)c(F)c1,Ax0310a,knitwork_june_2024_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,Ax0450a,Ax0310a,,Ax0450a Ax0310a
+61,COc1cncc(CCC(=O)NC2CCNC2=O)c1,A0310a,knitwork_june_2024_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,A0515a,A0528a,,Ax0515a Ax0528a

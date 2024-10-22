@@ -1,2 +1,2 @@
 ,smiles,template,compound_set,hit1,hit2,hit3,short_hits
-84,NC(=O)C1CCCN(C(=O)c2ccc(Cl)c(C(=O)CN3CCCC3)c2)C1,Ax0926a,x0926 merge into p1’_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,Ax0926a,Ax1140a,,Ax0926a Ax1140a
+84,NC(=O)C1CCCN(C(=O)c2cccc(O)c2C(=O)NC2CC2)C1,A0926a,x0926 going down p1_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,A0926a,A1292a,,Ax0926a Ax1292a

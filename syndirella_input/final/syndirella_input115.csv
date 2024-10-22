@@ -1,2 +1,2 @@
 ,smiles,template,compound_set,hit1,hit2,hit3,short_hits
-115,O=C1COc2ccc(C(=O)CCl)cc2N1,x1779a,covalent_analogues_aug_2024_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,A71EV2A-x1779_A_201_1_A71EV2A-x0526+A+147+1,,,
+115,CCOc1ccc(C(C)=O)cc1,A1775a,covalent_analogues_aug_2024_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,A1775a,,,

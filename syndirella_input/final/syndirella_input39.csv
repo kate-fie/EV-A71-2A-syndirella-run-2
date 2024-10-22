@@ -1,2 +1,2 @@
 ,smiles,template,compound_set,hit1,hit2,hit3,short_hits
-39,Cc1nn(C)c(C)c1CC(=O)N[C@@H](CNC(=O)CCl)c1ccc2ccccc2c1 |a:12|,Ax1346a,exact_hits_aug_2024_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,A71EV2A-x1346_A_250_1_A71EV2A-x0526+A+147+1,,,
+39,COc1cc(NC(=O)C[C@@H](C)C(F)(F)F)n(C)n1 |a:9|,A1445a,exact_hits_aug_2024_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,A1445a,,,
