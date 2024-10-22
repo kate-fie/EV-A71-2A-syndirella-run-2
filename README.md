@@ -36,7 +36,7 @@ All outputs are in `/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5`.
 Running the script:
 ```bash
 chmod +x run_jobs.sh
-./run_jobs.sh jobs/job.txt /opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/jobs_sept16_restart
+./run_jobs.sh jobs/job.txt /opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/jobs
 ```
 
 # OLD – DISREGARD BELOW
