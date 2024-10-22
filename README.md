@@ -18,6 +18,9 @@ The following compound sets will be elaborated:
 
 Compound sets are found in the `syndirella_input` folder.
 
+## Preparation
+To update the old csvs and formats to the new Fragalysis download I used [221024_prepare_inputs.ipynb](preparation/221024_prepare_inputs.ipynb).
+
 ## Templates
 - Not all compounds have the same template.
 
