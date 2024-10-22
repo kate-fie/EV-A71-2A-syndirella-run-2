@@ -30,6 +30,12 @@ Algorithm to choose template goes as follows:
 ## Running
 All outputs are in `/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5`.
 
+Running the script:
+```bash
+chmod +x run_jobs.sh
+./run_jobs.sh jobs/job.txt /opt/xchem-fragalysis-2/kfieseler/CHIKV-Mac-syndirella-run/jobs_sept16_restart
+```
+
 # OLD – DISREGARD BELOW
 ## Summary
 Matteo has found compounds close to fragments that are starting reactants with functional groups of:
