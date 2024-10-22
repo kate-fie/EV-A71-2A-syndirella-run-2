@@ -1,5 +1,7 @@
 # EV-A71-2A-syndirella-run-2
 
+**Redownloaded from Fragalysis on 22-10-2024**
+
 ## Summary
 
 The following compound sets will be elaborated:
