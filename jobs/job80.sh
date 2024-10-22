@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=A71EV2A
+#SBATCH --job-name=EVA712A
 #SBATCH --chdir=/opt/xchem-fragalysis-2/kfieseler
 #SBATCH --output=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-log_%x_%j.log
 #SBATCH --error=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
@@ -14,7 +14,6 @@
 # extras
 ##SBATCH --nodes=1
 ##SBATCH --exclusive
-##SBATCH --mem=<memory>
 ##SBATCH --mem-per-cpu=<memory>
 ##SBATCH --gres=gpu:1
 ##SBATCH --constraint=<constraint>
@@ -51,22 +50,19 @@ conda info
 cd $HOME2/syndirella
 pwd;
 
-export INPUT="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/syndirella_input/test_output/A71EV2A_Knitwork_June_221024_42.csv";
-export OUTPUT="/opt/xchem-fragalysis-2/kfieseler/A71EV2A_test_aug_2024/A71EV2A_Knitwork_June_221024_42";
+export INPUT="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/syndirella_input/final/syndirella_input80.csv"
+export OUTPUT="/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/"
 export TEMPLATES="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/templates";
 export HITS="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/A71EV2A_combined.sdf";
 export METADATA="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/metadata.csv";
-export BATCH_NUM=50;
 
-echo "Running A71EV2A_Knitwork_June_42.csv";
+echo "Running input80.csv";
 
 nice -19 python -m syndirella \
 --input $INPUT \
 --output $OUTPUT \
 --templates $TEMPLATES \
---hits_path $HITS \
---metadata $METADATA \
---batch_num $BATCH_NUM \
---compound_set;
+--hits $HITS \
+--metadata $METADATA;
 
 echo 'COMPLETE'

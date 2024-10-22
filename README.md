@@ -4,15 +4,14 @@
 
 The following compound sets will be elaborated:
 
-| Creator           | Description                                                              | Number of compounds       | Status |
-|-------------------|--------------------------------------------------------------------------|---------------------------|-------|
-| Kate              | `x1346` analogues designed manually                                      | 38                        | 🟧    | 
-| Ryan              | Various fragment analogues designed manually                             | 26                        | 🟧    |
-| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 42                        | 🟧    |
-| Warren (Kate)     | Covalent hits as themselves and non-covalent, ketone, aldehyde analogues | 16                        | 🟩    |
-| Kate              | `x1346a x1431a x1445a` P2 hits                                           | 3                         | 🟩   |
-| Kate              | `x0926` fragment w/ manual amidation route                               | 1                         | 🟩    |
-| Steph (Ryan, Max) | Knitwork compounds that had a wrong fragment name spec.                  | 9 (not included in total) | 🟧    |
+| Creator           | Description                                                              | Number of compounds       |
+|-------------------|--------------------------------------------------------------------------|---------------------------|
+| Kate              | `x1346` analogues designed manually                                      | 38                        | 
+| Ryan              | Various fragment analogues designed manually                             | 26                        |
+| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 42                        |
+| Warren (Kate)     | Covalent hits as themselves and non-covalent, ketone, aldehyde analogues | 16                        |
+| Kate              | `x1346a x1431a x1445a` P2 hits                                           | 3                         |
+| Kate              | `x0926` fragment w/ manual amidation route                               | 1                         |
 |                   |                                                                          | Total: 124                |
 
 Compound sets are found in the `syndirella_input` folder.
