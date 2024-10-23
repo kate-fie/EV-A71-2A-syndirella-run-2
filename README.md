@@ -22,7 +22,7 @@ Compound sets are found in the `syndirella_input` folder.
 To update the old csvs and formats to the new Fragalysis download I used [221024_prepare_inputs.ipynb](preparation/221024_prepare_inputs.ipynb).
 I added exact long codes as the hit names in the input csvs. 
 
-Note: I had to create [A71EV2A_combined_aligned.sdf](fragments/A71EV2A_combined_aligned.sdf) as the original `A71EV2A_combined_aligned.sdf` was missing $$$$ as delineators. 
+Note: I had to create [A71EV2A_combined_aligned.sdf](fragments/A71EV2A_combined_aligned.sdf) from mol files in aligned_files as the original `A71EV2A_combined_aligned.sdf` was missing $$$$ as delineators. 
 
 ## Templates
 - Not all compounds have the same template.
