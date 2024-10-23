@@ -1,25 +1,28 @@
 # EV-A71-2A-syndirella-run-2
 
-**Redownloaded from Fragalysis on 22-10-2024**
+**Redownloaded from Fragalysis on 23-10-2024**
 
 ## Summary
 
 The following compound sets will be elaborated:
 
-| Creator           | Description                                                              | Number of compounds |
-|-------------------|--------------------------------------------------------------------------|---------------------|
-| Kate              | `x1346` analogues designed manually                                      | 38                  | 
-| Ryan              | Various fragment analogues designed manually                             | 26                  |
-| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | 42                  |
-| Warren (Kate)     | Covalent hits as themselves and non-covalent, ketone, aldehyde analogues | 16                  |
-| Kate              | `x1346a x1445a` P2 hits                                                  | 2                   |
-| Kate              | `x0926` fragment w/ manual amidation route                               | 1                   |
-|                   |                                                                          | Total: 123          |
+| Creator           | Description                                                             | Compound set                    | Number of compounds |
+|-------------------|-------------------------------------------------------------------------|---------------------------------|---------------------|
+| Kate              | `x1346` analogues designed manually                                     | x1346_manual_analogues_aug_2024 | 37                  | 
+| Ryan              | Various fragment analogues designed manually                            | *ryan_mergers_aug_2024          | 26                  |
+| Steph (Ryan, Max) | Knitwork compounds that were slightly modified and screened with no hits | knitwork_june_2024              | 42                  |
+| Warren (Kate)     | Covalent hits as themselves and non-covalent, ketone, aldehyde analogues | covalent_analogues_aug_2024     | 16                  |
+| Kate              | `x1346a x1445a` P2 hits                                                  | exact_hits_aug_2024             | 2                   |
+| Kate              | `x0926a` fragment w/ manual amidation route                             | exact_hits_aug_2024             | 1                   |
+|                   |                                                                         |                                 | Total: 123          |
 
 Compound sets are found in the `syndirella_input` folder.
 
 ## Preparation
 To update the old csvs and formats to the new Fragalysis download I used [221024_prepare_inputs.ipynb](preparation/221024_prepare_inputs.ipynb).
+I added exact long codes as the hit names in the input csvs. 
+
+Note: I had to create [A71EV2A_combined_aligned.sdf](fragments/A71EV2A_combined_aligned.sdf) as the original `A71EV2A_combined_aligned.sdf` was missing $$$$ as delineators. 
 
 ## Templates
 - Not all compounds have the same template.

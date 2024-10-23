@@ -1,2 +1,2 @@
 ,smiles,template,compound_set,hit1,hit2,hit3,short_hits
-98,CC(=O)Nc1c(C)cncc1CCS(=O)(=O)CNC1CCCC1,A0487a,x0487 P2 extension_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,A0487a,A0719a,,Ax0487a Ax0719a
+98,CC(=O)Nc1c(C)cncc1CCS(=O)(=O)CNC1CCCC1,A0487a,x0487_P2_extension_ryan_mergers_aug_2024,A71EV2A-x0487_A_250_1_A71EV2A-x0526+A+147+1,A71EV2A-x0719_A_301_1_A71EV2A-x0526+A+147+1,,Ax0487a Ax0719a

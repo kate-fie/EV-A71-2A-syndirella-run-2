@@ -1,2 +1,2 @@
 ,smiles,template,compound_set,hit1,hit2,hit3,short_hits
-88,O=C(Cc1cn[nH]c1CC(=O)N1CCCC(C(F)(F)F)C1)NC1CC1,A0926a,X0926 and x1346_molecule-set-A71_EV_2A_covalent_and_noncovalents_221024_16,A0926a,A1346a,,Ax0926a Ax1346a
+88,O=C(Cc1cn[nH]c1CC(=O)N1CCCC(C(F)(F)F)C1)NC1CC1,A0926a,X0926_and_x1346_ryan_mergers_aug_2024,A71EV2A-x0926_A_250_1_A71EV2A-x0526+A+147+1,A71EV2A-x1346_A_250_1_A71EV2A-x0526+A+147+1,,Ax0926a Ax1346a
