@@ -1,0 +1,17 @@
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/VCDNITPVWFDANN-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/UXADFTGYSAHHGI-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/OGEFHXQNNGIDQK-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/RSVKCRFNQMHJGM-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/CBLWINMXWBVKNE-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/OQOLMCJQPJBXLR-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/XIORHBOCOFRYFD-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/YUFCPORBLIBJSD-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/UQJYZDUPODIDKG-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/UQJYZDUPODIDKG-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/JVZXHYPLNFZOGG-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/BEZTZAGGDXJGFO-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/RHANAJVRLKPORR-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/CMGPOYUFCPYGSH-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/VNCZFLFCYKVYPW-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/YUFCPORBLIBJSD-UHFFFAOYSA-N
+/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5/SRKRLPVCPSZUQN-UHFFFAOYSA-N

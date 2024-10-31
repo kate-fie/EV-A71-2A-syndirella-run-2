@@ -1,6 +1,6 @@
 #!/bin/bash
 
-#SBATCH --job-name=EVA712A
+#SBATCH --job-name=dirs
 #SBATCH --chdir=/opt/xchem-fragalysis-2/kfieseler
 #SBATCH --output=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-log_%x_%j.log
 #SBATCH --error=/opt/xchem-fragalysis-2/kfieseler/logs/slurm-error_%x_%j.log
@@ -8,7 +8,6 @@
 #SBATCH --partition=main
 #SBATCH --ntasks=1
 #SBATCH --cpus-per-task=1
-#SBATCH --mem=10GB
 ##SBATCH --time=01:00:00
 
 # extras
@@ -47,22 +46,27 @@ conda activate syndirella
 conda info
 # -------------------------------------------------------
 
-cd $HOME2/syndirella
+cd $HOME2/EV-A71-2A-syndirella-run-2/clean_up_A71EV2A_run5
 pwd;
 
-export INPUT="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/syndirella_input/final/syndirella_input57.csv"
-export OUTPUT="/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5_1/"
-export TEMPLATES="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/templates";
-export HITS="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/A71EV2A_combined_aligned.sdf";
-export METADATA="/opt/xchem-fragalysis-2/kfieseler/EV-A71-2A-syndirella-run-2/fragments/metadata.csv";
+# Specify the file that contains the list of directories
+DIR_LIST="dirs_to_delete.txt"
 
-echo "Running input57.csv";
+# Check if the file exists
+if [[ ! -f $DIR_LIST ]]; then
+    echo "Directory list file $DIR_LIST does not exist."
+    exit 1
+fi
 
-nice -19 python -m syndirella \
---input $INPUT \
---output $OUTPUT \
---templates $TEMPLATES \
---hits $HITS \
---metadata $METADATA;
+# Loop through each line in the file and delete the directory
+while IFS= read -r dir; do
+    # Check if the directory exists before attempting to delete
+    if [[ -d $dir ]]; then
+        echo "Deleting directory: $dir"
+        rm -rf "$dir"
+    else
+        echo "Directory $dir does not exist, skipping."
+    fi
+done < "$DIR_LIST"
 
-echo 'COMPLETE'
+echo "Directory deletion completed."

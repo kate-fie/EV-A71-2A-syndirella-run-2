@@ -16,7 +16,8 @@ The following compound sets will be elaborated:
 | Kate              | `x0926a` fragment w/ manual amidation route                             | exact_hits_aug_2024             | 1                   |
 |                   |                                                                         |                                 | Total: 123          |
 
-Compound sets are found in the `syndirella_input` folder.
+Master csv: [master_syndirella_input_231024.csv](syndirella_input/master_syndirella_input_231024.csv)
+Scaffold inputs are found in the `syndirella_input` folder.
 
 ## Preparation
 To update the old csvs and formats to the new Fragalysis download I used [221024_prepare_inputs.ipynb](preparation/221024_prepare_inputs.ipynb).
@@ -34,7 +35,13 @@ Algorithm to choose template goes as follows:
 - If the compound is a Knitwork compound, the template is Ax0130 (as that is what was used for original placement).
 
 ## Running
-All outputs are in `/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5`.
+All outputs are in `/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5` or `/opt/xchem-fragalysis-2/kfieseler/A71EV2A_run5_1`
+
+### 31 October 2024:
+- There was a common error of `x_rNone_smiles` this had to be debugged and is due to a branched format of the retrosynthesis route.
+- Therefore, I am rerunning these scaffolds with now a proper error catching mechanism after [updating syndirella](https://github.com/kate-fie/syndirella/commit/3429f2b4869c7bcb7e5dbd82b57eb45d6d6a55a8).
+- I am also starting the scaffolds never found in the first run (most likely due to the hit column not being found correctly). 
+- I'm using [311024_prepare_input.ipynb](preparation/311024_prepare_input.ipynb) to prepare the input.
 
 Running the script:
 ```bash
